@@ -1,0 +1,59 @@
+{
+    status: true,
+    nomor: 110,
+    nama: "النصر",
+    nama_latin: "An-Nasr",
+    jumlah_ayat: 3,
+    tempat_turun: "madinah",
+    arti: "Pertolongan",
+    deskripsi: "Surat An Nashr terdiri atas 3 ayat, termasuk golongan surat-surat  Madaniyyah yang diturunkan di Mekah sesudah surat At Taubah.  Dinamai <i>An Nashr</i> (pertolongan) diambil dari perkataan <i>Nashr</i> yang  terdapat pada ayat pertama surat ini.",
+    audio: "https://santrikoding.com/storage/audio/110.mp3",
+    ayat: [
+    {
+    id: 6214,
+    surah: 110,
+    nomor: 1,
+    ar: "اِذَا جَاۤءَ نَصْرُ اللّٰهِ وَالْفَتْحُۙ",
+    tr: "i<u>dzaa</u> j<u>aa</u>-a na<u>sh</u>ru <strong>al</strong>l<u>aa</u>hi wa<strong>a</strong>lfat<u>h</u><strong>u</strong>",
+    idn: "Apabila telah datang pertolongan Allah dan kemenangan,"
+    },
+    {
+    id: 6215,
+    surah: 110,
+    nomor: 2,
+    ar: "وَرَاَيْتَ النَّاسَ يَدْخُلُوْنَ فِيْ دِيْنِ اللّٰهِ اَفْوَاجًاۙ",
+    tr: "wara-ayta <strong>al</strong>nn<u>aa</u>sa yadkhuluuna fii diini <strong>al</strong>l<u>aa</u>hi afw<u>aa</u>j<u>aa</u><strong>n</strong>",
+    idn: "dan engkau melihat manusia berbondong-bondong masuk agama Allah,"
+    },
+    {
+    id: 6216,
+    surah: 110,
+    nomor: 3,
+    ar: "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُۗ اِنَّهٗ كَانَ تَوَّابًا ࣖ",
+    tr: "fasabbi<u>h</u> bi<u>h</u>amdi rabbika wa<strong>i</strong>staghfirhu innahu k<u>aa</u>na taww<u>aa</u>b<u>aa</u><strong>n</strong>",
+    idn: "maka bertasbihlah dalam dengan Tuhanmu dan mohonlah ampunan kepada-Nya. Sungguh, Dia Maha Penerima tobat."
+    }
+    ],
+    surat_selanjutnya: {
+    id: 111,
+    nomor: 111,
+    nama: "اللهب",
+    nama_latin: "Al-Lahab",
+    jumlah_ayat: 5,
+    tempat_turun: "mekah",
+    arti: "Api Yang Bergejolak",
+    deskripsi: "Surat ini terdiri atas 5 ayat, termasuk golongan surat-surat Makkiyyah,  diturunkan sesudah surat Al Fath. Nama <i>Al Lahab</i> diambil dari kata  <i>Al Lahab</i> yang terdapat pada ayat ketiga surat ini yang artinya gejolak  api. Surat ini juga dinamakan surat <i>Al Masad</i>.",
+    audio: "https://santrikoding.com/storage/audio/111.mp3"
+    },
+    surat_sebelumnya: {
+    id: 109,
+    nomor: 109,
+    nama: "الكٰفرون",
+    nama_latin: "Al-Kafirun",
+    jumlah_ayat: 6,
+    tempat_turun: "mekah",
+    arti: "Orang-Orang kafir",
+    deskripsi: "Surat Al Kaafiruun terdiri atas 6 ayat, termasuk golongan surat-surat  Makkiyyah, diturunkan sesudah surat Al Maa'uun. Dinamai <i>Al Kaafiruun</i> (orang-orang kafir), diambil dari perkataan  <i>Al Kaafiruun</i> yang terdapat pada ayat pertama surat ini.",
+    audio: "https://santrikoding.com/storage/audio/109.mp3"
+    }
+    }

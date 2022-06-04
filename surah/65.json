@@ -1,0 +1,131 @@
+{
+    status: true,
+    nomor: 65,
+    nama: "الطلاق",
+    nama_latin: "At-Talaq",
+    jumlah_ayat: 12,
+    tempat_turun: "madinah",
+    arti: "Talak",
+    deskripsi: "Surat ini terdiri atas 12 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Insaan. Dinamai surat <i>Ath Thalaaq</i> karena kebanyakan ayat-ayatnya mengenai masalah talak dan yang berhubungan dengan masalah itu.",
+    audio: "https://santrikoding.com/storage/audio/065.mp3",
+    ayat: [
+    {
+    id: 5218,
+    surah: 65,
+    nomor: 1,
+    ar: "يٰٓاَيُّهَا النَّبِيُّ اِذَا طَلَّقْتُمُ النِّسَاۤءَ فَطَلِّقُوْهُنَّ لِعِدَّتِهِنَّ وَاَحْصُوا الْعِدَّةَۚ وَاتَّقُوا اللّٰهَ رَبَّكُمْۚ  لَا تُخْرِجُوْهُنَّ مِنْۢ بُيُوْتِهِنَّ وَلَا يَخْرُجْنَ اِلَّآ اَنْ يَّأْتِيْنَ بِفَاحِشَةٍ مُّبَيِّنَةٍۗ وَتِلْكَ",
+    tr: "y<u>aa</u> ayyuh<u>aa</u> <strong>al</strong>nnabiyyu i<u>dzaa</u> <u>th</u>allaqtumu <strong>al</strong>nnis<u>aa</u>-a fa<u>th</u>alliquuhunna li'iddatihinna wa-a<u>hs</u>uu <strong>a</strong>l'iddata wa<strong>i</strong>ttaquu <strong>al</strong>l<u>aa</u>ha rabbakum l<u>aa</u> tukhrijuuhunna min buyuutihinna wal<u>aa</u> yakhrujna ill<u>aa</u> an ya/tiina bif<u>aah</u>isyatin mubayyinatin watilka <u>h</u>uduudu <strong>al</strong>l<u>aa</u>hi waman yata'adda <u>h</u>uduuda <strong>al</strong>l<u>aa</u>hi faqad <u>zh</u>alama nafsahu l<u>aa</u> tadrii la'alla <strong>al</strong>l<u>aa</u>ha yu<u>h</u>ditsu ba'da <u>dzaa</u>lika amr<u>aa</u><strong>n</strong>",
+    idn: "Wahai Nabi! Apabila kamu menceraikan istri-istrimu maka hendaklah kamu ceraikan mereka pada waktu mereka dapat (menghadapi) idahnya (yang wajar), dan hitunglah waktu idah itu, serta bertakwalah kepada Allah Tuhanmu. Janganlah kamu keluarkan mereka dari rumahnya dan janganlah (diizinkan) keluar kecuali jika mereka mengerjakan perbuatan keji yang jelas. Itulah hukum-hukum Allah, dan barangsiapa melanggar hukum-hukum Allah, maka sungguh, dia telah berbuat zalim terhadap dirinya sendiri. Kamu tidak mengetahui barangkali setelah itu Allah mengadakan suatu ketentuan yang baru. "
+    },
+    {
+    id: 5219,
+    surah: 65,
+    nomor: 2,
+    ar: "فَاِذَا بَلَغْنَ اَجَلَهُنَّ فَاَمْسِكُوْهُنَّ بِمَعْرُوْفٍ اَوْ فَارِقُوْهُنَّ بِمَعْرُوْفٍ وَّاَشْهِدُوْا ذَوَيْ عَدْلٍ مِّنْكُمْ وَاَقِيْمُوا الشَّهَادَةَ لِلّٰهِ ۗذٰلِكُمْ يُوْعَظُ بِهٖ مَنْ كَانَ يُؤْمِنُ بِاللّٰهِ وَالْيَوْمِ الْاٰخِرِ ەۗ وَمَنْ يَّ",
+    tr: "fa-i<u>dzaa</u> balaghna ajalahunna fa-amsikuuhunna bima'ruufin aw f<u>aa</u>riquuhunna bima'ruufin wa-asyhiduu <u>dz</u>away 'adlin minkum wa-aqiimuu <strong>al</strong>sysyah<u>aa</u>data lill<u>aa</u>hi <u>dzaa</u>likum yuu'a<u>zh</u>u bihi man k<u>aa</u>na yu/minu bi<strong>al</strong>l<u>aa</u>hi wa<strong>a</strong>lyawmi <strong>a</strong>l-<u>aa</u>khiri waman yattaqi <strong>al</strong>l<u>aa</u>ha yaj'al lahu makhraj<u>aa</u><strong>n</strong>",
+    idn: "Maka apabila mereka telah mendekati akhir idahnya, maka rujuklah (kembali kepada) mereka dengan baik atau lepaskanlah mereka dengan baik dan persaksikanlah dengan dua orang saksi yang adil di antara kamu dan hendaklah kamu tegakkan kesaksian itu karena Allah. Demikianlah pengajaran itu diberikan bagi orang yang beriman kepada Allah dan hari akhirat. Barangsiapa bertakwa kepada Allah niscaya Dia akan membukakan jalan keluar baginya, "
+    },
+    {
+    id: 5220,
+    surah: 65,
+    nomor: 3,
+    ar: "وَّيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُۗ وَمَنْ يَّتَوَكَّلْ عَلَى اللّٰهِ فَهُوَ حَسْبُهٗ ۗاِنَّ اللّٰهَ بَالِغُ اَمْرِهٖۗ قَدْ جَعَلَ اللّٰهُ لِكُلِّ شَيْءٍ قَدْرًا ",
+    tr: "wayarzuqhu min <u>h</u>aytsu l<u>aa</u> ya<u>h</u>tasibu waman yatawakkal 'al<u>aa</u> <strong>al</strong>l<u>aa</u>hi fahuwa <u>h</u>asbuhu inna <strong>al</strong>l<u>aa</u>ha b<u>aa</u>lighu amrihi qad ja'ala <strong>al</strong>l<u>aa</u>hu likulli syay-in qadr<u>aa</u><strong>n</strong>",
+    idn: "dan Dia memberinya rezeki dari arah yang tidak disangka-sangkanya. Dan barangsiapa bertawakal kepada Allah, niscaya Allah akan mencukupkan (keperluan)nya. Sesungguhnya Allah melaksanakan urusan-Nya. Sungguh, Allah telah mengadakan ketentuan bagi setiap sesuatu. "
+    },
+    {
+    id: 5221,
+    surah: 65,
+    nomor: 4,
+    ar: "وَالّٰۤـِٔيْ يَىِٕسْنَ مِنَ الْمَحِيْضِ مِنْ نِّسَاۤىِٕكُمْ اِنِ ارْتَبْتُمْ فَعِدَّتُهُنَّ ثَلٰثَةُ اَشْهُرٍۙ وَّالّٰۤـِٔيْ لَمْ يَحِضْنَۗ وَاُولَاتُ الْاَحْمَالِ اَجَلُهُنَّ اَنْ يَّضَعْنَ حَمْلَهُنَّۗ وَمَنْ يَّتَّقِ اللّٰهَ يَجْعَلْ لَّهٗ مِنْ اَمْرِه",
+    tr: "wa<strong>a</strong>ll<u>aa</u>-ii ya-isna mina <strong>a</strong>lma<u>h</u>ii<u>dh</u>i min nis<u>aa</u>-ikum ini irtabtum fa'iddatuhunna tsal<u>aa</u>tsatu asyhurin wa<strong>a</strong>ll<u>aa</u>-ii lam ya<u>h</u>i<u>dh</u>na waul<u>aa</u>tu <strong>a</strong>l-a<u>h</u>m<u>aa</u>li ajaluhunna an ya<u>dh</u>a'na <u>h</u>amlahunna waman yattaqi <strong>al</strong>l<u>aa</u>ha yaj'al lahu min amrihi yusr<u>aa</u><strong>n</strong>",
+    idn: "Perempuan-perempuan yang tidak haid lagi (menopause) di antara istri-istrimu jika kamu ragu-ragu (tentang masa idahnya) maka idahnya adalah tiga bulan; dan begitu (pula) perempuan-perempuan yang tidak haid. Sedangkan perempuan-perempuan yang hamil, waktu idah mereka itu ialah sampai mereka melahirkan kandungannya. Dan barangsiapa bertakwa kepada Allah, niscaya Dia menjadikan kemudahan baginya dalam urusannya. "
+    },
+    {
+    id: 5222,
+    surah: 65,
+    nomor: 5,
+    ar: "ذٰلِكَ اَمْرُ اللّٰهِ اَنْزَلَهٗٓ اِلَيْكُمْۗ وَمَنْ يَّتَّقِ اللّٰهَ يُكَفِّرْ عَنْهُ سَيِّاٰتِهٖ وَيُعْظِمْ لَهٗٓ اَجْرًا ",
+    tr: "<u>dzaa</u>lika amru <strong>al</strong>l<u>aa</u>hi anzalahu ilaykum waman yattaqi <strong>al</strong>l<u>aa</u>ha yukaffir 'anhu sayyi-<u>aa</u>tihi wayu'<u>zh</u>im lahu ajr<u>aa</u><strong>n</strong>",
+    idn: "Itulah perintah Allah yang diturunkan-Nya kepada kamu; barangsiapa bertakwa kepada Allah, niscaya Allah akan menghapus kesalahan-kesalahannya dan akan melipatgandakan pahala baginya. "
+    },
+    {
+    id: 5223,
+    surah: 65,
+    nomor: 6,
+    ar: "اَسْكِنُوْهُنَّ مِنْ حَيْثُ سَكَنْتُمْ مِّنْ وُّجْدِكُمْ وَلَا تُضَاۤرُّوْهُنَّ لِتُضَيِّقُوْا عَلَيْهِنَّۗ وَاِنْ كُنَّ اُولَاتِ حَمْلٍ فَاَنْفِقُوْا عَلَيْهِنَّ حَتّٰى يَضَعْنَ حَمْلَهُنَّۚ فَاِنْ اَرْضَعْنَ لَكُمْ فَاٰتُوْهُنَّ اُجُوْرَهُنَّۚ وَأْتَمِر",
+    tr: "askinuuhunna min <u>h</u>aytsu sakantum min wujdikum wal<u>aa</u> tu<u>daa</u>rruuhunna litu<u>dh</u>ayyiquu 'alayhinna wa-in kunna ul<u>aa</u>ti <u>h</u>amlin fa-anfiquu 'alayhinna <u>h</u>att<u>aa</u> ya<u>dh</u>a'na <u>h</u>amlahunna fa-in ar<u>dh</u>a'na lakum fa<u>aa</u>tuuhunna ujuurahunna wa/tamiruu baynakum bima'ruufin wa-in ta'<u>aa</u>sartum fasatur<u>dh</u>i'u lahu ukhr<u>aa</u>",
+    idn: "Tempatkanlah mereka (para istri) di mana kamu bertempat tinggal menurut kemampuanmu dan janganlah kamu menyusahkan mereka untuk menyempitkan (hati) mereka. Dan jika mereka (istri-istri yang sudah ditalak) itu sedang hamil, maka berikanlah kepada mereka nafkahnya sampai mereka melahirkan, kemudian jika mereka menyusukan (anak-anak)mu maka berikanlah imbalannya kepada mereka; dan musyawarahkanlah di antara kamu (segala sesuatu) dengan baik; dan jika kamu menemui kesulitan, maka perempuan lain boleh menyusukan (anak itu) untuknya. "
+    },
+    {
+    id: 5224,
+    surah: 65,
+    nomor: 7,
+    ar: "لِيُنْفِقْ ذُوْ سَعَةٍ مِّنْ سَعَتِهٖۗ وَمَنْ قُدِرَ عَلَيْهِ رِزْقُهٗ فَلْيُنْفِقْ مِمَّآ اٰتٰىهُ اللّٰهُ ۗ لَا يُكَلِّفُ اللّٰهُ نَفْسًا اِلَّا مَآ اٰتٰىهَاۗ سَيَجْعَلُ اللّٰهُ بَعْدَ عُسْرٍ يُّسْرًا ࣖ ",
+    tr: "liyunfiq <u>dz</u>uu sa'atin min sa'atihi waman qudira 'alayhi rizquhu falyunfiq mimm<u>aa</u> <u>aa</u>t<u>aa</u>hu <strong>al</strong>l<u>aa</u>hu l<u>aa</u> yukallifu <strong>al</strong>l<u>aa</u>hu nafsan ill<u>aa</u> m<u>aa</u> <u>aa</u>t<u>aa</u>h<u>aa</u> sayaj'alu <strong>al</strong>l<u>aa</u>hu ba'da 'usrin yusr<u>aa</u><strong>n</strong>",
+    idn: "Hendaklah orang yang mempunyai keluasan memberi nafkah menurut kemampuannya, dan orang yang terbatas rezekinya, hendaklah memberi nafkah dari harta yang diberikan Allah kepadanya. Allah tidak membebani kepada seseorang melainkan (sesuai) dengan apa yang diberikan Allah kepadanya. Allah kelak akan memberikan kelapangan setelah kesempitan. "
+    },
+    {
+    id: 5225,
+    surah: 65,
+    nomor: 8,
+    ar: "وَكَاَيِّنْ مِّنْ قَرْيَةٍ عَتَتْ عَنْ اَمْرِ رَبِّهَا وَرُسُلِهٖ فَحَاسَبْنٰهَا حِسَابًا شَدِيْدًاۙ وَّعَذَّبْنٰهَا عَذَابًا نُّكْرًا ",
+    tr: "waka-ayyin min qaryatin 'atat 'an amri rabbih<u>aa</u> warusulihi fa<u>haa</u>sabn<u>aa</u>h<u>aa</u> <u>h</u>is<u>aa</u>ban syadiidan wa'a<u>dzdz</u>abn<u>aa</u>h<u>aa</u> 'a<u>dzaa</u>ban nukr<u>aa</u><strong>n</strong>",
+    idn: "Dan betapa banyak (penduduk) negeri yang mendurhakai perintah Tuhan mereka dan rasul-rasul-Nya, maka Kami buat perhitungan terhadap penduduk negeri itu dengan perhitungan yang ketat, dan Kami azab mereka dengan azab yang mengerikan (di akhirat),"
+    },
+    {
+    id: 5226,
+    surah: 65,
+    nomor: 9,
+    ar: "فَذَاقَتْ وَبَالَ اَمْرِهَا وَكَانَ عَاقِبَةُ اَمْرِهَا خُسْرًا ",
+    tr: "fa<u>dzaa</u>qat wab<u>aa</u>la amrih<u>aa</u> wak<u>aa</u>na '<u>aa</u>qibatu amrih<u>aa</u> khusr<u>aa</u><strong>n</strong>",
+    idn: "sehingga mereka merasakan akibat yang buruk dari perbuatannya, dan akibat perbuatan mereka, itu adalah kerugian yang besar. "
+    },
+    {
+    id: 5227,
+    surah: 65,
+    nomor: 10,
+    ar: "اَعَدَّ اللّٰهُ لَهُمْ عَذَابًا شَدِيْدًا ۖفَاتَّقُوا اللّٰهَ يٰٓاُولِى الْاَلْبَابِۛ الَّذِيْنَ اٰمَنُوْا ۛ قَدْ اَنْزَلَ اللّٰهُ اِلَيْكُمْ ذِكْرًاۙ ",
+    tr: "a'adda <strong>al</strong>l<u>aa</u>hu lahum 'a<u>dzaa</u>ban syadiidan fa<strong>i</strong>ttaquu <strong>al</strong>l<u>aa</u>ha y<u>aa</u> ulii <strong>a</strong>l-alb<u>aa</u>bi <strong>al</strong>la<u>dz</u>iina <u>aa</u>manuu qad anzala <strong>al</strong>l<u>aa</u>hu ilaykum <u>dz</u>ikr<u>aa</u><strong>n</strong>",
+    idn: "Allah menyediakan azab yang keras bagi mereka, maka bertakwalah kepada Allah wahai orang-orang yang mempunyai akal! (Yaitu) orang-orang yang beriman. Sungguh, Allah telah menurunkan peringatan kepadamu, "
+    },
+    {
+    id: 5228,
+    surah: 65,
+    nomor: 11,
+    ar: "رَّسُوْلًا يَّتْلُوْا عَلَيْكُمْ اٰيٰتِ اللّٰهِ مُبَيِّنٰتٍ لِّيُخْرِجَ الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ مِنَ الظُّلُمٰتِ اِلَى النُّوْرِۗ وَمَنْ يُّؤْمِنْۢ بِاللّٰهِ وَيَعْمَلْ صَالِحًا يُّدْخِلْهُ جَنّٰتٍ تَجْرِيْ مِنْ تَحْتِهَا الْاَنْهٰرُ خ",
+    tr: "rasuulan yatluu 'alaykum <u>aa</u>y<u>aa</u>ti <strong>al</strong>l<u>aa</u>hi mubayyin<u>aa</u>tin liyukhrija <strong>al</strong>la<u>dz</u>iina <u>aa</u>manuu wa'amiluu <strong>al</strong><u>shshaa</u>li<u>haa</u>ti mina <strong>al</strong><u>zhzh</u>ulum<u>aa</u>ti il<u>aa</u> <strong>al</strong>nnuuri waman yu/min bi<strong>al</strong>l<u>aa</u>hi waya'mal <u>shaa</u>li<u>h</u>an yudkhilhu jann<u>aa</u>tin tajrii min ta<u>h</u>tih<u>aa</u> <strong>a</strong>l-anh<u>aa</u>ru kh<u>aa</u>lidiina fiih<u>aa</u> abadan qad a<u>h</u>sana <strong>al</strong>l<u>aa</u>hu lahu rizq<u>aa</u><strong>n</strong>",
+    idn: "(dengan mengutus) seorang Rasul yang membacakan ayat-ayat Allah kepadamu yang menerangkan (bermacam-macam hukum), agar Dia mengeluarkan orang-orang yang beriman dan mengerjakan kebajikan, dari kegelapan kepada cahaya. Dan barangsiapa beriman kepada Allah dan mengerjakan kebajikan, niscaya Dia akan memasukkannya ke dalam surga-surga yang mengalir di bawahnya sungai-sungai; mereka kekal di dalamnya selama-lamanya. Sungguh, Allah memberikan rezeki yang baik kepadanya. "
+    },
+    {
+    id: 5229,
+    surah: 65,
+    nomor: 12,
+    ar: "اَللّٰهُ الَّذِيْ خَلَقَ سَبْعَ سَمٰوٰتٍ وَّمِنَ الْاَرْضِ مِثْلَهُنَّۗ يَتَنَزَّلُ الْاَمْرُ بَيْنَهُنَّ لِتَعْلَمُوْٓا اَنَّ اللّٰهَ عَلٰى كُلِّ شَيْءٍ قَدِيْرٌ ەۙ وَّاَنَّ اللّٰهَ قَدْ اَحَاطَ بِكُلِّ شَيْءٍ عِلْمًا ࣖ",
+    tr: "<strong>al</strong>l<u>aa</u>hu <strong>al</strong>la<u>dz</u>ii khalaqa sab'a sam<u>aa</u>w<u>aa</u>tin wamina <strong>a</strong>l-ar<u>dh</u>i mitslahunna yatanazzalu <strong>a</strong>l-amru baynahunna lita'lamuu anna <strong>al</strong>l<u>aa</u>ha 'al<u>aa</u> kulli syay-in qadiirun wa-anna <strong>al</strong>l<u>aa</u>ha qad a<u>hath</u>a bikulli syay-in 'ilm<u>aa</u><strong>n</strong>",
+    idn: "Allah yang menciptakan tujuh langit dan dari (penciptaan) bumi juga serupa. Perintah Allah berlaku padanya, agar kamu mengetahui bahwa Allah Mahakuasa atas segala sesuatu, dan ilmu Allah benar-benar meliputi segala sesuatu. "
+    }
+    ],
+    surat_selanjutnya: {
+    id: 66,
+    nomor: 66,
+    nama: "التحريم",
+    nama_latin: "At-Tahrim",
+    jumlah_ayat: 12,
+    tempat_turun: "madinah",
+    arti: "Pengharaman",
+    deskripsi: "Surat ini terdiri atas 12 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Hujuraat. Dinamai surat <i>At Tahrim</i> karena pada awal surat ini terdapat kata <i>tuharrim</i> yang kata asalnya adalah Attahrim yang berarti <i>mengharamkan</i>.",
+    audio: "https://santrikoding.com/storage/audio/066.mp3"
+    },
+    surat_sebelumnya: {
+    id: 64,
+    nomor: 64,
+    nama: "التغابن",
+    nama_latin: "At-Tagabun",
+    jumlah_ayat: 18,
+    tempat_turun: "madinah",
+    arti: "Pengungkapan Kesalahan",
+    deskripsi: "Surat ini terdiri atas 18 ayat, termasuk golongan surat-surat Madaniyyah dan diturunkan sesudah surat At Tahrim. Nama <i>At Taghaabun</i> diambil dari kata <i>At Taghaabun</i> yang terdapat pada ayat ke 9 yang artinya <i>hari dinampakkan kesalahan-kesalahan</i>.",
+    audio: "https://santrikoding.com/storage/audio/064.mp3"
+    }
+    }

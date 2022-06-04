@@ -1,0 +1,931 @@
+{
+    status: true,
+    nomor: 21,
+    nama: "الانبياۤء",
+    nama_latin: "Al-Anbiya'",
+    jumlah_ayat: 112,
+    tempat_turun: "mekah",
+    arti: "Para Nabi",
+    deskripsi: "Surat Al Anbiyaa' yang terdiri atas 112 ayat, termasuk golongan surat Makkiyyah. Dinamai surat ini dengan <i>al anbiyaa'</i>(nabi-nabi), karena surat ini mengutarakan kisah beberapa orang nabi. Permulaan surat Al Anbiyaa' menegaskan bahwa manusia lalai dalam menghadapi hari berhisab, kemudian berhubung adanya pengingkaran kaum musyrik Mekah terhadap wahyu yang dibawa Nabi Muhammad s.a.w. maka ditegaskan Allah, kendatipun nabi-nabi itu manusia biasa, akan tetapi masing-masing mereka adalah manusia yang membawa wahyu yang pokok ajarannya adalah tauhid, dan keharusan manusia menyembah Allah Tuhan Penciptanya. Orang yang tidak mau mengakui kekuasaan Allah dan mengingkari ajaran yang dibawa oleh nabi-nabi itu, akan diazab Allah didunia dan di akhirat nanti. Kemudian dikemukakan kisah beberapa orang nabi dengan umatnya. Akhirnya surat itu ditutup dengan seruan agar kaum musyrik Mekah percaya kepada ajaran yang dibawa Muhammad s.a.w supaya tidak mengalami apa yang telah dialami oleh umat-umat yang dahulu.",
+    audio: "https://santrikoding.com/storage/audio/021.mp3",
+    ayat: [
+    {
+    id: 2484,
+    surah: 21,
+    nomor: 1,
+    ar: "اِقْتَرَبَ لِلنَّاسِ حِسَابُهُمْ وَهُمْ فِيْ غَفْلَةٍ مُّعْرِضُوْنَ ۚ ",
+    tr: "iqtaraba li<strong>l</strong>nn<u>aa</u>si <u>h</u>is<u>aa</u>buhum wahum fii ghaflatin mu'ri<u>dh</u>uun<strong>a</strong>",
+    idn: "Telah semakin dekat kepada manusia perhitungan amal mereka, sedang mereka dalam keadaan lalai (dengan dunia), berpaling (dari akhirat)."
+    },
+    {
+    id: 2485,
+    surah: 21,
+    nomor: 2,
+    ar: "مَا يَأْتِيْهِمْ مِّنْ ذِكْرٍ مِّنْ رَّبِّهِمْ مُّحْدَثٍ اِلَّا اسْتَمَعُوْهُ وَهُمْ يَلْعَبُوْنَ ۙ",
+    tr: "m<u>aa</u> ya/tiihim min <u>dz</u>ikrin min rabbihim mu<u>h</u>datsin ill<u>aa</u> istama'uuhu wahum yal'abuun<strong>a</strong>",
+    idn: "Setiap diturunkan kepada mereka ayat-ayat yang baru dari Tuhan, mereka mendengarkannya sambil bermain-main."
+    },
+    {
+    id: 2486,
+    surah: 21,
+    nomor: 3,
+    ar: "لَاهِيَةً قُلُوْبُهُمْۗ وَاَسَرُّوا النَّجْوَىۖ الَّذِيْنَ ظَلَمُوْاۖ هَلْ هٰذَآ اِلَّا بَشَرٌ مِّثْلُكُمْۚ اَفَتَأْتُوْنَ السِّحْرَ وَاَنْتُمْ تُبْصِرُوْنَ ",
+    tr: "l<u>aa</u>hiyatan quluubuhum wa-asarruu <strong>al</strong>nnajw<u>aa</u> <strong>al</strong>la<u>dz</u>iina <u>zh</u>alamuu hal h<u>aadzaa</u> ill<u>aa</u> basyarun mitslukum afata/tuuna <strong>al</strong>ssi<u>h</u>ra wa-antum tub<u>sh</u>iruun<strong>a</strong>",
+    idn: "Hati mereka dalam keadaan lalai. Dan orang-orang yang zalim itu merahasiakan pembicaraan mereka, “(Orang) ini (Muhammad) tidak lain hanyalah seorang manusia (juga) seperti kamu. Apakah kamu menerima sihir itu padahal kamu menyaksikannya?”"
+    },
+    {
+    id: 2487,
+    surah: 21,
+    nomor: 4,
+    ar: "قٰلَ رَبِّيْ يَعْلَمُ الْقَوْلَ فِى السَّمَاۤءِ وَالْاَرْضِۖ وَهُوَ السَّمِيْعُ الْعَلِيْمُ ",
+    tr: "q<u>aa</u>la rabbii ya'lamu <strong>a</strong>lqawla fii <strong>al</strong>ssam<u>aa</u>-i wa<strong>a</strong>l-ar<u>dh</u>i wahuwa <strong>al</strong>ssamii'u <strong>a</strong>l'aliim<strong>u</strong>",
+    idn: "Dia (Muhammad) berkata, “Tuhanku mengetahui (semua) perkataan di langit dan di bumi, dan Dia Maha Mendengar, Maha Mengetahui!”"
+    },
+    {
+    id: 2488,
+    surah: 21,
+    nomor: 5,
+    ar: "بَلْ قَالُوْٓا اَضْغَاثُ اَحْلَامٍۢ بَلِ افْتَرٰىهُ بَلْ هُوَ شَاعِرٌۚ فَلْيَأْتِنَا بِاٰيَةٍ كَمَآ اُرْسِلَ الْاَوَّلُوْنَ ",
+    tr: "bal q<u>aa</u>luu a<u>dh</u>gh<u>aa</u>tsu a<u>h</u>l<u>aa</u>min bali iftar<u>aa</u>hu bal huwa sy<u>aa</u>'irun falya/tin<u>aa</u> bi-<u>aa</u>yatin kam<u>aa</u> ursila <strong>a</strong>l-awwaluun<strong>a</strong>",
+    idn: " Bahkan mereka mengatakan, “(Al-Qur'an itu buah) mimpi-mimpi yang kacau, atau hasil rekayasanya (Muhammad), atau bahkan dia hanya seorang penyair, cobalah dia datangkan kepada kita suatu tanda (bukti), seperti halnya rasul-rasul yang diutus terdahulu.”"
+    },
+    {
+    id: 2489,
+    surah: 21,
+    nomor: 6,
+    ar: "مَآ اٰمَنَتْ قَبْلَهُمْ مِّنْ قَرْيَةٍ اَهْلَكْنٰهَاۚ اَفَهُمْ يُؤْمِنُوْنَ ",
+    tr: "m<u>aa</u> <u>aa</u>manat qablahum min qaryatin ahlakn<u>aa</u>h<u>aa</u> afahum yu/minuun<strong>a</strong>",
+    idn: " Penduduk suatu negeri sebelum mereka, yang telah Kami binasakan, mereka itu tidak beriman (padahal telah Kami kirimkan bukti). Apakah mereka akan beriman?"
+    },
+    {
+    id: 2490,
+    surah: 21,
+    nomor: 7,
+    ar: "وَمَآ اَرْسَلْنَا قَبْلَكَ اِلَّا رِجَالًا نُّوْحِيْٓ اِلَيْهِمْ فَسْـَٔلُوْٓا اَهْلَ الذِّكْرِ اِنْ كُنْتُمْ لَا تَعْلَمُوْنَ ",
+    tr: "wam<u>aa</u> arsaln<u>aa</u> qablaka ill<u>aa</u> rij<u>aa</u>lan nuu<u>h</u>ii ilayhim fa<strong>i</strong>s-aluu ahla <strong>al</strong><u>dzdz</u>ikri in kuntum l<u>aa</u> ta'lamuun<strong>a</strong>",
+    idn: "Dan Kami tidak mengutus (rasul-rasul) sebelum engkau (Muhammad), melainkan beberapa orang laki-laki yang Kami beri wahyu kepada mereka, maka tanyakanlah kepada orang yang berilmu, jika kamu tidak mengetahui."
+    },
+    {
+    id: 2491,
+    surah: 21,
+    nomor: 8,
+    ar: "وَمَا جَعَلْنٰهُمْ جَسَدًا لَّا يَأْكُلُوْنَ الطَّعَامَ وَمَا كَانُوْا خٰلِدِيْنَ ",
+    tr: "wam<u>aa</u> ja'aln<u>aa</u>hum jasadan l<u>aa</u> ya/kuluuna <strong>al</strong><u>ththh</u>a'<u>aa</u>ma wam<u>aa</u> k<u>aa</u>nuu kh<u>aa</u>lidiin<strong>a</strong>",
+    idn: "Dan Kami tidak menjadikan mereka (rasul-rasul) suatu tubuh yang tidak memakan makanan dan mereka tidak (pula) hidup kekal."
+    },
+    {
+    id: 2492,
+    surah: 21,
+    nomor: 9,
+    ar: "ثُمَّ صَدَقْنٰهُمُ الْوَعْدَ فَاَنْجَيْنٰهُمْ وَمَنْ نَّشَاۤءُ وَاَهْلَكْنَا الْمُسْرِفِيْنَ ",
+    tr: "tsumma <u>sh</u>adaqn<u>aa</u>humu <strong>a</strong>lwa'da fa-anjayn<u>aa</u>hum waman nasy<u>aa</u>u wa-ahlakn<u>aa</u> <strong>a</strong>lmusrifiin<strong>a</strong>",
+    idn: "Kemudian Kami tepati janji (yang telah Kami janjikan) kepada mereka. Maka Kami selamatkan mereka dan orang-orang yang Kami kehendaki, dan Kami binasakan orang-orang yang melampaui batas."
+    },
+    {
+    id: 2493,
+    surah: 21,
+    nomor: 10,
+    ar: "لَقَدْ اَنْزَلْنَآ اِلَيْكُمْ كِتٰبًا فِيْهِ ذِكْرُكُمْۗ اَفَلَا تَعْقِلُوْنَ ࣖ",
+    tr: "laqad anzaln<u>aa</u> ilaykum kit<u>aa</u>ban fiihi <u>dz</u>ikrukum afal<u>aa</u> ta'qiluun<strong>a</strong>",
+    idn: " Sungguh, telah Kami turunkan kepadamu sebuah Kitab (Al-Qur'an) yang di dalamnya terdapat peringatan bagimu. Maka apakah kamu tidak mengerti?"
+    },
+    {
+    id: 2494,
+    surah: 21,
+    nomor: 11,
+    ar: "وَكَمْ قَصَمْنَا مِنْ قَرْيَةٍ كَانَتْ ظَالِمَةً وَّاَنْشَأْنَا بَعْدَهَا قَوْمًا اٰخَرِيْنَ ",
+    tr: "wakam qa<u>sh</u>amn<u>aa</u> min qaryatin k<u>aa</u>nat <u>zhaa</u>limatan wa-ansya/n<u>aa</u> ba'dah<u>aa</u> qawman <u>aa</u>khariin<strong>a</strong>",
+    idn: " Dan berapa banyak (penduduk) negeri yang zalim yang telah Kami binasakan, dan Kami jadikan generasi yang lain setelah mereka itu (sebagai penggantinya)."
+    },
+    {
+    id: 2495,
+    surah: 21,
+    nomor: 12,
+    ar: "فَلَمَّآ اَحَسُّوْا بَأْسَنَآ اِذَا هُمْ مِّنْهَا يَرْكُضُوْنَ ۗ",
+    tr: "falamm<u>aa</u> a<u>h</u>assuu ba/san<u>aa</u> i<u>dzaa</u> hum minh<u>aa</u> yarku<u>dh</u>uun<strong>a</strong>",
+    idn: " Maka ketika mereka merasakan azab Kami, tiba-tiba mereka melarikan diri dari (negerinya) itu."
+    },
+    {
+    id: 2496,
+    surah: 21,
+    nomor: 13,
+    ar: "لَا تَرْكُضُوْا وَارْجِعُوْٓا اِلٰى مَآ اُتْرِفْتُمْ فِيْهِ وَمَسٰكِنِكُمْ لَعَلَّكُمْ تُسْـَٔلُوْنَ ",
+    tr: "l<u>aa</u> tarku<u>dh</u>uu wa<strong>i</strong>rji'uu il<u>aa</u> m<u>aa</u> utriftum fiihi wamas<u>aa</u>kinikum la'allakum tus-aluun<strong>a</strong>",
+    idn: "Janganlah kamu lari tergesa-gesa; kembalilah kamu kepada kesenangan hidupmu dan tempat-tempat kediamanmu (yang baik), agar kamu dapat ditanya."
+    },
+    {
+    id: 2497,
+    surah: 21,
+    nomor: 14,
+    ar: "قَالُوْا يٰوَيْلَنَآ اِنَّا كُنَّا ظٰلِمِيْنَ ",
+    tr: "q<u>aa</u>luu y<u>aa</u> waylan<u>aa</u> inn<u>aa</u> kunn<u>aa</u> <u>zhaa</u>limiin<strong>a</strong>",
+    idn: "Mereka berkata, “Betapa celaka kami, sungguh, kami orang-orang yang zalim.”"
+    },
+    {
+    id: 2498,
+    surah: 21,
+    nomor: 15,
+    ar: "فَمَا زَالَتْ تِّلْكَ دَعْوٰىهُمْ حَتّٰى جَعَلْنٰهُمْ حَصِيْدًا خَامِدِيْنَ ",
+    tr: "fam<u>aa</u> z<u>aa</u>lat tilka da'w<u>aa</u>hum <u>h</u>att<u>aa</u> ja'aln<u>aa</u>hum <u>h</u>a<u>sh</u>iidan kh<u>aa</u>midiin<strong>a</strong>",
+    idn: " Maka demikianlah keluhan mereka berkepanjangan, sehingga mereka Kami jadikan sebagai tanaman yang telah dituai, yang tidak dapat hidup lagi."
+    },
+    {
+    id: 2499,
+    surah: 21,
+    nomor: 16,
+    ar: "وَمَا خَلَقْنَا السَّمَاۤءَ وَالْاَرْضَ وَمَا بَيْنَهُمَا لٰعِبِيْنَ ",
+    tr: "wam<u>aa</u> khalaqn<u>aa</u> <strong>al</strong>ssam<u>aa</u>-a wa<strong>a</strong>l-ar<u>dh</u>a wam<u>aa</u> baynahum<u>aa</u> l<u>aa</u>'ibiin<strong>a</strong>",
+    idn: "Dan Kami tidak menciptakan langit dan bumi dan segala apa yang ada di antara keduanya dengan main-main."
+    },
+    {
+    id: 2500,
+    surah: 21,
+    nomor: 17,
+    ar: "لَوْ اَرَدْنَآ اَنْ نَّتَّخِذَ لَهْوًا لَّاتَّخَذْنٰهُ مِنْ لَّدُنَّآ  ۖاِنْ كُنَّا فٰعِلِيْنَ ",
+    tr: "law aradn<u>aa</u> an nattakhi<u>dz</u>a lahwan la<strong>i</strong>ttakha<u>dz</u>n<u>aa</u>hu min ladunn<u>aa</u> in kunn<u>aa</u> f<u>aa</u>'iliin<strong>a</strong>",
+    idn: " Seandainya Kami hendak membuat suatu permainan (istri dan anak), tentulah Kami membuatnya dari sisi Kami, jika Kami benar-benar menghendaki berbuat demikian."
+    },
+    {
+    id: 2501,
+    surah: 21,
+    nomor: 18,
+    ar: "بَلْ نَقْذِفُ بِالْحَقِّ عَلَى الْبَاطِلِ فَيَدْمَغُهٗ فَاِذَا هُوَ زَاهِقٌۗ وَلَكُمُ الْوَيْلُ مِمَّا تَصِفُوْنَ ",
+    tr: "bal naq<u>dz</u>ifu bi<strong>a</strong>l<u>h</u>aqqi 'al<u>aa</u> <strong>a</strong>lb<u>aath</u>ili fayadmaghuhu fa-i<u>dzaa</u> huwa z<u>aa</u>hiqun walakumu <strong>a</strong>lwaylu mimm<u>aa</u> ta<u>sh</u>ifuun<strong>a</strong>",
+    idn: "Sebenarnya Kami melemparkan yang hak (kebenaran) kepada yang batil (tidak benar) lalu yang hak itu menghancurkannya, maka seketika itu (yang batil) lenyap. Dan celaka kamu karena kamu menyifati (Allah dengan sifat-sifat yang tidak pantas bagi-Nya)."
+    },
+    {
+    id: 2502,
+    surah: 21,
+    nomor: 19,
+    ar: "وَلَهٗ مَنْ فِى السَّمٰوٰتِ وَالْاَرْضِۗ وَمَنْ عِنْدَهٗ لَا يَسْتَكْبِرُوْنَ عَنْ عِبَادَتِهٖ وَلَا يَسْتَحْسِرُوْنَ ۚ",
+    tr: "walahu man fii <strong>al</strong>ssam<u>aa</u>w<u>aa</u>ti wa<strong>a</strong>l-ar<u>dh</u>i waman 'indahu l<u>aa</u> yastakbiruuna 'an 'ib<u>aa</u>datihi wal<u>aa</u> yasta<u>h</u>siruun<strong>a</strong>",
+    idn: "Dan milik-Nya siapa yang di langit dan di bumi. Dan (malaikat-malaikat) yang di sisi-Nya, tidak mempunyai rasa angkuh untuk menyembah-Nya dan tidak (pula) merasa letih."
+    },
+    {
+    id: 2503,
+    surah: 21,
+    nomor: 20,
+    ar: "يُسَبِّحُوْنَ الَّيْلَ وَالنَّهَارَ لَا يَفْتُرُوْنَ ",
+    tr: "yusabbi<u>h</u>uuna <strong>al</strong>layla wa<strong>al</strong>nnah<u>aa</u>ra l<u>aa</u> yafturuun<strong>a</strong>",
+    idn: "Mereka (malaikat-malaikat) bertasbih tidak henti-hentinya malam dan siang."
+    },
+    {
+    id: 2504,
+    surah: 21,
+    nomor: 21,
+    ar: "اَمِ اتَّخَذُوْٓا اٰلِهَةً مِّنَ الْاَرْضِ هُمْ يُنْشِرُوْنَ ",
+    tr: "ami ittakha<u>dz</u>uu <u>aa</u>lihatan mina <strong>a</strong>l-ar<u>dh</u>i hum yunsyiruun<strong>a</strong>",
+    idn: "Apakah mereka mengambil tuhan-tuhan dari bumi, yang dapat menghidupkan (orang-orang yang mati)?"
+    },
+    {
+    id: 2505,
+    surah: 21,
+    nomor: 22,
+    ar: "لَوْ كَانَ فِيْهِمَآ اٰلِهَةٌ اِلَّا اللّٰهُ لَفَسَدَتَاۚ فَسُبْحٰنَ اللّٰهِ رَبِّ الْعَرْشِ عَمَّا يَصِفُوْنَ ",
+    tr: "law k<u>aa</u>na fiihim<u>aa</u> <u>aa</u>lihatun ill<u>aa</u> <strong>al</strong>l<u>aa</u>hu lafasadat<u>aa</u> fasub<u>haa</u>na <strong>al</strong>l<u>aa</u>hi rabbi <strong>a</strong>l'arsyi 'amm<u>aa</u> ya<u>sh</u>ifuun<strong>a</strong>",
+    idn: "Seandainya pada keduanya (di langit dan di bumi) ada tuhan-tuhan selain Allah, tentu keduanya telah binasa. Mahasuci Allah yang memiliki ‘Arsy, dari apa yang mereka sifatkan."
+    },
+    {
+    id: 2506,
+    surah: 21,
+    nomor: 23,
+    ar: "لَا يُسْـَٔلُ عَمَّا يَفْعَلُ وَهُمْ يُسْـَٔلُوْنَ ",
+    tr: "l<u>aa</u> yus-alu 'amm<u>aa</u> yaf'alu wahum yus-aluun<strong>a</strong>",
+    idn: "Dia (Allah) tidak ditanya tentang apa yang dikerjakan, tetapi merekalah yang akan ditanya."
+    },
+    {
+    id: 2507,
+    surah: 21,
+    nomor: 24,
+    ar: "اَمِ اتَّخَذُوْا مِنْ دُوْنِهٖٓ اٰلِهَةً ۗقُلْ هَاتُوْا بُرْهَانَكُمْۚ هٰذَا ذِكْرُ مَنْ مَّعِيَ وَذِكْرُ مَنْ قَبْلِيْۗ بَلْ اَكْثَرُهُمْ لَا يَعْلَمُوْنَۙ الْحَقَّ فَهُمْ مُّعْرِضُوْنَ ",
+    tr: "ami ittakha<u>dz</u>uu min duunihi <u>aa</u>lihatan qul h<u>aa</u>tuu burh<u>aa</u>nakum h<u>aadzaa</u> <u>dz</u>ikru man ma'iya wa<u>dz</u>ikru man qablii bal aktsaruhum l<u>aa</u> ya'lamuuna <strong>a</strong>l<u>h</u>aqqa fahum mu'ri<u>dh</u>uun<strong>a</strong>",
+    idn: "Atau apakah mereka mengambil tuhan-tuhan selain Dia? Katakanlah (Muhammad), “Kemukakanlah alasan-alasanmu! (Al-Qur'an) ini adalah peringatan bagi orang yang bersamaku, dan peringatan bagi orang sebelumku.” Tetapi kebanyakan mereka tidak mengetahui yang hak (kebenaran), karena itu mereka berpaling."
+    },
+    {
+    id: 2508,
+    surah: 21,
+    nomor: 25,
+    ar: "وَمَآ اَرْسَلْنَا مِنْ قَبْلِكَ مِنْ رَّسُوْلٍ اِلَّا نُوْحِيْٓ اِلَيْهِ اَنَّهٗ لَآ اِلٰهَ اِلَّآ اَنَا۠ فَاعْبُدُوْنِ ",
+    tr: "wam<u>aa</u> arsaln<u>aa</u> min qablika min rasuulin ill<u>aa</u> nuu<u>h</u>ii ilayhi annahu l<u>aa</u> il<u>aa</u>ha ill<u>aa</u> an<u>aa</u> fa<strong>u</strong>'buduun<strong>i</strong>",
+    idn: "Dan Kami tidak mengutus seorang rasul pun sebelum engkau (Muhammad), melainkan Kami wahyukan kepadanya, bahwa tidak ada tuhan (yang berhak disembah) selain Aku, maka sembahlah Aku."
+    },
+    {
+    id: 2509,
+    surah: 21,
+    nomor: 26,
+    ar: "وَقَالُوا اتَّخَذَ الرَّحْمٰنُ وَلَدًا سُبْحٰنَهٗ ۗبَلْ عِبَادٌ مُّكْرَمُوْنَ ۙ",
+    tr: "waq<u>aa</u>luu ittakha<u>dz</u>a <strong>al</strong>rra<u>h</u>m<u>aa</u>nu waladan sub<u>haa</u>nahu bal 'ib<u>aa</u>dun mukramuun<strong>a</strong>",
+    idn: "Dan mereka berkata, “Tuhan Yang Maha Pengasih telah menjadikan (malaikat) sebagai anak.” Mahasuci Dia. Sebenarnya mereka (para malaikat itu) adalah hamba-hamba yang dimuliakan,"
+    },
+    {
+    id: 2510,
+    surah: 21,
+    nomor: 27,
+    ar: "لَا يَسْبِقُوْنَهٗ بِالْقَوْلِ وَهُمْ بِاَمْرِهٖ يَعْمَلُوْنَ ",
+    tr: "l<u>aa</u> yasbiquunahu bi<strong>a</strong>lqawli wahum bi-amrihi ya'maluun<strong>a</strong>",
+    idn: "mereka tidak berbicara mendahului-Nya dan mereka mengerjakan perintah-perintah-Nya."
+    },
+    {
+    id: 2511,
+    surah: 21,
+    nomor: 28,
+    ar: "يَعْلَمُ مَا بَيْنَ اَيْدِيْهِمْ وَمَا خَلْفَهُمْ وَلَا يَشْفَعُوْنَۙ اِلَّا لِمَنِ ارْتَضٰى وَهُمْ مِّنْ خَشْيَتِهٖ مُشْفِقُوْنَ ",
+    tr: "ya'lamu m<u>aa</u> bayna aydiihim wam<u>aa</u> khalfahum wal<u>aa</u> yasyfa'uuna ill<u>aa</u> limani irta<u>daa</u> wahum min khasyyatihi musyfiquun<strong>a</strong>",
+    idn: "Dia (Allah) mengetahui segala sesuatu yang di hadapan mereka (malaikat) dan yang di belakang mereka, dan mereka tidak memberi syafaat melainkan kepada orang yang diridai (Allah), dan mereka selalu berhati-hati karena takut kepada-Nya."
+    },
+    {
+    id: 2512,
+    surah: 21,
+    nomor: 29,
+    ar: "۞ وَمَنْ يَّقُلْ مِنْهُمْ اِنِّيْٓ اِلٰهٌ مِّنْ دُوْنِهٖ فَذٰلِكَ نَجْزِيْهِ جَهَنَّمَۗ  كَذٰلِكَ نَجْزِى الظّٰلِمِيْنَ ࣖ",
+    tr: "waman yaqul minhum innii il<u>aa</u>hun min duunihi fa<u>dzaa</u>lika najziihi jahannama ka<u>dzaa</u>lika najzii <strong>al</strong><u>zhzhaa</u>limiin<strong>a</strong>",
+    idn: "Dan barangsiapa di antara mereka berkata, “Sungguh, aku adalah tuhan selain Allah,” maka orang itu Kami beri balasan dengan Jahanam. Demikianlah Kami memberikan balasan kepada orang-orang yang zalim."
+    },
+    {
+    id: 2513,
+    surah: 21,
+    nomor: 30,
+    ar: "اَوَلَمْ يَرَ الَّذِيْنَ كَفَرُوْٓا اَنَّ السَّمٰوٰتِ وَالْاَرْضَ كَانَتَا رَتْقًا فَفَتَقْنٰهُمَاۗ وَجَعَلْنَا مِنَ الْمَاۤءِ كُلَّ شَيْءٍ حَيٍّۗ  اَفَلَا يُؤْمِنُوْنَ ",
+    tr: "awa lam yar<u>aa</u> <strong>al</strong>la<u>dz</u>iina kafaruu anna <strong>al</strong>ssam<u>aa</u>w<u>aa</u>ti wa<strong>a</strong>l-ar<u>dh</u>a k<u>aa</u>nat<u>aa</u> ratqan fafataqn<u>aa</u>hum<u>aa</u> waja'aln<u>aa</u> mina <strong>a</strong>lm<u>aa</u>-i kulla syay-in <u>h</u>ayyin afal<u>aa</u> yu/minuun<strong>a</strong>",
+    idn: "Dan apakah orang-orang kafir tidak mengetahui bahwa langit dan bumi keduanya dahulunya menyatu, kemudian Kami pisahkan antara keduanya; dan Kami jadikan segala sesuatu yang hidup berasal dari air; maka mengapa mereka tidak beriman?"
+    },
+    {
+    id: 2514,
+    surah: 21,
+    nomor: 31,
+    ar: "وَجَعَلْنَا فِى الْاَرْضِ رَوَاسِيَ اَنْ تَمِيْدَ بِهِمْۖ وَجَعَلْنَا فِيْهَا فِجَاجًا سُبُلًا لَّعَلَّهُمْ يَهْتَدُوْنَ ",
+    tr: "waja'aln<u>aa</u> fii <strong>a</strong>l-ar<u>dh</u>i raw<u>aa</u>siya an tamiida bihim waja'aln<u>aa</u> fiih<u>aa </u>fij<u>aa</u>jan subulan la'allahum yahtaduun<strong>a</strong>",
+    idn: "Dan Kami telah menjadikan di bumi ini gunung-gunung yang kokoh agar ia (tidak) guncang bersama mereka, dan Kami jadikan (pula) di sana jalan-jalan yang luas, agar mereka mendapat petunjuk."
+    },
+    {
+    id: 2515,
+    surah: 21,
+    nomor: 32,
+    ar: "وَجَعَلْنَا السَّمَاۤءَ سَقْفًا مَّحْفُوْظًاۚ وَهُمْ عَنْ اٰيٰتِهَا مُعْرِضُوْنَ ",
+    tr: "waja'aln<u>aa</u> <strong>al</strong>ssam<u>aa</u>-a saqfan ma<u>h</u>fuu<u>zh</u>an wahum 'an <u>aa</u>y<u>aa</u>tih<u>aa</u> mu'ri<u>dh</u>uun<strong>a</strong>",
+    idn: "Dan Kami menjadikan langit sebagai atap yang terpelihara, namun mereka tetap berpaling dari tanda-tanda (kebesaran Allah) itu (matahari, bulan, angin, awan, dan lain-lain)."
+    },
+    {
+    id: 2516,
+    surah: 21,
+    nomor: 33,
+    ar: "وَهُوَ الَّذِيْ خَلَقَ الَّيْلَ وَالنَّهَارَ وَالشَّمْسَ وَالْقَمَرَۗ  كُلٌّ فِيْ فَلَكٍ يَّسْبَحُوْنَ ",
+    tr: "wahuwa <strong>al</strong>la<u>dz</u>ii khalaqa <strong>al</strong>layla wa<strong>al</strong>nnah<u>aa</u>ra wa<strong>al</strong>sysyamsa wa<strong>a</strong>lqamara kullun fii falakin yasba<u>h</u>uun<strong>a</strong>",
+    idn: "Dan Dialah yang telah menciptakan malam dan siang, matahari dan bulan. Masing-masing beredar pada garis edarnya."
+    },
+    {
+    id: 2517,
+    surah: 21,
+    nomor: 34,
+    ar: "وَمَا جَعَلْنَا لِبَشَرٍ مِّنْ قَبْلِكَ الْخُلْدَۗ اَفَا۟ىِٕنْ مِّتَّ فَهُمُ الْخٰلِدُوْنَ ",
+    tr: "wam<u>aa</u> ja'aln<u>aa</u> libasyarin min qablika <strong>a</strong>lkhulda afa-in mitta fahumu <strong>a</strong>lkh<u>aa</u>liduun<strong>a</strong>",
+    idn: "Dan Kami tidak menjadikan hidup abadi bagi seorang manusia sebelum engkau (Muhammad); maka jika engkau wafat, apakah mereka akan kekal?"
+    },
+    {
+    id: 2518,
+    surah: 21,
+    nomor: 35,
+    ar: "كُلُّ نَفْسٍ ذَاۤىِٕقَةُ الْمَوْتِۗ وَنَبْلُوْكُمْ بِالشَّرِّ وَالْخَيْرِ فِتْنَةً ۗوَاِلَيْنَا تُرْجَعُوْنَ ",
+    tr: "kullu nafsin <u>dzaa</u>-iqatu <strong>a</strong>lmawti wanabluukum bi<strong>al</strong>sysyarri wa<strong>a</strong>lkhayri fitnatan wa-ilayn<u>aa</u> turja'uun<strong>a</strong>",
+    idn: "Setiap yang bernyawa akan merasakan mati. Kami akan menguji kamu dengan keburukan dan kebaikan sebagai cobaan. Dan kamu akan dikembalikan hanya kepada Kami."
+    },
+    {
+    id: 2519,
+    surah: 21,
+    nomor: 36,
+    ar: "وَاِذَا رَاٰكَ الَّذِيْنَ كَفَرُوْٓا اِنْ يَّتَّخِذُوْنَكَ اِلَّا هُزُوًاۗ اَهٰذَا الَّذِيْ يَذْكُرُ اٰلِهَتَكُمْۚ وَهُمْ بِذِكْرِ الرَّحْمٰنِ هُمْ كٰفِرُوْنَ  ",
+    tr: "wa-i<u>dzaa</u> ra<u>aa</u>ka <strong>al</strong>la<u>dz</u>iina kafaruu in yattakhi<u>dz</u>uunaka ill<u>aa</u> huzuwan ah<u>aadzaa</u> <strong>al</strong>la<u>dz</u>ii ya<u>dz</u>kuru <u>aa</u>lihatakum wahum bi<u>dz</u>ikri <strong>al</strong>rra<u>h</u>m<u>aa</u>ni hum k<u>aa</u>firuun<strong>a</strong>",
+    idn: "Dan apabila orang-orang kafir itu melihat engkau (Muhammad), mereka hanya memperlakukan engkau menjadi bahan ejekan. (Mereka mengatakan), “Apakah ini orang yang mencela tuhan-tuhanmu?” Padahal mereka orang yang ingkar mengingat Allah Yang Maha Pengasih."
+    },
+    {
+    id: 2520,
+    surah: 21,
+    nomor: 37,
+    ar: "خُلِقَ الْاِنْسَانُ مِنْ عَجَلٍۗ سَاُورِيْكُمْ اٰيٰتِيْ فَلَا تَسْتَعْجِلُوْنِ ",
+    tr: "khuliqa <strong>a</strong>l-ins<u>aa</u>nu min 'ajalin sauriikum <u>aa</u>y<u>aa</u>tii fal<u>aa</u> tasta'jiluun<strong>a</strong>",
+    idn: "Manusia diciptakan (bersifat) tergesa-gesa. Kelak akan Aku perlihatkan kepadamu tanda-tanda (kekuasaan)-Ku. Maka janganlah kamu meminta Aku menyegerakannya."
+    },
+    {
+    id: 2521,
+    surah: 21,
+    nomor: 38,
+    ar: "وَيَقُوْلُوْنَ مَتٰى هٰذَا الْوَعْدُ اِنْ كُنْتُمْ صٰدِقِيْنَ ",
+    tr: "wayaquuluuna mat<u>aa</u> h<u>aadzaa</u> <strong>a</strong>lwa'du in kuntum <u>shaa</u>diqiin<strong>a</strong>",
+    idn: "Dan mereka berkata, “Kapankah janji itu (akan datang), jika kamu orang yang benar?”"
+    },
+    {
+    id: 2522,
+    surah: 21,
+    nomor: 39,
+    ar: "لَوْ يَعْلَمُ الَّذِيْنَ كَفَرُوْا حِيْنَ لَا يَكُفُّوْنَ عَنْ وُّجُوْهِهِمُ النَّارَ وَلَا عَنْ ظُهُوْرِهِمْ وَلَا هُمْ يُنْصَرُوْنَ ",
+    tr: "law ya'lamu <strong>al</strong>la<u>dz</u>iina kafaruu <u>h</u>iina l<u>aa</u> yakuffuuna 'an wujuuhihimu <strong>al</strong>nn<u>aa</u>ra wal<u>aa</u> 'an <u>zh</u>uhuurihim wal<u>aa</u> hum yun<u>sh</u>aruun<strong>a</strong>",
+    idn: "Seandainya orang kafir itu mengetahui, ketika mereka itu tidak mampu mengelakkan api neraka dari wajah dan punggung mereka, sedang mereka tidak mendapat pertolongan (tentulah mereka tidak meminta disegerakan)."
+    },
+    {
+    id: 2523,
+    surah: 21,
+    nomor: 40,
+    ar: "بَلْ تَأْتِيْهِمْ بَغْتَةً فَتَبْهَتُهُمْ فَلَا يَسْتَطِيْعُوْنَ رَدَّهَا وَلَا هُمْ يُنْظَرُوْنَ ",
+    tr: "bal ta/tiihim baghtatan fatabhatuhum fal<u>aa</u> yasta<u>th</u>ii'uuna raddah<u>aa</u> wal<u>aa</u> hum yun<u>zh</u>aruun<strong>a</strong>",
+    idn: " Sebenarnya (hari Kiamat) itu akan datang kepada mereka secara tiba-tiba, lalu mereka menjadi panik; maka mereka tidak sanggup menolaknya dan tidak (pula) diberi penangguhan (waktu)."
+    },
+    {
+    id: 2524,
+    surah: 21,
+    nomor: 41,
+    ar: "وَلَقَدِ اسْتُهْزِئَ بِرُسُلٍ مِّنْ قَبْلِكَ فَحَاقَ بِالَّذِيْنَ سَخِرُوْا مِنْهُمْ مَّا كَانُوْا بِهٖ يَسْتَهْزِءُوْنَ ࣖ",
+    tr: "walaqadi istuhzi-a birusulin min qablika fa<u>haa</u>qa bi<strong>a</strong>lla<u>dz</u>iina sakhiruu minhum m<u>aa</u> k<u>aa</u>nuu bihi yastahzi-uun<strong>a</strong>",
+    idn: "Dan sungguh, rasul-rasul sebelum engkau (Muhammad) pun telah diperolok-olokkan, maka turunlah (siksaan) kepada orang-orang yang mencemoohkan apa (rasul-rasul) yang selalu mereka perolok-olokkan."
+    },
+    {
+    id: 2525,
+    surah: 21,
+    nomor: 42,
+    ar: "قُلْ مَنْ يَّكْلَؤُكُمْ بِالَّيْلِ وَالنَّهَارِ مِنَ الرَّحْمٰنِۗ  بَلْ هُمْ عَنْ ذِكْرِ رَبِّهِمْ مُّعْرِضُوْنَ ",
+    tr: "qul man yaklaukum bi<strong>a</strong>llayli wa<strong>al</strong>nnah<u>aa</u>ri mina <strong>al</strong>rra<u>h</u>m<u>aa</u>ni bal hum 'an <u>dz</u>ikri rabbihim mu'ri<u>dh</u>uun<strong>a</strong>",
+    idn: "Katakanlah, “Siapakah yang akan menjaga kamu pada waktu malam dan siang dari (siksaan) Allah Yang Maha Pengasih?” Tetapi mereka enggan mengingat Tuhan mereka."
+    },
+    {
+    id: 2526,
+    surah: 21,
+    nomor: 43,
+    ar: "اَمْ لَهُمْ اٰلِهَةٌ تَمْنَعُهُمْ مِّنْ دُوْنِنَاۗ  لَا يَسْتَطِيْعُوْنَ نَصْرَ اَنْفُسِهِمْ وَلَا هُمْ مِّنَّا يُصْحَبُوْنَ",
+    tr: "am lahum <u>aa</u>lihatun tamna'uhum min duunin<u>aa</u> l<u>aa</u> yasta<u>th</u>ii'uuna na<u>sh</u>ra anfusihim wal<u>aa</u> hum minn<u>aa</u> yu<u>sy</u>abuun<strong>a</strong>",
+    idn: "Ataukah mereka mempunyai tuhan-tuhan yang dapat memelihara mereka dari (azab) Kami? Tuhan-tuhan mereka itu tidak sanggup menolong diri mereka sendiri dan tidak (pula) mereka dilindungi dari (azab) Kami."
+    },
+    {
+    id: 2527,
+    surah: 21,
+    nomor: 44,
+    ar: "بَلْ مَتَّعْنَا هٰٓؤُلَاۤءِ وَاٰبَاۤءَهُمْ حَتّٰى طَالَ عَلَيْهِمُ الْعُمُرُۗ اَفَلَا يَرَوْنَ اَنَّا نَأْتِى الْاَرْضَ نَنْقُصُهَا مِنْ اَطْرَافِهَاۗ اَفَهُمُ الْغٰلِبُوْنَ ",
+    tr: "bal matta'n<u>aa</u> h<u>aa</u>ul<u>aa</u>-i wa<u>aa</u>b<u>aa</u>-ahum <u>h</u>att<u>aa</u> <u>th</u><u>aa</u>la 'alayhimu <strong>a</strong>l'umuru afal<u>aa</u> yarawna ann<u>aa</u> na/tii <strong>a</strong>l-ar<u>dh</u>a nanqu<u>sh</u>uh<u>aa</u> min a<u>th</u>r<u>aa</u>fih<u>aa</u> afahumu <strong>a</strong>lgh<u>aa</u>libuun<strong>a</strong>",
+    idn: "Sebenarnya Kami telah memberi mereka dan nenek moyang mereka kenikmatan (hidup di dunia) hingga panjang usia mereka. Maka apakah mereka tidak melihat bahwa Kami mendatangi negeri (yang berada di bawah kekuasaan orang kafir), lalu Kami kurangi luasnya dari ujung-ujung negeri. Apakah mereka yang menang?"
+    },
+    {
+    id: 2528,
+    surah: 21,
+    nomor: 45,
+    ar: "قُلْ اِنَّمَآ اُنْذِرُكُمْ بِالْوَحْيِۖ وَلَا يَسْمَعُ الصُّمُّ الدُّعَاۤءَ اِذَا مَا يُنْذَرُوْنَ ",
+    tr: "qul innam<u>aa</u> un<u>dz</u>irukum bi<strong>a</strong>lwa<u>h</u>yi wal<u>aa</u> yasma'u <strong>al</strong><u>shsh</u>ummu <strong>al</strong>ddu'<u>aa</u>-a i<u>dzaa</u> m<u>aa</u> yun<u>dz</u>aruun<strong>a</strong>",
+    idn: "Katakanlah (Muhammad), “Sesungguhnya aku hanya memberimu peringatan sesuai dengan wahyu.” Tetapi orang tuli tidak mendengar seruan apabila mereka diberi peringatan."
+    },
+    {
+    id: 2529,
+    surah: 21,
+    nomor: 46,
+    ar: "وَلَىِٕنْ مَّسَّتْهُمْ نَفْحَةٌ مِّنْ عَذَابِ رَبِّكَ لَيَقُوْلُنَّ يٰوَيْلَنَآ اِنَّا كُنَّا ظٰلِمِيْنَ ",
+    tr: "wala-in massat-hum naf<u>h</u>atun min 'a<u>dzaa</u>bi rabbika layaquulunna y<u>aa </u>waylan<u>aa</u> inn<u>aa</u> kunn<u>aa</u> <u>zhaa</u>limiin<strong>a</strong>",
+    idn: "Dan jika mereka ditimpa sedikit saja azab Tuhanmu, pastilah mereka berkata, “Celakalah kami! Sesungguhnya kami termasuk orang yang selalu menzalimi (diri sendiri).”"
+    },
+    {
+    id: 2530,
+    surah: 21,
+    nomor: 47,
+    ar: "وَنَضَعُ الْمَوَازِيْنَ الْقِسْطَ لِيَوْمِ الْقِيٰمَةِ فَلَا تُظْلَمُ نَفْسٌ شَيْـًٔاۗ وَاِنْ كَانَ مِثْقَالَ حَبَّةٍ مِّنْ خَرْدَلٍ اَتَيْنَا بِهَاۗ وَكَفٰى بِنَا حَاسِبِيْنَ ",
+    tr: "wana<u>dh</u>a'u <strong>a</strong>lmaw<u>aa</u>ziina <strong>a</strong>lqis<u>th</u>a liyawmi <strong>a</strong>lqiy<u>aa</u>mati fal<u>aa</u> tu<u>zh</u>lamu nafsun syay-an wa-in k<u>aa</u>na mitsq<u>aa</u>la <u>h</u>abbatin min khardalin atayn<u>aa</u> bih<u>aa</u> wakaf<u>aa</u> bin<u>aa</u> <u>haa</u>sibiin<strong>a</strong>",
+    idn: "Dan Kami akan memasang timbangan yang tepat pada hari Kiamat, maka tidak seorang pun dirugikan walau sedikit; sekalipun hanya seberat biji sawi, pasti Kami mendatangkannya (pahala). Dan cukuplah Kami yang membuat perhitungan."
+    },
+    {
+    id: 2531,
+    surah: 21,
+    nomor: 48,
+    ar: "وَلَقَدْ اٰتَيْنَا مُوْسٰى وَهٰرُوْنَ الْفُرْقَانَ وَضِيَاۤءً وَّذِكْرًا لِّلْمُتَّقِيْنَ ۙ",
+    tr: "walaqad <u>aa</u>tayn<u>aa</u> muus<u>aa</u> wah<u>aa</u>ruuna <strong>a</strong>lfurq<u>aa</u>na wa<u>dh</u>iy<u>aa</u>-an wa<u>dz</u>ikran lilmuttaqiin<strong>a</strong>",
+    idn: "Dan sungguh, Kami telah memberikan kepada Musa dan Harun, Furqan (Kitab Taurat) dan penerangan serta pelajaran bagi orang-orang yang bertakwa."
+    },
+    {
+    id: 2532,
+    surah: 21,
+    nomor: 49,
+    ar: "الَّذِيْنَ يَخْشَوْنَ رَبَّهُمْ بِالْغَيْبِ وَهُمْ مِّنَ السَّاعَةِ مُشْفِقُوْنَ ",
+    tr: "<strong>al</strong>la<u>dz</u>iina yakhsyawna rabbahum bi<strong>a</strong>lghaybi wahum mina <strong>al</strong>ss<u>aa</u>'ati musyfiquun<strong>a</strong>",
+    idn: "(Yaitu) orang-orang yang takut (azab) Tuhannya, sekalipun mereka tidak melihat-Nya, dan mereka merasa takut akan (tibanya) hari Kiamat."
+    },
+    {
+    id: 2533,
+    surah: 21,
+    nomor: 50,
+    ar: "وَهٰذَا ذِكْرٌ مُّبٰرَكٌ اَنْزَلْنٰهُۗ اَفَاَنْتُمْ لَهٗ مُنْكِرُوْنَ ࣖ",
+    tr: "wah<u>aadzaa</u> <u>dz</u>ikrun mub<u>aa</u>rakun anzaln<u>aa</u>hu afa-antum lahu munkiruun<strong>a</strong>",
+    idn: "Dan ini (Al-Qur'an) adalah suatu peringatan yang mempunyai berkah yang telah Kami turunkan. Maka apakah kamu mengingkarinya?"
+    },
+    {
+    id: 2534,
+    surah: 21,
+    nomor: 51,
+    ar: "۞ وَلَقَدْ اٰتَيْنَآ اِبْرٰهِيْمَ رُشْدَهٗ مِنْ قَبْلُ وَكُنَّا بِهٖ عٰلِمِيْنَ ",
+    tr: "walaqad <u>aa</u>tayn<u>aa</u> ibr<u>aa</u>hiima rusydahu min qablu wakunn<u>aa</u> bihi '<u>aa</u>limiin<strong>a</strong>",
+    idn: "Dan sungguh, sebelum dia (Musa dan Harun) telah Kami berikan kepada Ibrahim petunjuk, dan Kami telah mengetahui dia."
+    },
+    {
+    id: 2535,
+    surah: 21,
+    nomor: 52,
+    ar: "اِذْ قَالَ لِاَبِيْهِ وَقَوْمِهٖ مَا هٰذِهِ التَّمَاثِيْلُ الَّتِيْٓ اَنْتُمْ لَهَا عَاكِفُوْنَ ",
+    tr: "i<u>dz</u> q<u>aa</u>la li-abiihi waqawmihi m<u>aa</u> h<u>aadz</u>ihi <strong>al</strong>ttam<u>aa</u>tsiilu <strong>al</strong>latii antum lah<u>aa</u> '<u>aa</u>kifuun<strong>a</strong>",
+    idn: "(Ingatlah), ketika dia (Ibrahim) berkata kepada ayahnya dan kaumnya, “Patung-patung apakah ini yang kamu tekun menyembahnya?”"
+    },
+    {
+    id: 2536,
+    surah: 21,
+    nomor: 53,
+    ar: "قَالُوْا وَجَدْنَآ اٰبَاۤءَنَا لَهَا عٰبِدِيْنَ ",
+    tr: "q<u>aa</u>luu wajadn<u>aa</u> <u>aa</u>b<u>aa</u>-an<u>aa</u> lah<u>aa</u> '<u>aa</u>bidiin<strong>a</strong>",
+    idn: "Mereka menjawab, “Kami mendapati nenek moyang kami menyembahnya.”"
+    },
+    {
+    id: 2537,
+    surah: 21,
+    nomor: 54,
+    ar: "قَالَ لَقَدْ كُنْتُمْ اَنْتُمْ وَاٰبَاۤؤُكُمْ فِيْ ضَلٰلٍ مُّبِيْنٍ ",
+    tr: "q<u>aa</u>la laqad kuntum antum wa<u>aa</u>b<u>aa</u>ukum fii <u>dh</u>al<u>aa</u>lin mubiin<strong>in</strong>",
+    idn: "Dia (Ibrahim) berkata, “Sesungguhnya kamu dan nenek moyang kamu berada dalam kesesatan yang nyata.”"
+    },
+    {
+    id: 2538,
+    surah: 21,
+    nomor: 55,
+    ar: "قَالُوْٓا اَجِئْتَنَا بِالْحَقِّ اَمْ اَنْتَ مِنَ اللّٰعِبِيْنَ ",
+    tr: "q<u>aa</u>luu aji/tan<u>aa</u> bi<strong>a</strong>l<u>h</u>aqqi am anta mina <strong>al</strong>l<u>aa</u>'ibiin<strong>a</strong>",
+    idn: "Mereka berkata, “Apakah engkau da-tang kepada kami membawa kebenaran atau engkau main-main?”"
+    },
+    {
+    id: 2539,
+    surah: 21,
+    nomor: 56,
+    ar: "قَالَ بَلْ رَّبُّكُمْ رَبُّ السَّمٰوٰتِ وَالْاَرْضِ الَّذِيْ فَطَرَهُنَّۖ وَاَنَا۠ عَلٰى ذٰلِكُمْ مِّنَ الشّٰهِدِيْنَ ",
+    tr: "q<u>aa</u>la bal rabbukum rabbu <strong>al</strong>ssam<u>aa</u>w<u>aa</u>ti wa<strong>a</strong>l-ar<u>dh</u>i <strong>al</strong>la<u>dz</u>ii fa<u>th</u>arahunna wa-an<u>aa</u> 'al<u>aa</u> <u>dzaa</u>likum mina <strong>al</strong>sysy<u>aa</u>hidiin<strong>a</strong>",
+    idn: "Dia (Ibrahim) menjawab, “Sebenarnya Tuhan kamu ialah Tuhan (pemilik) langit dan bumi; (Dialah) yang telah menciptakannya; dan aku termasuk orang yang dapat bersaksi atas itu.”"
+    },
+    {
+    id: 2540,
+    surah: 21,
+    nomor: 57,
+    ar: "وَتَاللّٰهِ لَاَكِيْدَنَّ اَصْنَامَكُمْ بَعْدَ اَنْ تُوَلُّوْا مُدْبِرِيْنَ ",
+    tr: "wata<strong>al</strong>l<u>aa</u>hi la-akiidanna a<u>sh</u>n<u>aa</u>makum ba'da an tuwalluu mudbiriin<strong>a</strong>",
+    idn: "Dan demi Allah, sungguh, aku akan melakukan tipu daya terhadap berhala-berhalamu setelah kamu pergi meninggalkannya."
+    },
+    {
+    id: 2541,
+    surah: 21,
+    nomor: 58,
+    ar: "فَجَعَلَهُمْ جُذَاذًا اِلَّا كَبِيْرًا لَّهُمْ لَعَلَّهُمْ اِلَيْهِ يَرْجِعُوْنَ ",
+    tr: "faja'alahum ju<u>dzats</u>an ill<u>aa</u> kabiiran lahum la'allahum ilayhi yarji'uun<strong>a</strong>",
+    idn: "Maka dia (Ibrahim) menghancurkan (berhala-berhala itu) berkeping-keping, kecuali yang terbesar (induknya); agar mereka kembali (untuk bertanya) kepadanya."
+    },
+    {
+    id: 2542,
+    surah: 21,
+    nomor: 59,
+    ar: "قَالُوْا مَنْ فَعَلَ هٰذَا بِاٰلِهَتِنَآ اِنَّهٗ لَمِنَ الظّٰلِمِيْنَ ",
+    tr: "q<u>aa</u>luu man fa'ala h<u>aadzaa</u> bi-<u>aa</u>lihatin<u>aa</u> innahu lamina <strong>al</strong><u>zhzhaa</u>limiin<strong>a</strong>",
+    idn: "Mereka berkata, “Siapakah yang melakukan (perbuatan) ini terhadap tuhan-tuhan kami? Sungguh, dia termasuk orang yang zalim.”"
+    },
+    {
+    id: 2543,
+    surah: 21,
+    nomor: 60,
+    ar: "قَالُوْا سَمِعْنَا فَتًى يَّذْكُرُهُمْ يُقَالُ لَهٗٓ اِبْرٰهِيْمُ ۗ",
+    tr: "q<u>aa</u>luu sami'n<u>aa</u> fatan ya<u>dz</u>kuruhum yuq<u>aa</u>lu lahu ibr<u>aa</u>hiim<strong>u</strong>",
+    idn: "Mereka (yang lain) berkata, “Kami mendengar ada seorang pemuda yang mencela (berhala-berhala ini), namanya Ibrahim.”"
+    },
+    {
+    id: 2544,
+    surah: 21,
+    nomor: 61,
+    ar: "قَالُوْا فَأْتُوْا بِهٖ عَلٰٓى اَعْيُنِ النَّاسِ لَعَلَّهُمْ يَشْهَدُوْنَ ",
+    tr: "q<u>aa</u>luu fa/tuu bihi 'al<u>aa</u> a'yuni <strong>al</strong>nn<u>aa</u>si la'allahum yasyhaduun<strong>a</strong>",
+    idn: "Mereka berkata, “(Kalau demikian) bawalah dia dengan diperlihatkan kepada orang banyak, agar mereka menyaksikan.”"
+    },
+    {
+    id: 2545,
+    surah: 21,
+    nomor: 62,
+    ar: "قَالُوْٓا ءَاَنْتَ فَعَلْتَ هٰذَا بِاٰلِهَتِنَا يٰٓاِبْرٰهِيْمُ ۗ",
+    tr: "q<u>aa</u>luu a-anta fa'alta h<u>aadzaa</u> bi-<u>aa</u>lihatin<u>aa</u> y<u>aa</u> ibr<u>aa</u>hiim<strong>u</strong>",
+    idn: " Mereka bertanya, “Apakah engkau yang melakukan (perbuatan) ini terhadap tuhan-tuhan kami, wahai Ibrahim?”"
+    },
+    {
+    id: 2546,
+    surah: 21,
+    nomor: 63,
+    ar: "قَالَ بَلْ فَعَلَهٗ كَبِيْرُهُمْ هٰذَا فَسْـَٔلُوْهُمْ اِنْ كَانُوْا يَنْطِقُوْنَ ",
+    tr: "q<u>aa</u>la bal fa'alahu kabiiruhum h<u>aadzaa</u> fa<strong>i</strong>s-aluuhum in k<u>aa</u>nuu yan<u>th</u>iquun<strong>a</strong>",
+    idn: "Dia (Ibrahim) menjawab, “Sebenarnya (patung) besar itu yang melakukannya, maka tanyakanlah kepada mereka, jika mereka dapat berbicara.”"
+    },
+    {
+    id: 2547,
+    surah: 21,
+    nomor: 64,
+    ar: "فَرَجَعُوْٓا اِلٰٓى اَنْفُسِهِمْ فَقَالُوْٓا اِنَّكُمْ اَنْتُمُ الظّٰلِمُوْنَ ۙ",
+    tr: "faraja'uu il<u>aa</u> anfusihim faq<u>aa</u>luu innakum antumu <strong>al</strong><u>zhzhaa</u>limuun<strong>a</strong>",
+    idn: "Maka mereka kembali kepada kesadaran mereka dan berkata, “Sesungguhnya kamulah yang menzalimi (diri sendiri).”"
+    },
+    {
+    id: 2548,
+    surah: 21,
+    nomor: 65,
+    ar: "ثُمَّ نُكِسُوْا عَلٰى رُءُوْسِهِمْۚ  لَقَدْ عَلِمْتَ مَا هٰٓؤُلَاۤءِ يَنْطِقُوْنَ ",
+    tr: "tsumma nukisuu 'al<u>aa</u> ruuusihim laqad 'alimta m<u>aa</u> h<u>aa</u>ul<u>aa</u>-i yan<u>th</u>iquun<strong>a</strong>",
+    idn: "Kemudian mereka menundukkan kepala (lalu berkata), “Engkau (Ibrahim) pasti tahu bahwa (berhala-berhala) itu tidak dapat berbicara.”"
+    },
+    {
+    id: 2549,
+    surah: 21,
+    nomor: 66,
+    ar: "قَالَ اَفَتَعْبُدُوْنَ مِنْ دُوْنِ اللّٰهِ مَا لَا يَنْفَعُكُمْ شَيْـًٔا وَّلَا يَضُرُّكُمْ ۗ",
+    tr: "q<u>aa</u>la afata'buduuna min duuni <strong>al</strong>l<u>aa</u>hi m<u>aa</u> l<u>aa</u> yanfa'ukum syay-an wal<u>aa</u> ya<u>dh</u>urrukum",
+    idn: "Dia (Ibrahim) berkata, “Mengapa kamu menyembah selain Allah, sesuatu yang tidak dapat memberi manfaat sedikit pun, dan tidak (pula) mendatangkan mudarat kepada kamu?"
+    },
+    {
+    id: 2550,
+    surah: 21,
+    nomor: 67,
+    ar: "اُفٍّ لَّكُمْ وَلِمَا تَعْبُدُوْنَ مِنْ دُوْنِ اللّٰهِ ۗاَفَلَا تَعْقِلُوْنَ ",
+    tr: "uffin lakum walim<u>aa</u> ta'buduuna min duuni <strong>al</strong>l<u>aa</u>hi afal<u>aa</u> ta'qiluun<strong>a</strong>",
+    idn: "Celakalah kamu dan apa yang kamu sembah selain Allah! Tidakkah kamu mengerti?”"
+    },
+    {
+    id: 2551,
+    surah: 21,
+    nomor: 68,
+    ar: "قَالُوْا حَرِّقُوْهُ وَانْصُرُوْٓا اٰلِهَتَكُمْ اِنْ كُنْتُمْ فٰعِلِيْنَ ",
+    tr: "q<u>aa</u>luu <u>h</u>arriquuhu wa<strong>u</strong>n<u>sh</u>uruu <u>aa</u>lihatakum in kuntum f<u>aa</u>'iliin<strong>a</strong>",
+    idn: " Mereka berkata, “Bakarlah dia dan bantulah tuhan-tuhan kamu, jika kamu benar-benar hendak berbuat.”"
+    },
+    {
+    id: 2552,
+    surah: 21,
+    nomor: 69,
+    ar: "قُلْنَا يَا نَارُ كُوْنِيْ بَرْدًا وَّسَلٰمًا عَلٰٓى اِبْرٰهِيْمَ ۙ",
+    tr: "quln<u>aa</u> y<u>aa</u> n<u>aa</u>ru kuunii bardan wasal<u>aa</u>man 'al<u>aa</u> ibr<u>aa</u>hiim<strong>a</strong>",
+    idn: "Kami (Allah) berfirman, “Wahai api! Jadilah kamu dingin, dan penyelamat bagi Ibrahim!”"
+    },
+    {
+    id: 2553,
+    surah: 21,
+    nomor: 70,
+    ar: "وَاَرَادُوْا بِهٖ كَيْدًا فَجَعَلْنٰهُمُ الْاَخْسَرِيْنَ ۚ",
+    tr: "wa-ar<u>aa</u>duu bihi kaydan faja'aln<u>aa</u>humu <strong>a</strong>l-akhsariin<strong>a</strong>",
+    idn: "Dan mereka hendak berbuat jahat terhadap Ibrahim, maka Kami menjadikan mereka itu orang-orang yang paling rugi."
+    },
+    {
+    id: 2554,
+    surah: 21,
+    nomor: 71,
+    ar: "وَنَجَّيْنٰهُ وَلُوْطًا اِلَى الْاَرْضِ الَّتِيْ بٰرَكْناَ فِيْهَا لِلْعٰلَمِيْنَ ",
+    tr: "wanajjayn<u>aa</u>hu waluu<u>th</u>an il<u>aa</u> <strong>a</strong>l-ar<u>dh</u>i <strong>al</strong>latii b<u>aa</u>rakn<u>aa</u> fiih<u>aa</u> lil'<u>aa</u>lamiin<strong>a</strong>",
+    idn: "Dan Kami selamatkan dia (Ibrahim) dan Lut ke sebuah negeri yang telah Kami berkahi untuk seluruh alam."
+    },
+    {
+    id: 2555,
+    surah: 21,
+    nomor: 72,
+    ar: "وَوَهَبْنَا لَهٗٓ اِسْحٰقَ وَيَعْقُوْبَ نَافِلَةً ۗوَكُلًّا جَعَلْنَا صٰلِحِيْنَ ",
+    tr: "wawahabn<u>aa</u> lahu is<u>haa</u>qa waya'quuba n<u>aa</u>filatan wakullan ja'aln<u>aa</u> <u>shaa</u>li<u>h</u>iin<strong>a</strong>",
+    idn: "Dan Kami menganugerahkan kepadanya (Ibrahim) Ishak dan Yakub, sebagai suatu anugerah. Dan masing-masing Kami jadikan orang yang saleh."
+    },
+    {
+    id: 2556,
+    surah: 21,
+    nomor: 73,
+    ar: "وَجَعَلْنٰهُمْ اَىِٕمَّةً يَّهْدُوْنَ بِاَمْرِنَا وَاَوْحَيْنَآ اِلَيْهِمْ فِعْلَ الْخَيْرٰتِ وَاِقَامَ الصَّلٰوةِ وَاِيْتَاۤءَ الزَّكٰوةِۚ وَكَانُوْا لَنَا عٰبِدِيْنَ ۙ",
+    tr: "waja'aln<u>aa</u>hum a-immatan yahduuna bi-amrin<u>aa</u> wa-aw<u>h</u>ayn<u>aa</u> ilayhim fi'la <strong>a</strong>lkhayr<u>aa</u>ti wa-iq<u>aa</u>ma <strong>al</strong><u>shsh</u>al<u>aa</u>ti wa-iit<u>aa</u>-a <strong>al</strong>zzak<u>aa</u>ti wak<u>aa</u>nuu lan<u>aa</u> '<u>aa</u>bidiin<strong>a</strong>",
+    idn: "Dan Kami menjadikan mereka itu sebagai pemimpin-pemimpin yang memberi petunjuk dengan perintah Kami dan Kami wahyukan kepada mereka agar berbuat kebaikan, melaksanakan salat dan menunaikan zakat, dan hanya kepada Kami mereka menyembah."
+    },
+    {
+    id: 2557,
+    surah: 21,
+    nomor: 74,
+    ar: "وَلُوْطًا اٰتَيْنٰهُ حُكْمًا وَّعِلْمًا وَّنَجَّيْنٰهُ مِنَ الْقَرْيَةِ الَّتِيْ كَانَتْ تَّعْمَلُ الْخَبٰۤىِٕثَ ۗاِنَّهُمْ كَانُوْا قَوْمَ سَوْءٍ فٰسِقِيْنَۙ",
+    tr: "waluu<u>th</u>an <u>aa</u>tayn<u>aa</u>hu <u>h</u>ukman wa'ilman wanajjayn<u>aa</u>hu mina <strong>a</strong>lqaryati <strong>al</strong>latii k<u>aa</u>nat ta'malu <strong>a</strong>lkhab<u>aa</u>-itsa innahum k<u>aa</u>nuu qawma saw-in f<u>aa</u>siqiin<strong>a</strong>",
+    idn: "Kepada Lut, Kami berikan hikmah dan ilmu, dan Kami selamatkan dia dari (azab yang telah menimpa penduduk) kota yang melakukan perbuatan keji. Sungguh, mereka orang-orang yang jahat lagi fasik.  "
+    },
+    {
+    id: 2558,
+    surah: 21,
+    nomor: 75,
+    ar: "وَاَدْخَلْنٰهُ فِيْ رَحْمَتِنَاۗ اِنَّهٗ مِنَ الصّٰلِحِيْنَ ࣖ ",
+    tr: "wa-adkhaln<u>aa</u>hu fii ra<u>h</u>matin<u>aa</u> innahu mina <strong>al</strong><u>shshaa</u>li<u>h</u>iin<strong>a</strong>",
+    idn: " Dan Kami masukkan dia ke dalam rahmat Kami; sesungguhnya dia termasuk golongan orang yang saleh."
+    },
+    {
+    id: 2559,
+    surah: 21,
+    nomor: 76,
+    ar: "وَنُوْحًا اِذْ نَادٰى مِنْ قَبْلُ فَاسْتَجَبْنَا لَهٗ فَنَجَّيْنٰهُ وَاَهْلَهٗ مِنَ الْكَرْبِ الْعَظِيْمِ ۚ",
+    tr: "wanuu<u>h</u>an i<u>dz</u> n<u>aa</u>d<u>aa</u> min qablu fa<strong>i</strong>stajabn<u>aa</u> lahu fanajjayn<u>aa</u>hu wa-ahlahu mina <strong>a</strong>lkarbi <strong>a</strong>l'a<u>zh</u>iim<strong>i</strong>",
+    idn: "Dan (ingatlah kisah) Nuh, sebelum itu, ketika dia berdoa. Kami perkenankan (doa)nya, lalu Kami selamatkan dia bersama pengikutnya dari bencana yang besar."
+    },
+    {
+    id: 2560,
+    surah: 21,
+    nomor: 77,
+    ar: "وَنَصَرْنٰهُ مِنَ الْقَوْمِ الَّذِيْنَ كَذَّبُوْا بِاٰيٰتِنَاۗ اِنَّهُمْ كَانُوْا قَوْمَ سَوْءٍ فَاَغْرَقْنٰهُمْ اَجْمَعِيْنَ ",
+    tr: "wana<u>sh</u>arn<u>aa</u>hu mina <strong>a</strong>lqawmi <strong>al</strong>la<u>dz</u>iina ka<u>dzdz</u>abuu bi-<u>aa</u>y<u>aa</u>tin<u>aa</u> innahum k<u>aa</u>nuu qawma saw-in fa-aghraqn<u>aa</u>hum ajma'iin<strong>a</strong>",
+    idn: " Dan Kami menolongnya dari orang-orang yang telah mendustakan ayat-ayat Kami. Sesungguhnya mereka adalah orang-orang yang jahat, maka Kami tenggelamkan mereka semuanya."
+    },
+    {
+    id: 2561,
+    surah: 21,
+    nomor: 78,
+    ar: "وَدَاوٗدَ وَسُلَيْمٰنَ اِذْ يَحْكُمٰنِ فِى الْحَرْثِ اِذْ نَفَشَتْ فِيْهِ غَنَمُ الْقَوْمِۚ وَكُنَّا لِحُكْمِهِمْ شٰهِدِيْنَ ۖ",
+    tr: "wad<u>aa</u>wuuda wasulaym<u>aa</u>na i<u>dz</u> ya<u>h</u>kum<u>aa</u>ni fii <strong>a</strong>l<u>h</u>artsi i<u>dz</u> nafasyat fiihi ghanamu <strong>a</strong>lqawmi wakunn<u>aa</u> li<u>h</u>ukmihim sy<u>aa</u>hidiin<strong>a</strong>",
+    idn: " Dan (ingatlah kisah) Dawud dan Sulaiman, ketika keduanya memberikan keputusan mengenai ladang, karena (ladang itu) dirusak oleh kambing-kambing milik kaumnya. Dan Kami menyaksikan keputusan (yang diberikan) oleh mereka itu."
+    },
+    {
+    id: 2562,
+    surah: 21,
+    nomor: 79,
+    ar: "فَفَهَّمْنٰهَا سُلَيْمٰنَۚ وَكُلًّا اٰتَيْنَا حُكْمًا وَّعِلْمًاۖ وَّسَخَّرْنَا مَعَ دَاوٗدَ الْجِبَالَ يُسَبِّحْنَ وَالطَّيْرَۗ وَكُنَّا فٰعِلِيْنَ",
+    tr: "fafahhamn<u>aa</u>h<u>aa</u> sulaym<u>aa</u>na wakullan <u>aa</u>tayn<u>aa</u> <u>h</u>ukman wa'ilman wasakhkharn<u>aa</u> ma'a d<u>aa</u>wuuda <strong>a</strong>ljib<u>aa</u>la yusabbi<u>h</u>na wa<strong>al</strong><u>ththh</u>ayra wakunn<u>aa</u> f<u>aa</u>'iliin<strong>a</strong>",
+    idn: " Dan Kami memberikan pengertian kepada Sulaiman (tentang hukum yang lebih tepat); dan kepada masing-masing Kami berikan hikmah dan ilmu, dan Kami tundukkan gunung-gunung dan burung-burung, semua bertasbih bersama Dawud. Dan Kamilah yang melakukannya."
+    },
+    {
+    id: 2563,
+    surah: 21,
+    nomor: 80,
+    ar: "وَعَلَّمْنٰهُ صَنْعَةَ لَبُوْسٍ لَّكُمْ لِتُحْصِنَكُمْ مِّنْۢ بَأْسِكُمْۚ فَهَلْ اَنْتُمْ شَاكِرُوْنَ",
+    tr: "wa'allamn<u>aa</u>hu <u>sh</u>an'ata labuusin lakum litu<u>hs</u>inakum min ba/sikum fahal antum sy<u>aa</u>kiruun<strong>a</strong>",
+    idn: "Dan Kami ajarkan (pula) kepada Dawud cara membuat baju besi untukmu, guna melindungi kamu dalam peperangan. Apakah kamu bersyukur (kepada Allah)?"
+    },
+    {
+    id: 2564,
+    surah: 21,
+    nomor: 81,
+    ar: "وَلِسُلَيْمٰنَ الرِّيْحَ عَاصِفَةً تَجْرِيْ بِاَمْرِهٖٓ اِلَى الْاَرْضِ الَّتِيْ بٰرَكْنَا فِيْهَاۗ وَكُنَّا بِكُلِّ شَيْءٍ عٰلِمِيْنَ",
+    tr: "walisulaym<u>aa</u>na <strong>al</strong>rrii<u>h</u>a '<u>aas</u>ifatan tajrii bi-amrihi il<u>aa</u> <strong>a</strong>l-ar<u>dh</u>i <strong>al</strong>latii b<u>aa</u>rakn<u>aa</u> fiih<u>aa</u> wakunn<u>aa</u> bikulli syay-in '<u>aa</u>limiin<strong>a</strong>",
+    idn: "Dan (Kami tundukkan) untuk Sulaiman angin yang sangat kencang tiupannya yang berhembus dengan perintahnya ke negeri yang Kami beri berkah padanya. Dan Kami Maha Mengetahui segala sesuatu."
+    },
+    {
+    id: 2565,
+    surah: 21,
+    nomor: 82,
+    ar: "وَمِنَ الشَّيٰطِيْنِ مَنْ يَّغُوْصُوْنَ لَهٗ وَيَعْمَلُوْنَ عَمَلًا دُوْنَ ذٰلِكَۚ وَكُنَّا لَهُمْ حٰفِظِيْنَ ۙ",
+    tr: "wamina <strong>al</strong>sysyay<u>aath</u>iini man yaghuu<u>sh</u>uuna lahu waya'maluuna 'amalan duuna <u>dzaa</u>lika wakunn<u>aa</u> lahum <u>haa</u>fi<u>zh</u>iin<strong>a</strong>",
+    idn: "Dan (Kami tundukkan pula kepada Sulaiman) segolongan setan-setan yang menyelam (ke dalam laut) untuknya dan mereka mengerjakan pekerjaan selain  itu; dan  Kami yang memelihara mereka itu."
+    },
+    {
+    id: 2566,
+    surah: 21,
+    nomor: 83,
+    ar: "۞ وَاَيُّوْبَ اِذْ نَادٰى رَبَّهٗٓ اَنِّيْ مَسَّنِيَ الضُّرُّ وَاَنْتَ اَرْحَمُ الرَّاحِمِيْنَ ۚ",
+    tr: "wa-ayyuuba i<u>dz</u> n<u>aa</u>d<u>aa</u> rabbahu annii massaniya <strong>al</strong><u>dhdh</u>urru wa-anta ar<u>h</u>amu <strong>al</strong>rr<u>aah</u>imiin<strong>a</strong>",
+    idn: "Dan (ingatlah kisah) Ayub, ketika dia berdoa kepada Tuhannya, “(Ya Tuhanku), sungguh, aku telah ditimpa penyakit, padahal Engkau Tuhan Yang Maha Penyayang dari semua yang penyayang.”"
+    },
+    {
+    id: 2567,
+    surah: 21,
+    nomor: 84,
+    ar: "فَاسْتَجَبْنَا لَهٗ فَكَشَفْنَا مَا بِهٖ مِنْ ضُرٍّ وَّاٰتَيْنٰهُ اَهْلَهٗ وَمِثْلَهُمْ مَّعَهُمْ رَحْمَةً مِّنْ عِنْدِنَا وَذِكْرٰى لِلْعٰبِدِيْنَ ۚ",
+    tr: "fa<strong>i</strong>stajabn<u>aa</u> lahu fakasyafn<u>aa</u> m<u>aa</u> bihi min <u>dh</u>urrin wa<u>aa</u>tayn<u>aa</u>hu ahlahu wamitslahum ma'ahum ra<u>h</u>matan min 'indin<u>aa</u> wa<u>dz</u>ikr<u>aa</u> lil'<u>aa</u>bidiin<strong>a</strong>",
+    idn: "Maka Kami kabulkan (doa)nya, lalu Kami lenyapkan penyakit yang ada padanya dan Kami kembalikan keluarganya kepadanya, dan (Kami lipat gandakan jumlah mereka) sebagai suatu rahmat dari Kami, dan untuk menjadi peringatan bagi semua yang menyembah Kami."
+    },
+    {
+    id: 2568,
+    surah: 21,
+    nomor: 85,
+    ar: "وَاِسْمٰعِيْلَ وَاِدْرِيْسَ وَذَا الْكِفْلِۗ  كُلٌّ مِّنَ الصّٰبِرِيْنَ ۙ",
+    tr: "wa-ism<u>aa</u>'iila wa-idriisa wa<u>dzaa</u> <strong>a</strong>lkifli kullun mina <strong>al</strong><u>shshaa</u>biriin<strong>a</strong>",
+    idn: " Dan (ingatlah kisah) Ismail, Idris dan Zulkifli. Mereka semua termasuk orang-orang yang sabar."
+    },
+    {
+    id: 2569,
+    surah: 21,
+    nomor: 86,
+    ar: "وَاَدْخَلْنٰهُمْ فِيْ رَحْمَتِنَاۗ اِنَّهُمْ مِّنَ الصّٰلِحِيْنَ ",
+    tr: "wa-adkhaln<u>aa</u>hum fii ra<u>h</u>matin<u>aa</u> innahum mina <strong>al</strong><u>shshaa</u>li<u>h</u>iin<strong>a</strong>",
+    idn: "Dan Kami masukkan mereka ke dalam rahmat Kami. Sungguh, mereka termasuk orang-orang yang saleh."
+    },
+    {
+    id: 2570,
+    surah: 21,
+    nomor: 87,
+    ar: "وَذَا النُّوْنِ اِذْ ذَّهَبَ مُغَاضِبًا فَظَنَّ اَنْ لَّنْ نَّقْدِرَ عَلَيْهِ فَنَادٰى فِى الظُّلُمٰتِ اَنْ لَّآ اِلٰهَ اِلَّآ اَنْتَ سُبْحٰنَكَ اِنِّيْ كُنْتُ مِنَ الظّٰلِمِيْنَ ۚ",
+    tr: "wa<u>dzaa</u> <strong>al</strong>nnuuni i<u>dz</u> <u>dz</u>ahaba mugh<u>aad</u>iban fa<u>zh</u>anna an lan naqdira 'alayhi fan<u>aa</u>d<u>aa</u> fii <strong>al</strong><u>zhzh</u>ulum<u>aa</u>ti an l<u>aa</u> il<u>aa</u>ha ill<u>aa</u> anta sub<u>haa</u>naka innii kuntu mina <strong>al</strong><u>zhzhaa</u>limiin<strong>a</strong>",
+    idn: "Dan (ingatlah kisah) Zun Nun (Yunus), ketika dia pergi dalam keadaan marah, lalu dia menyangka bahwa Kami tidak akan menyulitkannya, maka dia berdoa dalam keadaan yang sangat gelap, ”Tidak ada tuhan selain Engkau, Mahasuci Engkau. Sungguh, aku  termasuk orang-orang yang zalim.”"
+    },
+    {
+    id: 2571,
+    surah: 21,
+    nomor: 88,
+    ar: "فَاسْتَجَبْنَا لَهٗۙ وَنَجَّيْنٰهُ مِنَ الْغَمِّۗ وَكَذٰلِكَ نُـْۨجِى الْمُؤْمِنِيْنَ ",
+    tr: "fa<strong>i</strong>stajabn<u>aa</u> lahu wanajjayn<u>aa</u>hu mina <strong>a</strong>lghammi waka<u>dzaa</u>lika nunjii <strong>a</strong>lmu/miniin<strong>a</strong>",
+    idn: "Maka Kami kabulkan (doa)nya dan Kami selamatkan dia dari kedukaan. Dan demikianlah Kami menyelamatkan orang-orang yang beriman."
+    },
+    {
+    id: 2572,
+    surah: 21,
+    nomor: 89,
+    ar: "وَزَكَرِيَّآ اِذْ نَادٰى رَبَّهٗ رَبِّ لَا تَذَرْنِيْ فَرْدًا وَّاَنْتَ خَيْرُ الْوٰرِثِيْنَ ۚ",
+    tr: "wazakariyy<u>aa</u> i<u>dz</u> n<u>aa</u>d<u>aa</u> rabbahu rabbi l<u>aa</u> ta<u>dz</u>arnii fardan wa-anta khayru <strong>a</strong>lw<u>aa</u>ritsiin<strong>a</strong>",
+    idn: " Dan (ingatlah kisah) Zakaria, ketika dia berdoa kepada Tuhannya, “Ya Tuhanku, janganlah Engkau biarkan aku hidup seorang diri (tanpa keturunan) dan Engkaulah ahli waris yang terbaik."
+    },
+    {
+    id: 2573,
+    surah: 21,
+    nomor: 90,
+    ar: "فَاسْتَجَبْنَا لَهٗ  ۖوَوَهَبْنَا لَهٗ يَحْيٰى وَاَصْلَحْنَا لَهٗ زَوْجَهٗۗ اِنَّهُمْ كَانُوْا يُسٰرِعُوْنَ فِى الْخَيْرٰتِ وَيَدْعُوْنَنَا رَغَبًا وَّرَهَبًاۗ وَكَانُوْا لَنَا خٰشِعِيْنَ ",
+    tr: "fa<strong>i</strong>stajabn<u>aa</u> lahu wawahabn<u>aa</u> lahu ya<u>h</u>y<u>aa</u> wa-a<u>sh</u>la<u>h</u>n<u>aa</u> lahu zawjahu innahum k<u>aa</u>nuu yus<u>aa</u>ri'uuna fii <strong>a</strong>lkhayr<u>aa</u>ti wayad'uunan<u>aa</u> raghaban warahaban wak<u>aa</u>nuu lan<u>aa</u> kh<u>aa</u>syi'iin<strong>a</strong>",
+    idn: "Maka Kami kabulkan (doa)nya, dan Kami anugerahkan kepadanya Yahya, dan Kami jadikan istrinya (dapat mengandung). Sungguh, mereka selalu bersegera dalam (mengerjakan) kebaikan, dan mereka berdoa kepada Kami dengan penuh harap dan cemas. Dan mereka orang-orang yang khusyuk kepada Kami."
+    },
+    {
+    id: 2574,
+    surah: 21,
+    nomor: 91,
+    ar: "وَالَّتِيْٓ اَحْصَنَتْ فَرْجَهَا فَنَفَخْنَا فِيْهَا مِنْ رُّوْحِنَا وَجَعَلْنٰهَا وَابْنَهَآ اٰيَةً لِّلْعٰلَمِيْنَ ",
+    tr: "wa<strong>a</strong>llatii a<u>hs</u>anat farjah<u>aa</u> fanafakhn<u>aa</u> fiih<u>aa</u> min ruu<u>h</u>in<u>aa</u> waja'aln<u>aa</u>h<u>aa</u> wa<strong>i</strong>bnah<u>aa</u> <u>aa</u>yatan lil'<u>aa</u>lamiin<strong>a</strong>",
+    idn: "Dan (ingatlah kisah Maryam) yang memelihara kehormatannya, lalu Kami tiupkan (roh) dari Kami ke dalam (tubuh)nya; Kami jadikan dia dan anaknya sebagai tanda (kebesaran Allah)  bagi seluruh alam."
+    },
+    {
+    id: 2575,
+    surah: 21,
+    nomor: 92,
+    ar: "اِنَّ هٰذِهٖٓ اُمَّتُكُمْ اُمَّةً وَّاحِدَةًۖ وَّاَنَا۠ رَبُّكُمْ فَاعْبُدُوْنِ ",
+    tr: "inna h<u>aadz</u>ihi ummatukum ummatan w<u>aah</u>idatan wa-an<u>aa</u> rabbukum fau'buduun<strong>i</strong>",
+    idn: "Sungguh, (agama tauhid) inilah agama kamu, agama yang satu, dan Aku adalah Tuhanmu, maka sembahlah Aku."
+    },
+    {
+    id: 2576,
+    surah: 21,
+    nomor: 93,
+    ar: "وَتَقَطَّعُوْٓا اَمْرَهُمْ بَيْنَهُمْۗ كُلٌّ اِلَيْنَا رَاجِعُوْنَ ࣖ",
+    tr: "wataqa<u>ththh</u>a'uu amrahum baynahum kullun ilayn<u>aa</u> r<u>aa</u>ji'uun<strong>a</strong>",
+    idn: "Tetapi mereka terpecah belah dalam urusan (agama) mereka di antara mereka. Masing-masing (golongan itu semua) akan kembali kepada Kami."
+    },
+    {
+    id: 2577,
+    surah: 21,
+    nomor: 94,
+    ar: "فَمَنْ يَّعْمَلْ مِنَ الصّٰلِحٰتِ وَهُوَ مُؤْمِنٌ فَلَا كُفْرَانَ لِسَعْيِهٖۚ وَاِنَّا لَهٗ كَاتِبُوْنَ ",
+    tr: "faman ya'mal mina <strong>al</strong><u>shshaa</u>li<u>haa</u>ti wahuwa mu/minun fal<u>aa</u> kufr<u>aa</u>na lisa'yihi wa-inn<u>aa</u> lahu k<u>aa</u>tibuun<strong>a</strong>",
+    idn: "Barangsiapa mengerjakan kebajikan, dan dia beriman, maka usahanya tidak akan diingkari (disia-siakan), dan sungguh, Kamilah yang mencatat untuknya."
+    },
+    {
+    id: 2578,
+    surah: 21,
+    nomor: 95,
+    ar: "وَحَرَامٌ عَلٰى قَرْيَةٍ اَهْلَكْنٰهَآ اَنَّهُمْ لَا يَرْجِعُوْنَ ",
+    tr: "wa<u>h</u>ar<u>aa</u>mun 'al<u>aa</u> qaryatin ahlakn<u>aa</u>h<u>aa</u> annahum l<u>aa</u> yarji'uun<strong>a</strong>",
+    idn: "Dan tidak mungkin bagi (penduduk) suatu negeri yang telah Kami binasakan, bahwa mereka tidak akan kembali (kepada Kami)."
+    },
+    {
+    id: 2579,
+    surah: 21,
+    nomor: 96,
+    ar: "حَتّٰىٓ اِذَا فُتِحَتْ يَأْجُوْجُ وَمَأْجُوْجُ وَهُمْ مِّنْ كُلِّ حَدَبٍ يَّنْسِلُوْنَ ",
+    tr: "<u>h</u>att<u>aa</u> i<u>dzaa</u> futi<u>h</u>at ya/juuju wama/juuju wahum min kulli <u>h</u>adabin yansiluun<strong>a</strong>",
+    idn: "Hingga apabila (tembok) Yakjuj dan Makjuj dibukakan dan mereka turun dengan cepat dari seluruh tempat yang tinggi."
+    },
+    {
+    id: 2580,
+    surah: 21,
+    nomor: 97,
+    ar: "وَاقْتَرَبَ الْوَعْدُ الْحَقُّ فَاِذَا هِيَ شَاخِصَةٌ اَبْصَارُ الَّذِيْنَ كَفَرُوْاۗ يٰوَيْلَنَا قَدْ كُنَّا فِيْ غَفْلَةٍ مِّنْ هٰذَا بَلْ كُنَّا ظٰلِمِيْنَ ",
+    tr: "wa<strong>i</strong>qtaraba <strong>a</strong>lwa'du <strong>a</strong>l<u>h</u>aqqu fa-i<u>dzaa</u> hiya sy<u>aa</u>khi<u>sh</u>atun ab<u>shaa</u>ru <strong>al</strong>la<u>dz</u>iina kafaruu y<u>aa</u> waylan<u>aa</u> qad kunn<u>aa</u> fii ghaflatin min h<u>aadzaa</u> bal kunn<u>aa</u> <u>zhaa</u>limiin<strong>a</strong>",
+    idn: "Dan (apabila) janji yang benar (hari berbangkit) telah dekat, maka tiba-tiba mata orang-orang yang kafir terbelalak. (Mereka berkata), ”Alangkah celakanya kami! Kami benar-benar lengah tentang ini, bahkan kami benar-benar orang yang zalim.”"
+    },
+    {
+    id: 2581,
+    surah: 21,
+    nomor: 98,
+    ar: "اِنَّكُمْ وَمَا تَعْبُدُوْنَ مِنْ دُوْنِ اللّٰهِ حَصَبُ جَهَنَّمَۗ اَنْتُمْ لَهَا وَارِدُوْنَ ",
+    tr: "innakum wam<u>aa</u> ta'buduuna min duuni <strong>al</strong>l<u>aa</u>hi <u>h</u>a<u>sh</u>abu jahannama antum lah<u>aa</u> w<u>aa</u>riduun<strong>a</strong>",
+    idn: "Sungguh, kamu (orang kafir) dan apa yang kamu sembah selain Allah, adalah bahan bakar Jahanam. Kamu (pasti) masuk ke dalamnya."
+    },
+    {
+    id: 2582,
+    surah: 21,
+    nomor: 99,
+    ar: "لَوْ كَانَ هٰٓؤُلَاۤءِ اٰلِهَةً مَّا وَرَدُوْهَاۗ وَكُلٌّ فِيْهَا خٰلِدُوْنَ ",
+    tr: "law k<u>aa</u>na h<u>aa</u>ul<u>aa</u>-i <u>aa</u>lihatan m<u>aa</u> waraduuh<u>aa</u> wakullun fiih<u>aa</u> kh<u>aa</u>liduun<strong>a</strong>",
+    idn: "Seandainya (berhala-berhala) itu tuhan, tentu mereka tidak akan memasukinya (neraka). Tetapi semuanya akan kekal di dalamnya."
+    },
+    {
+    id: 2583,
+    surah: 21,
+    nomor: 100,
+    ar: "لَهُمْ فِيْهَا زَفِيْرٌ وَّهُمْ فِيْهَا لَا يَسْمَعُوْنَ ",
+    tr: "lahum fiih<u>aa</u> zafiirun wahum fiih<u>aa</u> l<u>aa</u> yasma'uun<strong>a</strong>",
+    idn: "Mereka merintih dan menjerit di dalamnya (neraka), dan mereka di dalamnya tidak dapat mendengar."
+    },
+    {
+    id: 2584,
+    surah: 21,
+    nomor: 101,
+    ar: "اِنَّ الَّذِيْنَ سَبَقَتْ لَهُمْ مِّنَّا الْحُسْنٰىٓۙ اُولٰۤىِٕكَ عَنْهَا مُبْعَدُوْنَ ۙ",
+    tr: "inna <strong>al</strong>la<u>dz</u>iina sabaqat lahum minn<u>aa</u> <strong>a</strong>l<u>h</u>usn<u>aa</u> ul<u>aa</u>-ika 'anh<u>aa </u>mub'aduun<strong>a</strong>",
+    idn: "Sungguh, sejak dahulu bagi orang-orang yang telah ada (ketetapan) yang baik dari Kami, mereka itu akan dijauhkan (dari neraka)."
+    },
+    {
+    id: 2585,
+    surah: 21,
+    nomor: 102,
+    ar: "لَا يَسْمَعُوْنَ حَسِيْسَهَاۚ وَهُمْ فِيْ مَا اشْتَهَتْ اَنْفُسُهُمْ خٰلِدُوْنَ ۚ",
+    tr: "l<u>aa</u> yasma'uuna <u>h</u>asiisah<u>aa</u> wahum fii m<u>aa</u> isytahat anfusuhum kh<u>aa</u>liduun<strong>a</strong>",
+    idn: "Mereka tidak mendengar bunyi desis (api neraka), dan mereka kekal dalam (menikmati) semua yang mereka ingini.  "
+    },
+    {
+    id: 2586,
+    surah: 21,
+    nomor: 103,
+    ar: "لَا يَحْزُنُهُمُ الْفَزَعُ الْاَكْبَرُ وَتَتَلَقّٰىهُمُ الْمَلٰۤىِٕكَةُۗ هٰذَا يَوْمُكُمُ الَّذِيْ كُنْتُمْ تُوْعَدُوْنَ ",
+    tr: "l<u>aa</u> ya<u>h</u>zunuhumu <strong>a</strong>lfaza'u <strong>a</strong>l-akbaru watatalaqq<u>aa</u>humu <strong>a</strong>lmal<u>aa</u>-ikatu h<u>aadzaa</u> yawmukumu <strong>al</strong>la<u>dz</u>ii kuntum tuu'aduun<strong>a</strong>",
+    idn: "Kejutan yang dahsyat tidak membuat mereka merasa sedih, dan para malaikat akan menyambut mereka (dengan ucapan), “Inilah harimu yang telah dijanjikan kepadamu.”"
+    },
+    {
+    id: 2587,
+    surah: 21,
+    nomor: 104,
+    ar: "يَوْمَ نَطْوِى السَّمَاۤءَ كَطَيِّ السِّجِلِّ لِلْكُتُبِۗ  كَمَا بَدَأْنَآ اَوَّلَ خَلْقٍ نُّعِيْدُهٗۗ وَعْدًا عَلَيْنَاۗ اِنَّا كُنَّا فٰعِلِيْنَ ",
+    tr: "yawma na<u>th</u>wii <strong>al</strong>ssam<u>aa</u>-a ka<u>th</u>ayyi <strong>al</strong>ssijlli lilkutubi kam<u>aa</u> bada/n<u>aa</u> awwala khalqin nu'iiduhu wa'dan 'alayn<u>aa</u> inn<u>aa</u> kunn<u>aa</u> f<u>aa</u>'iliin<strong>a</strong>",
+    idn: "(Ingatlah) pada hari langit Kami gulung seperti menggulung lembaran-lembaran kertas. Sebagaimana Kami telah memulai penciptaan pertama, begitulah Kami akan mengulanginya lagi. (Suatu) janji yang pasti Kami tepati; sungguh, Kami akan melaksanakannya."
+    },
+    {
+    id: 2588,
+    surah: 21,
+    nomor: 105,
+    ar: "وَلَقَدْ كَتَبْنَا فِى الزَّبُوْرِ مِنْۢ بَعْدِ الذِّكْرِ اَنَّ الْاَرْضَ يَرِثُهَا عِبَادِيَ الصّٰلِحُوْنَ ",
+    tr: "walaqad katabn<u>aa</u> fii <strong>al</strong>zzabuuri min ba'di <strong>al</strong><u>dzdz</u>ikri anna <strong>a</strong>l-ar<u>dh</u>a yaritsuh<u>aa</u> 'ib<u>aa</u>diya <strong>al</strong><u>shshaa</u>li<u>h</u>uun<strong>a</strong>",
+    idn: "Dan sungguh, telah Kami tulis di dalam Zabur setelah (tertulis) di dalam Az-Zikr (Lauh Mahfuzh), bahwa bumi ini akan diwarisi oleh hamba-hamba-Ku yang saleh."
+    },
+    {
+    id: 2589,
+    surah: 21,
+    nomor: 106,
+    ar: "اِنَّ فِيْ هٰذَا لَبَلٰغًا لِّقَوْمٍ عٰبِدِيْنَ ۗ",
+    tr: "inna fii h<u>aadzaa</u> labal<u>aa</u>ghan liqawmin '<u>aa</u>bidiin<strong>a</strong>",
+    idn: "Sungguh, (apa yang disebutkan) di dalam (Al-Qur'an) ini, benar-benar menjadi petunjuk (yang lengkap) bagi orang-orang yang menyembah (Allah)."
+    },
+    {
+    id: 2590,
+    surah: 21,
+    nomor: 107,
+    ar: "وَمَآ اَرْسَلْنٰكَ اِلَّا رَحْمَةً لِّلْعٰلَمِيْنَ ",
+    tr: "wam<u>aa</u> arsaln<u>aa</u>ka ill<u>aa</u> ra<u>h</u>matan lil'<u>aa</u>lamiin<strong>a</strong>",
+    idn: "Dan Kami tidak mengutus engkau (Muhammad) melainkan untuk (menjadi) rahmat bagi seluruh alam."
+    },
+    {
+    id: 2591,
+    surah: 21,
+    nomor: 108,
+    ar: "قُلْ اِنَّمَا يُوْحٰٓى اِلَيَّ اَنَّمَآ اِلٰهُكُمْ اِلٰهٌ وَّاحِدٌۚ فَهَلْ اَنْتُمْ مُّسْلِمُوْنَ",
+    tr: "qul innam<u>aa</u> yuu<u>haa</u> ilayya annam<u>aa</u> il<u>aa</u>hukum il<u>aa</u>hun w<u>aah</u>idun fahal antum muslimuun<strong>a</strong>",
+    idn: "Katakanlah (Muhammad), “Sungguh, apa yang diwahyukan kepadaku ialah bahwa Tuhanmu adalah Tuhan Yang Esa, maka apakah kamu telah berserah diri (kepada-Nya)?”"
+    },
+    {
+    id: 2592,
+    surah: 21,
+    nomor: 109,
+    ar: "فَاِنْ تَوَلَّوْا فَقُلْ اٰذَنْتُكُمْ عَلٰى سَوَاۤءٍۗ وَاِنْ اَدْرِيْٓ اَقَرِيْبٌ اَمْ بَعِيْدٌ مَّا تُوْعَدُوْنَ ",
+    tr: "fa-in tawallaw faqul <u>aadz</u>antukum 'al<u>aa</u> saw<u>aa</u>-in wa-in adrii aqariibun am ba'iidun m<u>aa</u> tuu'aduun<strong>a</strong>",
+    idn: "Maka jika mereka berpaling, maka katakanlah (Muhammad), “Aku telah menyampaikan kepadamu (ajaran) yang sama (antara kita) dan aku tidak tahu apakah yang diancamkan kepadamu itu sudah dekat atau masih jauh.”"
+    },
+    {
+    id: 2593,
+    surah: 21,
+    nomor: 110,
+    ar: "اِنَّهٗ يَعْلَمُ الْجَهْرَ مِنَ الْقَوْلِ وَيَعْلَمُ مَا تَكْتُمُوْنَ ",
+    tr: "innahu ya'lamu <strong>a</strong>ljahra mina <strong>a</strong>lqawli waya'lamu m<u>aa</u> taktumuun<strong>a</strong>",
+    idn: "Sungguh, Dia (Allah) mengetahui perkataan (yang kamu ucapkan) dengan terang-terangan, dan mengetahui (pula) apa yang kamu rahasiakan."
+    },
+    {
+    id: 2594,
+    surah: 21,
+    nomor: 111,
+    ar: "وَاِنْ اَدْرِيْ لَعَلَّهٗ فِتْنَةٌ لَّكُمْ وَمَتَاعٌ اِلٰى حِيْنٍ ",
+    tr: "wa-in adrii la'allahu fitnatun lakum wamat<u>aa</u>'un il<u>aa</u> <u>h</u>iin<strong>in</strong>",
+    idn: "Dan aku tidak tahu, boleh jadi hal itu cobaan bagi kamu dan kesenangan sampai waktu yang ditentukan."
+    },
+    {
+    id: 2595,
+    surah: 21,
+    nomor: 112,
+    ar: "قَالَ رَبِّ احْكُمْ بِالْحَقِّۗ وَرَبُّنَا الرَّحْمٰنُ الْمُسْتَعَانُ عَلٰى مَا تَصِفُوْنَ ࣖ",
+    tr: "q<u>aa</u>la rabbi u<u>h</u>kum bi<strong>a</strong>l<u>h</u>aqqi warabbun<u>aa</u> <strong>al</strong>rra<u>h</u>m<u>aa</u>nu <strong>a</strong>lmusta'<u>aa</u>nu 'al<u>aa</u> m<u>aa</u> ta<u>sh</u>ifuun<strong>a</strong>",
+    idn: "Dia (Muhammad) berkata, “Ya Tuhanku, berilah keputusan dengan adil. Dan Tuhan kami Maha Pengasih, tempat memohon segala pertolongan atas semua yang kamu katakan.”"
+    }
+    ],
+    surat_selanjutnya: {
+    id: 22,
+    nomor: 22,
+    nama: "الحج",
+    nama_latin: "Al-Hajj",
+    jumlah_ayat: 78,
+    tempat_turun: "madinah",
+    arti: "Haji",
+    deskripsi: "Surat Al Hajj, termasuk golongan surat-surat Madaniyyah, terdiri atas 78 ayat, sedang menurut pendapat sebahagian ahli tafsir termasuk golongan surat-surat Makkiyah. Sebab perbedaan ini ialah karena sebahagian ayat-ayat surat ini ada yang diturunkan di Mekah dan sebahagian lagi diturunkan di Madinah. <br>Dinamai surat ini <i>Al Hajj</i>, karena surat ini mengemukakan hal-hal yang berhubungan dengan ibadat haji, seperti ihram, thawaf, sa'i, wuquf di Arafah, mencukur rambut, syi'ar-syi'ar Allah, faedah-faedah dan hikmah-hikmah disyari'atkannya haji. Ditegaskan pula bahwa ibadat haji itu telah disyari'atkan di masa Nabi Ibrahim a.s., dan Ka'bah didirikan oleh Nabi Ibrahim a.s. bersama puteranya Ismail a.s.<br>Menurut Al Ghaznawi, surat Al Hajj termasuk di antara surat- surat yang ajaib, diturunkan di malam dan di siang hari, dalam musafir dan dalam keadaan tidak musafir, ada ayat-ayat yang diturunkan di Mekah dan ada pula yang diturunkan di Madinah, isinya ada yang berhubungan dengan peperangan dan ada pula yang berhubungan dengan perdamaian, ada ayat-ayatnya yang muhkam dan ada pula yang mutasyabihaat.",
+    audio: "https://santrikoding.com/storage/audio/022.mp3"
+    },
+    surat_sebelumnya: {
+    id: 20,
+    nomor: 20,
+    nama: "طٰهٰ",
+    nama_latin: "Taha",
+    jumlah_ayat: 135,
+    tempat_turun: "mekah",
+    arti: "Taha",
+    deskripsi: "Surat Thaahaa terdiri atas 135 ayat, diturunkan sesudah diturunkannya surat Maryam, termasuk golongan surat-surat Makkiyyah. Surat ini dinamai <i>Thaahaa</i>, diambil dari perkataan yang berasal dan ayat pertama surat ini. Sebagaimana yang lazim terdapat pada surat-surat yang memakai huruf-huruf abjad pada permulaannya, di mana huruf tersebut seakan-akan merupakan pemberitahuan Allah kepada orang-orang yang membacanya, bahwa sesudah huruf itu akan dikemukakan hal-hal yang  sangat penting diketahui, maka demikian pula halnya dengan ayat-ayat yang terdapat sesudah huruf <i>thaahaa</i> dalam surat ini. Allah menerangkan bahwa Al Quran merupakan peringatan bagi manusia, wahyu dari Allah, Pencipta semesta alam. Kemudian Allah menerangkan kisah beberapa orang nabi; akibat-akibat yang telah ada akan dialami oleh orang-orang yang percaya kepada Allah dan orang-orang yang mengingkari-Nya, baik di dunia maupun di akhirat. Selain hal-hal tersebut di atas, maka surat ini mengandung pokok-pokok isi sebagai berikut:",
+    audio: "https://santrikoding.com/storage/audio/020.mp3"
+    }
+    }

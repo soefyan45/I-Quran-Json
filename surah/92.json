@@ -1,0 +1,203 @@
+{
+    status: true,
+    nomor: 92,
+    nama: "الّيل",
+    nama_latin: "Al-Lail",
+    jumlah_ayat: 21,
+    tempat_turun: "mekah",
+    arti: "Malam",
+    deskripsi: "Surat ini terdiri atas 21 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al A'laa. Surat ini dinamai <i>Al Lail</i> (malam), diambil dari perkataan <i>Al Lail</i> yang terdapat pada ayat pertama surat ini",
+    audio: "https://santrikoding.com/storage/audio/092.mp3",
+    ayat: [
+    {
+    id: 6059,
+    surah: 92,
+    nomor: 1,
+    ar: "وَالَّيْلِ اِذَا يَغْشٰىۙ",
+    tr: "wa<strong>a</strong>llayli i<u>dzaa</u> yaghsy<u>aa</u>",
+    idn: "Demi malam apabila menutupi (cahaya siang),"
+    },
+    {
+    id: 6060,
+    surah: 92,
+    nomor: 2,
+    ar: "وَالنَّهَارِ اِذَا تَجَلّٰىۙ",
+    tr: "wa<strong>al</strong>nnah<u>aa</u>ri i<u>dzaa</u> tajall<u>aa</u>",
+    idn: "demi siang apabila terang benderang,"
+    },
+    {
+    id: 6061,
+    surah: 92,
+    nomor: 3,
+    ar: "وَمَا خَلَقَ الذَّكَرَ وَالْاُنْثٰىٓ ۙ",
+    tr: "wam<u>aa</u> khalaqa <strong>al</strong><u>dzdz</u>akara wa<strong>a</strong>l-unts<u>aa</u>",
+    idn: "demi penciptaan laki-laki dan perempuan,"
+    },
+    {
+    id: 6062,
+    surah: 92,
+    nomor: 4,
+    ar: "اِنَّ سَعْيَكُمْ لَشَتّٰىۗ",
+    tr: "inna sa'yakum lasyatt<u>aa</u>",
+    idn: "sungguh, usahamu memang beraneka macam."
+    },
+    {
+    id: 6063,
+    surah: 92,
+    nomor: 5,
+    ar: "فَاَمَّا مَنْ اَعْطٰى وَاتَّقٰىۙ",
+    tr: "fa-amm<u>aa</u> man a'<u>th</u><u>aa</u> wa<strong>i</strong>ttaq<u>aa</u>",
+    idn: "Maka barangsiapa memberikan (hartanya di jalan Allah) dan bertakwa,"
+    },
+    {
+    id: 6064,
+    surah: 92,
+    nomor: 6,
+    ar: "وَصَدَّقَ بِالْحُسْنٰىۙ",
+    tr: "wa<u>sh</u>addaqa bi<strong>a</strong>l<u>h</u>usn<u>aa</u>",
+    idn: "dan membenarkan (adanya pahala) yang terbaik (surga),"
+    },
+    {
+    id: 6065,
+    surah: 92,
+    nomor: 7,
+    ar: "فَسَنُيَسِّرُهٗ لِلْيُسْرٰىۗ",
+    tr: "fasanuyassiruhu lilyusr<u>aa</u>",
+    idn: "maka akan Kami mudahkan baginya jalan menuju kemudahan (kebahagiaan),"
+    },
+    {
+    id: 6066,
+    surah: 92,
+    nomor: 8,
+    ar: "وَاَمَّا مَنْۢ بَخِلَ وَاسْتَغْنٰىۙ",
+    tr: "wa-amm<u>aa</u> man bakhila wa<strong>i</strong>staghn<u>aa</u>",
+    idn: "dan adapun orang yang kikir dan merasa dirinya cukup (tidak perlu pertolongan Allah),"
+    },
+    {
+    id: 6067,
+    surah: 92,
+    nomor: 9,
+    ar: "وَكَذَّبَ بِالْحُسْنٰىۙ",
+    tr: "waka<u>dzdz</u>aba bi<strong>a</strong>l<u>h</u>usn<u>aa</u>",
+    idn: "serta mendustakan (pahala) yang terbaik,"
+    },
+    {
+    id: 6068,
+    surah: 92,
+    nomor: 10,
+    ar: "فَسَنُيَسِّرُهٗ لِلْعُسْرٰىۗ",
+    tr: "fasanuyassiruhu lil'usr<u>aa</u>",
+    idn: "maka akan Kami mudahkan baginya jalan menuju kesukaran (kesengsaraan),"
+    },
+    {
+    id: 6069,
+    surah: 92,
+    nomor: 11,
+    ar: "وَمَا يُغْنِيْ عَنْهُ مَالُهٗٓ اِذَا تَرَدّٰىٓۙ",
+    tr: "wam<u>aa</u> yughnii 'anhu m<u>aa</u>luhu i<u>dzaa</u> taradd<u>aa</u>",
+    idn: "dan hartanya tidak bermanfaat baginya apabila dia telah binasa."
+    },
+    {
+    id: 6070,
+    surah: 92,
+    nomor: 12,
+    ar: "اِنَّ عَلَيْنَا لَلْهُدٰىۖ",
+    tr: "inna 'alayn<u>aa</u> lalhud<u>aa</u>",
+    idn: "Sesungguhnya Kamilah yang memberi petunjuk,"
+    },
+    {
+    id: 6071,
+    surah: 92,
+    nomor: 13,
+    ar: "وَاِنَّ لَنَا لَلْاٰخِرَةَ وَالْاُوْلٰىۗ",
+    tr: "wa-inna lan<u>aa</u> lal-<u>aa</u>khirata wa<strong>a</strong>l-uul<u>aa</u>",
+    idn: "dan sesungguhnya milik Kamilah akhirat dan dunia itu."
+    },
+    {
+    id: 6072,
+    surah: 92,
+    nomor: 14,
+    ar: "فَاَنْذَرْتُكُمْ نَارًا تَلَظّٰىۚ",
+    tr: "fa-an<u>dz</u>artukum n<u>aa</u>ran tala<u>zhzhaa</u>",
+    idn: "Maka Aku memperingatkan kamu dengan neraka yang menyala-nyala,"
+    },
+    {
+    id: 6073,
+    surah: 92,
+    nomor: 15,
+    ar: "لَا يَصْلٰىهَآ اِلَّا الْاَشْقَىۙ",
+    tr: "l<u>aa</u> ya<u>sh</u>l<u>aa</u>h<u>aa</u> ill<u>aa</u> <strong>a</strong>l-asyq<u>aa</u>",
+    idn: "yang hanya dimasuki oleh orang yang paling celaka,"
+    },
+    {
+    id: 6074,
+    surah: 92,
+    nomor: 16,
+    ar: "الَّذِيْ كَذَّبَ وَتَوَلّٰىۗ",
+    tr: "<strong>al</strong>la<u>dz</u>ii ka<u>dzdz</u>aba watawall<u>aa</u>",
+    idn: "yang mendustakan (kebenaran) dan berpaling (dari iman)."
+    },
+    {
+    id: 6075,
+    surah: 92,
+    nomor: 17,
+    ar: "وَسَيُجَنَّبُهَا الْاَتْقَىۙ",
+    tr: "wasayujannabuh<u>aa</u> <strong>a</strong>l-atq<u>aa</u>",
+    idn: "Dan akan dijauhkan darinya (neraka) orang yang paling bertakwa, "
+    },
+    {
+    id: 6076,
+    surah: 92,
+    nomor: 18,
+    ar: "الَّذِيْ يُؤْتِيْ مَالَهٗ يَتَزَكّٰىۚ",
+    tr: "<strong>al</strong>la<u>dz</u>ii yu/tii m<u>aa</u>lahu yatazakk<u>aa</u>",
+    idn: "yang menginfakkan hartanya (di jalan Allah) untuk membersihkan (dirinya),"
+    },
+    {
+    id: 6077,
+    surah: 92,
+    nomor: 19,
+    ar: "وَمَا لِاَحَدٍ عِنْدَهٗ مِنْ نِّعْمَةٍ تُجْزٰىٓۙ",
+    tr: "wam<u>aa</u> li-a<u>h</u>adin 'indahu min ni'matin tujz<u>aa</u>",
+    idn: "dan tidak ada seorang pun memberikan suatu nikmat padanya yang harus dibalasnya,"
+    },
+    {
+    id: 6078,
+    surah: 92,
+    nomor: 20,
+    ar: "اِلَّا ابْتِغَاۤءَ وَجْهِ رَبِّهِ الْاَعْلٰىۚ",
+    tr: "ill<u>aa</u> ibtigh<u>aa</u>-a wajhi rabbihi <strong>a</strong>l-a'l<u>aa</u>",
+    idn: "tetapi (dia memberikan itu semata-mata) karena mencari keridaan Tuhannya Yang Mahatinggi."
+    },
+    {
+    id: 6079,
+    surah: 92,
+    nomor: 21,
+    ar: "وَلَسَوْفَ يَرْضٰى ࣖ",
+    tr: "walasawfa yar<u>daa</u>",
+    idn: "Dan niscaya kelak dia akan mendapat kesenangan (yang sempurna)."
+    }
+    ],
+    surat_selanjutnya: {
+    id: 93,
+    nomor: 93,
+    nama: "الضحى",
+    nama_latin: "Ad-Duha",
+    jumlah_ayat: 11,
+    tempat_turun: "mekah",
+    arti: "Duha",
+    deskripsi: "Surat ini terdiri atas 11 ayat, termasuk golongan surat Makiyyah dan diturunkan sesudah surat Al Fajr. Nama <i>Adh Dhuhaa</i> diambil dari kata yang terdapat pada ayat pertama, artinya : waktu matahari sepenggalahan naik.",
+    audio: "https://santrikoding.com/storage/audio/093.mp3"
+    },
+    surat_sebelumnya: {
+    id: 91,
+    nomor: 91,
+    nama: "الشمس",
+    nama_latin: "Asy-Syams",
+    jumlah_ayat: 15,
+    tempat_turun: "mekah",
+    arti: "Matahari",
+    deskripsi: "Surat Asy Syams terdiri atas 15 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Qadar.  Dinamai <i>Asy Syams</i> (matahari) diambil dari perkataan <i>Asy Syams</i> yang terdapat pada ayat permulaan surat ini.",
+    audio: "https://santrikoding.com/storage/audio/091.mp3"
+    }
+    }

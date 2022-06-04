@@ -1,0 +1,187 @@
+{
+    status: true,
+    nomor: 82,
+    nama: "الانفطار",
+    nama_latin: "Al-Infitar",
+    jumlah_ayat: 19,
+    tempat_turun: "mekah",
+    arti: "Terbelah",
+    deskripsi: "Surat ini terdiri atas 19 ayat, termasuk golongan surat-surat Makkiyah dan diturunkan sesudah surat An Naazi'aat. Al Infithaar yang dijadikan  nama untuk surat ini adalah kata asal dari kata <i>Infatharat</i> (terbelah)  yang terdapat pada ayat pertama.",
+    audio: "https://santrikoding.com/storage/audio/082.mp3",
+    ayat: [
+    {
+    id: 5830,
+    surah: 82,
+    nomor: 1,
+    ar: "اِذَا السَّمَاۤءُ انْفَطَرَتْۙ",
+    tr: "i<u>dzaa</u> <strong>al</strong>ssam<u>aa</u>u infa<u>th</u>arath",
+    idn: "Apabila langit terbelah, "
+    },
+    {
+    id: 5831,
+    surah: 82,
+    nomor: 2,
+    ar: "وَاِذَا الْكَوَاكِبُ انْتَثَرَتْۙ",
+    tr: "wa-i<u>dzaa</u> <strong>a</strong>lkaw<u>aa</u>kibu intatsarath",
+    idn: "dan apabila bintang-bintang jatuh berserakan, "
+    },
+    {
+    id: 5832,
+    surah: 82,
+    nomor: 3,
+    ar: "وَاِذَا الْبِحَارُ فُجِّرَتْۙ",
+    tr: "wa-i<u>dzaa</u> <strong>a</strong>lbi<u>haa</u>ru fujjirath",
+    idn: "dan apabila lautan dijadikan meluap, "
+    },
+    {
+    id: 5833,
+    surah: 82,
+    nomor: 4,
+    ar: "وَاِذَا الْقُبُوْرُ بُعْثِرَتْۙ",
+    tr: "wa-i<u>dzaa</u> <strong>a</strong>lqubuuru bu'tsirath",
+    idn: "dan apabila kuburan-kuburan dibongkar,"
+    },
+    {
+    id: 5834,
+    surah: 82,
+    nomor: 5,
+    ar: "عَلِمَتْ نَفْسٌ مَّا قَدَّمَتْ وَاَخَّرَتْۗ",
+    tr: "'alimat nafsun m<u>aa</u> qaddamat wa-akhkharath",
+    idn: "(maka) setiap jiwa akan mengetahui apa yang telah dikerjakan dan yang dilalaikan(nya)."
+    },
+    {
+    id: 5835,
+    surah: 82,
+    nomor: 6,
+    ar: "يٰٓاَيُّهَا الْاِنْسَانُ مَا غَرَّكَ بِرَبِّكَ الْكَرِيْمِۙ",
+    tr: "y<u>aa</u> ayyuh<u>aa</u> <strong>a</strong>l-ins<u>aa</u>nu m<u>aa</u> gharraka birabbika <strong>a</strong>lkariim<strong>i</strong>",
+    idn: "Wahai manusia! Apakah yang telah memperdayakan kamu (berbuat durhaka) terhadap Tuhanmu Yang Mahamulia, "
+    },
+    {
+    id: 5836,
+    surah: 82,
+    nomor: 7,
+    ar: "الَّذِيْ خَلَقَكَ فَسَوّٰىكَ فَعَدَلَكَۙ",
+    tr: "<strong>al</strong>la<u>dz</u>ii khalaqaka fasaww<u>aa</u>ka fa'adalak<strong>a</strong>",
+    idn: "yang telah menciptakanmu lalu menyempurnakan kejadianmu dan menjadikan (susunan tubuh)mu seimbang, "
+    },
+    {
+    id: 5837,
+    surah: 82,
+    nomor: 8,
+    ar: "فِيْٓ اَيِّ صُوْرَةٍ مَّا شَاۤءَ رَكَّبَكَۗ",
+    tr: "fii ayyi <u>sh</u>uuratin m<u>aa</u> sy<u>aa</u>-a rakkabak<strong>a</strong>",
+    idn: "dalam bentuk apa saja yang dikehendaki, Dia menyusun tubuhmu. "
+    },
+    {
+    id: 5838,
+    surah: 82,
+    nomor: 9,
+    ar: "كَلَّا بَلْ تُكَذِّبُوْنَ بِالدِّيْنِۙ",
+    tr: "kall<u>aa</u> bal tuka<u>dzdz</u>ibuuna bi<strong>al</strong>ddiin<strong>i</strong>",
+    idn: "Sekali-kali jangan begitu! Bahkan kamu mendustakan hari pembalasan."
+    },
+    {
+    id: 5839,
+    surah: 82,
+    nomor: 10,
+    ar: "وَاِنَّ عَلَيْكُمْ لَحٰفِظِيْنَۙ",
+    tr: "wa-inna 'alaykum la<u>haa</u>fi<u>zh</u>iin<strong>a</strong>",
+    idn: "Dan sesungguhnya bagi kamu ada (malaikat-malaikat) yang mengawasi (pekerjaanmu), "
+    },
+    {
+    id: 5840,
+    surah: 82,
+    nomor: 11,
+    ar: "كِرَامًا كَاتِبِيْنَۙ",
+    tr: "kir<u>aa</u>man k<u>aa</u>tibiin<strong>a</strong>",
+    idn: "yang mulia (di sisi Allah) dan yang mencatat (amal perbuatanmu), "
+    },
+    {
+    id: 5841,
+    surah: 82,
+    nomor: 12,
+    ar: "يَعْلَمُوْنَ مَا تَفْعَلُوْنَ",
+    tr: "ya'lamuuna m<u>aa</u> taf'aluun<strong>a</strong>",
+    idn: "mereka mengetahui apa yang kamu kerjakan. "
+    },
+    {
+    id: 5842,
+    surah: 82,
+    nomor: 13,
+    ar: "اِنَّ الْاَبْرَارَ لَفِيْ نَعِيْمٍۙ",
+    tr: "inna <strong>a</strong>l-abr<u>aa</u>ra lafii na'iim<strong>in</strong>",
+    idn: "Sesungguhnya orang-orang yang berbakti benar-benar berada dalam (surga yang penuh) kenikmatan, "
+    },
+    {
+    id: 5843,
+    surah: 82,
+    nomor: 14,
+    ar: "وَّاِنَّ الْفُجَّارَ لَفِيْ جَحِيْمٍ",
+    tr: "wa-inna <strong>a</strong>lfujj<u>aa</u>ra lafii ja<u>h</u>iim<strong>in</strong>",
+    idn: "dan sesungguhnya orang-orang yang durhaka benar-benar berada dalam neraka. "
+    },
+    {
+    id: 5844,
+    surah: 82,
+    nomor: 15,
+    ar: "يَصْلَوْنَهَا يَوْمَ الدِّيْنِ",
+    tr: "ya<u>sh</u>lawnah<u>aa</u> yawma <strong>al</strong>ddiin<strong>i</strong>",
+    idn: "Mereka masuk ke dalamnya pada hari pembalasan."
+    },
+    {
+    id: 5845,
+    surah: 82,
+    nomor: 16,
+    ar: "وَمَا هُمْ عَنْهَا بِغَاۤىِٕبِيْنَۗ",
+    tr: "wam<u>aa</u> hum 'anh<u>aa</u> bigh<u>aa</u>-ibiin<strong>a</strong>",
+    idn: "Dan mereka tidak mungkin keluar dari neraka itu. "
+    },
+    {
+    id: 5846,
+    surah: 82,
+    nomor: 17,
+    ar: "وَمَآ اَدْرٰىكَ مَا يَوْمُ الدِّيْنِۙ",
+    tr: "wam<u>aa</u> adr<u>aa</u>ka m<u>aa</u> yawmu <strong>al</strong>ddiini",
+    idn: "Dan tahukah kamu apakah hari pembalasan itu? "
+    },
+    {
+    id: 5847,
+    surah: 82,
+    nomor: 18,
+    ar: "ثُمَّ مَآ اَدْرٰىكَ مَا يَوْمُ الدِّيْنِۗ",
+    tr: "tsumma m<u>aa</u> adr<u>aa</u>ka m<u>aa</u> yawmu <strong>al</strong>ddiin<strong>i</strong>",
+    idn: "Sekali lagi, tahukah kamu apakah hari pembalasan itu? "
+    },
+    {
+    id: 5848,
+    surah: 82,
+    nomor: 19,
+    ar: "يَوْمَ لَا تَمْلِكُ نَفْسٌ لِّنَفْسٍ شَيْـًٔا ۗوَالْاَمْرُ يَوْمَىِٕذٍ لِّلّٰهِ ࣖ",
+    tr: "yawma l<u>aa</u> tamliku nafsun linafsin syay-an wa<strong>a</strong>l-amru yawma-i<u>dz</u>in lill<u>aa</u>h<strong>i</strong>",
+    idn: "(Yaitu) pada hari (ketika) seseorang sama sekali tidak berdaya (menolong) orang lain. Dan segala urusan pada hari itu dalam kekuasaan Allah. "
+    }
+    ],
+    surat_selanjutnya: {
+    id: 83,
+    nomor: 83,
+    nama: "المطفّفين",
+    nama_latin: "Al-Mutaffifin",
+    jumlah_ayat: 36,
+    tempat_turun: "mekah",
+    arti: "Orang-Orang Curang",
+    deskripsi: "Surat ini terdiri atas 36 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al 'Ankabuut dan merupakan  surat yang terakhir di Mekkah sebelum hijrah. <i>Al Muthaffifiin</i>  yang dijadikan nama bagi surat ini diambil dari kata  <i>Al Muthaffifiin</i> yang terdapat pada ayat pertama.",
+    audio: "https://santrikoding.com/storage/audio/083.mp3"
+    },
+    surat_sebelumnya: {
+    id: 81,
+    nomor: 81,
+    nama: "التكوير",
+    nama_latin: "At-Takwir",
+    jumlah_ayat: 29,
+    tempat_turun: "mekah",
+    arti: "Penggulungan",
+    deskripsi: "Surat At Takwir terdiri atas 29 ayat dan termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al Masadd. Kata <i>At Takwir</i> (terbelah) yang menjadi nama bagi surat ini adalah dari kata asal (mashdar) dari kata kerja <i>kuwwirat</i> (digulung) yang terdapat pada ayat pertama surat ini.",
+    audio: "https://santrikoding.com/storage/audio/081.mp3"
+    }
+    }

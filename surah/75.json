@@ -1,0 +1,355 @@
+{
+    status: true,
+    nomor: 75,
+    nama: "القيٰمة",
+    nama_latin: "Al-Qiyamah",
+    jumlah_ayat: 40,
+    tempat_turun: "mekah",
+    arti: "Hari Kiamat",
+    deskripsi: "Surat Al Qiyaamah terdiri atas 40 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al Qaari'ah. Dinamai <i>Al Qiyaamah</i> (hari kiamat) diambil dari perkataan <i>Al Qiyaamah</i> yang terdapat pada ayat pertama surat ini.",
+    audio: "https://santrikoding.com/storage/audio/075.mp3",
+    ayat: [
+    {
+    id: 5552,
+    surah: 75,
+    nomor: 1,
+    ar: "لَآ اُقْسِمُ بِيَوْمِ الْقِيٰمَةِۙ",
+    tr: "l<u>aa</u> uqsimu biyawmi <strong>a</strong>lqiy<u>aa</u>mat<strong>i</strong>",
+    idn: "Aku bersumpah dengan hari Kiamat,"
+    },
+    {
+    id: 5553,
+    surah: 75,
+    nomor: 2,
+    ar: "وَلَآ اُقْسِمُ بِالنَّفْسِ اللَّوَّامَةِ ",
+    tr: "wal<u>aa</u> uqsimu bi<strong>al</strong>nnafsi <strong>al</strong>laww<u>aa</u>mat<strong>i</strong>",
+    idn: "dan aku bersumpah demi jiwa yang selalu menyesali (dirinya sendiri)."
+    },
+    {
+    id: 5554,
+    surah: 75,
+    nomor: 3,
+    ar: "اَيَحْسَبُ الْاِنْسَانُ اَلَّنْ نَّجْمَعَ عِظَامَهٗ ۗ",
+    tr: "aya<u>h</u>sabu <strong>a</strong>l-ins<u>aa</u>nu <strong>al</strong>lan najma'a 'i<u>zhaa</u>mah<strong>u</strong>",
+    idn: "Apakah manusia mengira bahwa Kami tidak akan mengumpulkan (kembali) tulang-belulangnya?"
+    },
+    {
+    id: 5555,
+    surah: 75,
+    nomor: 4,
+    ar: "بَلٰى قَادِرِيْنَ عَلٰٓى اَنْ نُّسَوِّيَ بَنَانَهٗ ",
+    tr: "bal<u>aa</u> q<u>aa</u>diriina 'al<u>aa</u> an nusawwiya ban<u>aa</u>nah<strong>u</strong>",
+    idn: "(Bahkan) Kami mampu menyusun (kembali) jari-jemarinya dengan sempurna. "
+    },
+    {
+    id: 5556,
+    surah: 75,
+    nomor: 5,
+    ar: "بَلْ يُرِيْدُ الْاِنْسَانُ لِيَفْجُرَ اَمَامَهٗۚ",
+    tr: "bal yuriidu <strong>a</strong>l-ins<u>aa</u>nu liyafjura am<u>aa</u>mah<strong>u</strong>",
+    idn: "Tetapi manusia hendak membuat maksiat terus-menerus. "
+    },
+    {
+    id: 5557,
+    surah: 75,
+    nomor: 6,
+    ar: "يَسْـَٔلُ اَيَّانَ يَوْمُ الْقِيٰمَةِۗ",
+    tr: "yas-alu ayy<u>aa</u>na yawmu <strong>a</strong>lqiy<u>aa</u>ma<strong>ti</strong>",
+    idn: "Dia bertanya, “Kapankah hari Kiamat itu?”"
+    },
+    {
+    id: 5558,
+    surah: 75,
+    nomor: 7,
+    ar: "فَاِذَا بَرِقَ الْبَصَرُۙ",
+    tr: "fa-i<u>dzaa</u> bariqa <strong>a</strong>lba<u>sh</u>ar<strong>u</strong>",
+    idn: "Maka apabila mata terbelalak (ketakutan), "
+    },
+    {
+    id: 5559,
+    surah: 75,
+    nomor: 8,
+    ar: "وَخَسَفَ الْقَمَرُۙ",
+    tr: "wakhasafa <strong>a</strong>lqamar<strong>u</strong>",
+    idn: "dan bulan pun telah hilang cahayanya,"
+    },
+    {
+    id: 5560,
+    surah: 75,
+    nomor: 9,
+    ar: "وَجُمِعَ الشَّمْسُ وَالْقَمَرُۙ",
+    tr: "wajumi'a <strong>al</strong>sysyamsu wa<strong>a</strong>lqamar<strong>u</strong>",
+    idn: "lalu matahari dan bulan dikumpulkan, "
+    },
+    {
+    id: 5561,
+    surah: 75,
+    nomor: 10,
+    ar: "يَقُوْلُ الْاِنْسَانُ يَوْمَىِٕذٍ اَيْنَ الْمَفَرُّۚ",
+    tr: "yaquulu <strong>a</strong>l-ins<u>aa</u>nu yawma-i<u>dz</u>in ayna <strong>a</strong>lmafar<strong>ru</strong>",
+    idn: "pada hari itu manusia berkata, “Ke mana tempat lari?”"
+    },
+    {
+    id: 5562,
+    surah: 75,
+    nomor: 11,
+    ar: "كَلَّا لَا وَزَرَۗ",
+    tr: "kall<u>aa</u> l<u>aa</u> wazar<strong>a</strong>",
+    idn: "Tidak! Tidak ada tempat berlindung!"
+    },
+    {
+    id: 5563,
+    surah: 75,
+    nomor: 12,
+    ar: "اِلٰى رَبِّكَ يَوْمَىِٕذِ ِۨالْمُسْتَقَرُّۗ",
+    tr: "il<u>aa</u> rabbika yawma-i<u>dz</u>in <strong>a</strong>lmustaqar<strong>ru</strong>",
+    idn: "Hanya kepada Tuhanmu tempat kembali pada hari itu."
+    },
+    {
+    id: 5564,
+    surah: 75,
+    nomor: 13,
+    ar: "يُنَبَّؤُا الْاِنْسَانُ يَوْمَىِٕذٍۢ بِمَا قَدَّمَ وَاَخَّرَۗ",
+    tr: "yunabbau <strong>a</strong>l-ins<u>aa</u>nu yawma-i<u>dz</u>in bim<u>aa</u> qaddama wa-akhkhar<strong>a</strong>",
+    idn: "Pada hari itu diberitakan kepada manusia apa yang telah dikerjakannya dan apa yang dilalaikannya."
+    },
+    {
+    id: 5565,
+    surah: 75,
+    nomor: 14,
+    ar: "بَلِ الْاِنْسَانُ عَلٰى نَفْسِهٖ بَصِيْرَةٌۙ",
+    tr: "bali <strong>a</strong>l-ins<u>aa</u>nu 'al<u>aa</u> nafsihi ba<u>sh</u>iira<strong>tun</strong>",
+    idn: "Bahkan manusia menjadi saksi atas dirinya sendiri,"
+    },
+    {
+    id: 5566,
+    surah: 75,
+    nomor: 15,
+    ar: "وَّلَوْ اَلْقٰى مَعَاذِيْرَهٗۗ",
+    tr: "walaw <strong>a</strong>lq<u>aa</u> ma'<u>aadz</u>iirah<strong>u</strong>",
+    idn: "dan meskipun dia mengemukakan alasan-alasannya."
+    },
+    {
+    id: 5567,
+    surah: 75,
+    nomor: 16,
+    ar: "لَا تُحَرِّكْ بِهٖ لِسَانَكَ لِتَعْجَلَ بِهٖۗ",
+    tr: "l<u>aa</u> tu<u>h</u>arrik bihi lis<u>aa</u>naka lita'jala bih<strong>i</strong>",
+    idn: "Jangan engkau (Muhammad) gerakkan lidahmu (untuk membaca Al-Qur'an) karena hendak cepat-cepat (menguasai)nya."
+    },
+    {
+    id: 5568,
+    surah: 75,
+    nomor: 17,
+    ar: "اِنَّ عَلَيْنَا جَمْعَهٗ وَقُرْاٰنَهٗ ۚ",
+    tr: "inna 'alayn<u>aa</u> jam'ahu waqur-<u>aa</u>nah<strong>u</strong>",
+    idn: "Sesungguhnya Kami yang akan mengumpulkannya (di dadamu) dan membacakannya. "
+    },
+    {
+    id: 5569,
+    surah: 75,
+    nomor: 18,
+    ar: "فَاِذَا قَرَأْنٰهُ فَاتَّبِعْ قُرْاٰنَهٗ ۚ",
+    tr: "fa-i<u>dzaa</u> qara/n<u>aa</u>hu fa<strong>i</strong>ttabi' qur-<u>aa</u>nah<strong>u</strong>",
+    idn: "Apabila Kami telah selesai membacakannya maka ikutilah bacaannya itu. "
+    },
+    {
+    id: 5570,
+    surah: 75,
+    nomor: 19,
+    ar: "ثُمَّ اِنَّ عَلَيْنَا بَيَانَهٗ ۗ",
+    tr: "tsumma inna 'alayn<u>aa</u> bay<u>aa</u>nah<strong>u</strong>",
+    idn: "Kemudian sesungguhnya Kami yang akan menjelaskannya. "
+    },
+    {
+    id: 5571,
+    surah: 75,
+    nomor: 20,
+    ar: "كَلَّا بَلْ تُحِبُّوْنَ الْعَاجِلَةَۙ",
+    tr: "kall<u>aa</u> bal tu<u>h</u>ibbuuna <strong>a</strong>l'<u>aa</u>jila<strong>ta</strong>",
+    idn: "Tidak! Bahkan kamu mencintai kehidupan dunia, "
+    },
+    {
+    id: 5572,
+    surah: 75,
+    nomor: 21,
+    ar: "وَتَذَرُوْنَ الْاٰخِرَةَۗ",
+    tr: "wata<u>dz</u>aruuna <strong>a</strong>l-<u>aa</u>khira<strong>ta</strong>",
+    idn: "dan mengabaikan (kehidupan) akhirat. "
+    },
+    {
+    id: 5573,
+    surah: 75,
+    nomor: 22,
+    ar: "وُجُوْهٌ يَّوْمَىِٕذٍ نَّاضِرَةٌۙ",
+    tr: "wujuuhun yawma-i<u>dz</u>in n<u>aad</u>ira<strong>tun</strong>",
+    idn: "Wajah-wajah (orang mukmin) pada hari itu berseri-seri,"
+    },
+    {
+    id: 5574,
+    surah: 75,
+    nomor: 23,
+    ar: "اِلٰى رَبِّهَا نَاظِرَةٌ ۚ",
+    tr: "il<u>aa</u> rabbih<u>aa</u> n<u>aats</u>ira<strong>tun</strong>",
+    idn: "memandang Tuhannya. "
+    },
+    {
+    id: 5575,
+    surah: 75,
+    nomor: 24,
+    ar: "وَوُجُوْهٌ يَّوْمَىِٕذٍۢ بَاسِرَةٌۙ",
+    tr: "wawujuuhun yawma-i<u>dz</u>in b<u>aa</u>sira<strong>tun</strong>",
+    idn: "Dan wajah-wajah (orang kafir) pada hari itu muram, "
+    },
+    {
+    id: 5576,
+    surah: 75,
+    nomor: 25,
+    ar: "تَظُنُّ اَنْ يُّفْعَلَ بِهَا فَاقِرَةٌ ۗ",
+    tr: "ta<u>zh</u>unnu an yuf'ala bih<u>aa</u> f<u>aa</u>qira<strong>tun</strong>",
+    idn: "mereka yakin bahwa akan ditimpakan kepadanya malapetaka yang sangat dahsyat."
+    },
+    {
+    id: 5577,
+    surah: 75,
+    nomor: 26,
+    ar: "كَلَّآ اِذَا بَلَغَتِ التَّرَاقِيَۙ",
+    tr: "kall<u>aa</u> i<u>dzaa</u> balaghati <strong>al</strong>ttar<u>aa</u>qiy<strong>a</strong>",
+    idn: "Tidak! Apabila (nyawa) telah sampai ke kerongkongan,"
+    },
+    {
+    id: 5578,
+    surah: 75,
+    nomor: 27,
+    ar: "وَقِيْلَ مَنْ ۜرَاقٍۙ",
+    tr: "waqiila man r<u>aa</u>q<strong>in</strong>",
+    idn: "dan dikatakan (kepadanya), “Siapa yang dapat menyembuhkan?”"
+    },
+    {
+    id: 5579,
+    surah: 75,
+    nomor: 28,
+    ar: "وَّظَنَّ اَنَّهُ الْفِرَاقُۙ",
+    tr: "wa<u>zh</u>anna annahu <strong>a</strong>lfir<u>aa</u>q<strong>u</strong>",
+    idn: "Dan dia yakin bahwa itulah waktu perpisahan (dengan dunia), "
+    },
+    {
+    id: 5580,
+    surah: 75,
+    nomor: 29,
+    ar: "وَالْتَفَّتِ السَّاقُ بِالسَّاقِۙ",
+    tr: "wa<strong>i</strong>ltaffati <strong>al</strong>ss<u>aa</u>qu bi<strong>a</strong>lss<u>aa</u>q<strong>i</strong>",
+    idn: "dan bertaut betis (kiri) dengan betis (kanan),"
+    },
+    {
+    id: 5581,
+    surah: 75,
+    nomor: 30,
+    ar: "اِلٰى رَبِّكَ يَوْمَىِٕذِ ِۨالْمَسَاقُ ۗ ࣖ",
+    tr: "il<u>aa</u> rabbika yawma-i<u>dz</u>in <strong>a</strong>lmas<u>aa</u>q<strong>u</strong>",
+    idn: "kepada Tuhanmulah pada hari itu kamu dihalau. "
+    },
+    {
+    id: 5582,
+    surah: 75,
+    nomor: 31,
+    ar: "فَلَا صَدَّقَ وَلَا صَلّٰىۙ",
+    tr: "fal<u>aa</u> <u>sh</u>addaqa wal<u>aa</u> <u>sh</u>all<u>aa</u>",
+    idn: "Karena dia (dahulu) tidak mau membenarkan (Al-Qur'an dan Rasul) dan tidak mau melaksanakan salat, "
+    },
+    {
+    id: 5583,
+    surah: 75,
+    nomor: 32,
+    ar: "وَلٰكِنْ كَذَّبَ وَتَوَلّٰىۙ",
+    tr: "wal<u>aa</u>kin ka<u>dzdz</u>aba watawall<u>aa</u>",
+    idn: "tetapi justru dia mendustakan (Rasul) dan berpaling (dari kebenaran), "
+    },
+    {
+    id: 5584,
+    surah: 75,
+    nomor: 33,
+    ar: "ثُمَّ ذَهَبَ اِلٰٓى اَهْلِهٖ يَتَمَطّٰىۗ",
+    tr: "tsumma <u>dz</u>ahaba il<u>aa</u> ahlihi yatama<u>ththaa</u>",
+    idn: "kemudian dia pergi kepada keluarganya dengan sombong."
+    },
+    {
+    id: 5585,
+    surah: 75,
+    nomor: 34,
+    ar: "اَوْلٰى لَكَ فَاَوْلٰىۙ",
+    tr: "awl<u>aa</u> laka fa-awl<u>aa</u>",
+    idn: "Celakalah kamu! Maka celakalah! "
+    },
+    {
+    id: 5586,
+    surah: 75,
+    nomor: 35,
+    ar: "ثُمَّ اَوْلٰى لَكَ فَاَوْلٰىۗ",
+    tr: "tsumma awl<u>aa</u> laka fa-awl<u>aa</u>",
+    idn: "Sekali lagi, celakalah kamu (manusia)! Maka celakalah! "
+    },
+    {
+    id: 5587,
+    surah: 75,
+    nomor: 36,
+    ar: "اَيَحْسَبُ الْاِنْسَانُ اَنْ يُّتْرَكَ سُدًىۗ",
+    tr: "aya<u>h</u>sabu <strong>a</strong>l-ins<u>aa</u>nu an yutraka sud<u>aa</u><strong>n</strong>",
+    idn: "Apakah manusia mengira, dia akan dibiarkan begitu saja (tanpa pertanggungjawaban)?"
+    },
+    {
+    id: 5588,
+    surah: 75,
+    nomor: 37,
+    ar: "اَلَمْ يَكُ نُطْفَةً مِّنْ مَّنِيٍّ يُّمْنٰى ",
+    tr: "alam yaku nu<u>th</u>fatan min manayyin yumn<u>aa</u>",
+    idn: "Bukankah dia mulanya hanya setetes mani yang ditumpahkan (ke dalam rahim), "
+    },
+    {
+    id: 5589,
+    surah: 75,
+    nomor: 38,
+    ar: "ثُمَّ كَانَ عَلَقَةً فَخَلَقَ فَسَوّٰىۙ",
+    tr: "tsumma k<u>aa</u>na 'alaqatan fakhalaqa fasaww<u>aa</u>",
+    idn: "kemudian (mani itu) menjadi sesuatu yang melekat, lalu Allah menciptakannya dan menyempurnakannya, "
+    },
+    {
+    id: 5590,
+    surah: 75,
+    nomor: 39,
+    ar: "فَجَعَلَ مِنْهُ الزَّوْجَيْنِ الذَّكَرَ وَالْاُنْثٰىۗ",
+    tr: "faja'ala minhu <strong>al</strong>zzawjayni <strong>al</strong><u>dzdz</u>akara wa<strong>a</strong>l-unts<u>aa</u>",
+    idn: "lalu Dia menjadikan darinya sepasang laki-laki dan perempuan. "
+    },
+    {
+    id: 5591,
+    surah: 75,
+    nomor: 40,
+    ar: "اَلَيْسَ ذٰلِكَ بِقٰدِرٍ عَلٰٓى اَنْ يُّحْيِ َۧ الْمَوْتٰى ࣖ",
+    tr: "alaysa <u>dzaa</u>lika biq<u>aa</u>dirin 'al<u>aa</u> an yu<u>h</u>yiya <strong>a</strong>lmawt<u>aa</u>",
+    idn: "Bukankah (Allah yang berbuat) demikian berkuasa (pula) menghidupkan orang mati?"
+    }
+    ],
+    surat_selanjutnya: {
+    id: 76,
+    nomor: 76,
+    nama: "الانسان",
+    nama_latin: "Al-Insan",
+    jumlah_ayat: 31,
+    tempat_turun: "madinah",
+    arti: "Manusia",
+    deskripsi: "Surat Al Insaan terdiri atas 31 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Ar Rahmaan. Dinamai <i>al Insaan</i> (manusia) diambil dari perkataan <i>Al Insaan</i> yang terdapat pada ayat pertama surat ini.",
+    audio: "https://santrikoding.com/storage/audio/076.mp3"
+    },
+    surat_sebelumnya: {
+    id: 74,
+    nomor: 74,
+    nama: "المدّثّر",
+    nama_latin: "Al-Muddassir",
+    jumlah_ayat: 56,
+    tempat_turun: "mekah",
+    arti: "Orang Yang Berkemul",
+    deskripsi: "Surat Al Muddatstsir terdiri atas 56 ayat, termasuk golongan  surat-surat Makkiyah, diturunkan sesudah surat Al Muzzammil. 	Dinamai <i>Al Muddatstsir</i> (orang yang berkemul) diambil dari perkataan <i>Al Muddatstsir</i> yang terdapat pada ayat pertama surat ini.",
+    audio: "https://santrikoding.com/storage/audio/074.mp3"
+    }
+    }

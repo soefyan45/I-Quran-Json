@@ -1,0 +1,75 @@
+{
+    status: true,
+    nomor: 105,
+    nama: "الفيل",
+    nama_latin: "Al-Fil",
+    jumlah_ayat: 5,
+    tempat_turun: "mekah",
+    arti: "Gajah",
+    deskripsi: "Surat ini terdiri atas 5 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Kaafirun. Nama <i>Al Fiil</i> diambil dari kata <i>Al Fiil</i> yang terdapat pada ayat pertama surat ini, artinya <i>gajah</i>. Surat Al Fiil mengemukakan cerita pasukan bergajah dari Yaman yang dipimpin oleh Abrahah yang ingin meruntuhkan Ka'bah di Mekah. Peristiwa ini terjadi pada tahun Nabi Muhammad s.a.w. dilahirkan.",
+    audio: "https://santrikoding.com/storage/audio/105.mp3",
+    ayat: [
+    {
+    id: 6189,
+    surah: 105,
+    nomor: 1,
+    ar: "اَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِاَصْحٰبِ الْفِيْلِۗ",
+    tr: "alam tara kayfa fa'ala rabbuka bi-a<u>sh</u>-<u>haa</u>bi <strong>a</strong>lfiil<strong>i</strong>",
+    idn: "Tidakkah engkau (Muhammad) perhatikan bagaimana Tuhanmu telah bertindak terhadap pasukan bergajah?"
+    },
+    {
+    id: 6190,
+    surah: 105,
+    nomor: 2,
+    ar: "اَلَمْ يَجْعَلْ كَيْدَهُمْ فِيْ تَضْلِيْلٍۙ",
+    tr: "alam yaj'al kaydahum fii ta<u>dh</u>liil<strong>in</strong>",
+    idn: "Bukankah Dia telah menjadikan tipu daya mereka itu sia-sia?"
+    },
+    {
+    id: 6191,
+    surah: 105,
+    nomor: 3,
+    ar: "وَّاَرْسَلَ عَلَيْهِمْ طَيْرًا اَبَابِيْلَۙ",
+    tr: "wa-arsala 'alayhim <u>th</u>ayran ab<u>aa</u>biil<strong>a</strong>",
+    idn: "dan Dia mengirimkan kepada mereka burung yang berbondong-bondong,"
+    },
+    {
+    id: 6192,
+    surah: 105,
+    nomor: 4,
+    ar: "تَرْمِيْهِمْ بِحِجَارَةٍ مِّنْ سِجِّيْلٍۙ",
+    tr: "tarmiihim bi<u>h</u>ij<u>aa</u>ratin min sijjiil<strong>in</strong>",
+    idn: "yang melempari mereka dengan batu dari tanah liat yang dibakar,"
+    },
+    {
+    id: 6193,
+    surah: 105,
+    nomor: 5,
+    ar: "فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُوْلٍ ࣖ ",
+    tr: "faja'alahum ka'a<u>sh</u>fin ma/kuul<strong>in</strong>",
+    idn: "sehingga mereka dijadikan-Nya seperti daun-daun yang dimakan (ulat)."
+    }
+    ],
+    surat_selanjutnya: {
+    id: 106,
+    nomor: 106,
+    nama: "قريش",
+    nama_latin: "Quraisy",
+    jumlah_ayat: 4,
+    tempat_turun: "mekah",
+    arti: "Quraisy",
+    deskripsi: "Surat ini terdiri atas 4 ayat, termasuk golongan surat-surat Makkiyyah dan diturunkan sesudah surat At Tiin. Nama <i>Quraisy</i> diambil dari kata <i>Quraisy</i> yang terdapat pada ayat pertama, artinya suku Quraisy. Suku Quraisy adalah suku yang mendapat  kehormatan untuk memelihara Ka'bah.",
+    audio: "https://santrikoding.com/storage/audio/106.mp3"
+    },
+    surat_sebelumnya: {
+    id: 104,
+    nomor: 104,
+    nama: "الهمزة",
+    nama_latin: "Al-Humazah",
+    jumlah_ayat: 9,
+    tempat_turun: "mekah",
+    arti: "Pengumpat",
+    deskripsi: "Surat Al Humazah terdiri atas 9 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Qiyaamah. Dinamai <i>Al Humazah</i> (pengumpat) diambil dari perkataan <i>Humazah</i> yang terdapat pada ayat pertama surat ini.",
+    audio: "https://santrikoding.com/storage/audio/104.mp3"
+    }
+    }

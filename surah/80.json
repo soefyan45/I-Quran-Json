@@ -1,0 +1,371 @@
+{
+    status: true,
+    nomor: 80,
+    nama: "عبس",
+    nama_latin: "'Abasa",
+    jumlah_ayat: 42,
+    tempat_turun: "mekah",
+    arti: "Bermuka Masam",
+    deskripsi: "Surat 'Abasa terdiri atas 42 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat An Najm. Dinamai <i>'Abasa</i>  diambil dari perkataan <i>'Abasa</i> yang terdapat pada ayat pertama surat ini.<br> Menurut riwayat, pada suatu ketika Rasulullah s.a.w. menerima dan berbicara dengan pemuka-pemuka Quraisy yang beliau harapkan agar mereka masuk Islam. Dalam pada itu datanglah Ibnu Ummi Maktum, seorang sahabat yang buta yang mengharap agar Rasulullah s.a.w. membacakan kepadanya ayat- ayat Al Quran yang telah diturunkan Allah. tetapi Rasulullah s.a.w. bermuka masam dan memalingkan muka dari Ibnu Ummi Maktum yang buta itu, lalu Allah menurunkan surat ini sebagai teguran atas sikap Rasulullah terhadap ibnu Ummi Maktum itu.",
+    audio: "https://santrikoding.com/storage/audio/080.mp3",
+    ayat: [
+    {
+    id: 5759,
+    surah: 80,
+    nomor: 1,
+    ar: "عَبَسَ وَتَوَلّٰىٓۙ",
+    tr: "'abasa watawall<u>aa</u>",
+    idn: "Dia (Muhammad) berwajah masam dan berpaling,"
+    },
+    {
+    id: 5760,
+    surah: 80,
+    nomor: 2,
+    ar: "اَنْ جَاۤءَهُ الْاَعْمٰىۗ",
+    tr: "an j<u>aa</u>-ahu <strong>a</strong>l-a'm<u>aa</u>",
+    idn: "karena seorang buta telah datang kepadanya (Abdullah bin Ummi Maktum)."
+    },
+    {
+    id: 5761,
+    surah: 80,
+    nomor: 3,
+    ar: "وَمَا يُدْرِيْكَ لَعَلَّهٗ يَزَّكّٰىٓۙ",
+    tr: "wam<u>aa</u> yudriika la'allahu yazzakk<u>aa</u>",
+    idn: "Dan tahukah engkau (Muhammad) barangkali dia ingin menyucikan dirinya (dari dosa),"
+    },
+    {
+    id: 5762,
+    surah: 80,
+    nomor: 4,
+    ar: "اَوْ يَذَّكَّرُ فَتَنْفَعَهُ الذِّكْرٰىۗ",
+    tr: "aw ya<u>dzdz</u>akkaru fatanfa'ahu <strong>al</strong><u>dzdz</u>ikr<u>aa</u>",
+    idn: "atau dia (ingin) mendapatkan pengajaran, yang memberi manfaat kepadanya?"
+    },
+    {
+    id: 5763,
+    surah: 80,
+    nomor: 5,
+    ar: "اَمَّا مَنِ اسْتَغْنٰىۙ",
+    tr: "amm<u>aa</u> mani istaghn<u>aa</u>",
+    idn: "Adapun orang yang merasa dirinya serba cukup (pembesar-pembesar Quraisy),"
+    },
+    {
+    id: 5764,
+    surah: 80,
+    nomor: 6,
+    ar: "فَاَنْتَ لَهٗ تَصَدّٰىۗ",
+    tr: "fa-anta lahu ta<u>sh</u>add<u>aa</u>",
+    idn: "maka engkau (Muhammad) memberi perhatian kepadanya,"
+    },
+    {
+    id: 5765,
+    surah: 80,
+    nomor: 7,
+    ar: "وَمَا عَلَيْكَ اَلَّا يَزَّكّٰىۗ",
+    tr: "wam<u>aa</u> 'alayka <strong>al</strong>l<u>aa</u> yazzakk<u>aa</u>",
+    idn: "padahal tidak ada (cela) atasmu kalau dia tidak menyucikan diri (beriman)."
+    },
+    {
+    id: 5766,
+    surah: 80,
+    nomor: 8,
+    ar: "وَاَمَّا مَنْ جَاۤءَكَ يَسْعٰىۙ",
+    tr: "wa-amm<u>aa</u> man j<u>aa</u>-aka yas'<u>aa</u>",
+    idn: "Dan adapun orang yang datang kepadamu dengan bersegera (untuk mendapatkan pengajaran),"
+    },
+    {
+    id: 5767,
+    surah: 80,
+    nomor: 9,
+    ar: "وَهُوَ يَخْشٰىۙ",
+    tr: "wahuwa yakhsy<u>aa</u>",
+    idn: "sedang dia takut (kepada Allah),"
+    },
+    {
+    id: 5768,
+    surah: 80,
+    nomor: 10,
+    ar: "فَاَنْتَ عَنْهُ تَلَهّٰىۚ",
+    tr: "fa-anta 'anhu talahh<u>aa</u>",
+    idn: "engkau (Muhammad) malah mengabaikannya."
+    },
+    {
+    id: 5769,
+    surah: 80,
+    nomor: 11,
+    ar: "كَلَّآ اِنَّهَا تَذْكِرَةٌ ۚ",
+    tr: "kall<u>aa</u> innah<u>aa</u> ta<u>dz</u>kira<strong>tun</strong>",
+    idn: "Sekali-kali jangan (begitu)! Sungguh, (ajaran-ajaran Allah) itu suatu peringatan,"
+    },
+    {
+    id: 5770,
+    surah: 80,
+    nomor: 12,
+    ar: "فَمَنْ شَاۤءَ ذَكَرَهٗ ۘ",
+    tr: "faman sy<u>aa</u>-a <u>dz</u>akarah<strong>u</strong>",
+    idn: "maka barangsiapa menghendaki, tentulah dia akan memperhatikannya,"
+    },
+    {
+    id: 5771,
+    surah: 80,
+    nomor: 13,
+    ar: "فِيْ صُحُفٍ مُّكَرَّمَةٍۙ",
+    tr: "fii <u>sh</u>u<u>h</u>ufin mukarrama<strong>tin</strong>",
+    idn: "di dalam kitab-kitab yang dimuliakan (di sisi Allah),"
+    },
+    {
+    id: 5772,
+    surah: 80,
+    nomor: 14,
+    ar: "مَّرْفُوْعَةٍ مُّطَهَّرَةٍ ۢ ۙ",
+    tr: "marfuu'atin mu<u>th</u>ahhara<strong>tin</strong>",
+    idn: "yang ditinggikan (dan) disucikan,"
+    },
+    {
+    id: 5773,
+    surah: 80,
+    nomor: 15,
+    ar: "بِاَيْدِيْ سَفَرَةٍۙ",
+    tr: "bi-aydii safara<strong>tin</strong>",
+    idn: "di tangan para utusan (malaikat),"
+    },
+    {
+    id: 5774,
+    surah: 80,
+    nomor: 16,
+    ar: "كِرَامٍۢ بَرَرَةٍۗ",
+    tr: "kir<u>aa</u>min barara<strong>tin</strong>",
+    idn: "yang mulia lagi berbakti."
+    },
+    {
+    id: 5775,
+    surah: 80,
+    nomor: 17,
+    ar: "قُتِلَ الْاِنْسَانُ مَآ اَكْفَرَهٗۗ",
+    tr: "qutila <strong>a</strong>l-ins<u>aa</u>nu m<u>aa</u> akfarah<strong>u</strong>",
+    idn: "Celakalah manusia! Alangkah kufurnya dia!"
+    },
+    {
+    id: 5776,
+    surah: 80,
+    nomor: 18,
+    ar: "مِنْ اَيِّ شَيْءٍ خَلَقَهٗۗ",
+    tr: "min ayyi syay-in khalaqah<strong>u</strong>",
+    idn: "Dari apakah Dia (Allah) menciptakannya?"
+    },
+    {
+    id: 5777,
+    surah: 80,
+    nomor: 19,
+    ar: "مِنْ نُّطْفَةٍۗ خَلَقَهٗ فَقَدَّرَهٗۗ",
+    tr: "min nu<u>th</u>fatin khalaqahu faqaddarah<strong>u</strong>",
+    idn: "Dari setetes mani, Dia menciptakannya lalu menentukannya."
+    },
+    {
+    id: 5778,
+    surah: 80,
+    nomor: 20,
+    ar: "ثُمَّ السَّبِيْلَ يَسَّرَهٗۙ",
+    tr: "tsumma <strong>al</strong>ssabiila yassarah<strong>u</strong>",
+    idn: "Kemudian jalannya Dia mudahkan,"
+    },
+    {
+    id: 5779,
+    surah: 80,
+    nomor: 21,
+    ar: "ثُمَّ اَمَاتَهٗ فَاَقْبَرَهٗۙ",
+    tr: "tsumma am<u>aa</u>tahu fa-aqbarah<strong>u</strong>",
+    idn: "kemudian Dia mematikannya lalu menguburkannya,"
+    },
+    {
+    id: 5780,
+    surah: 80,
+    nomor: 22,
+    ar: "ثُمَّ اِذَا شَاۤءَ اَنْشَرَهٗۗ",
+    tr: "tsumma i<u>dzaa</u> sy<u>aa</u>-a ansyarah<strong>u</strong>",
+    idn: "kemudian jika Dia menghendaki, Dia membangkitkannya kembali."
+    },
+    {
+    id: 5781,
+    surah: 80,
+    nomor: 23,
+    ar: "كَلَّا لَمَّا يَقْضِ مَآ اَمَرَهٗۗ",
+    tr: "kall<u>aa</u> lamm<u>aa</u> yaq<u>dh</u>i m<u>aa</u> amarah<strong>u</strong>",
+    idn: "Sekali-kali jangan (begitu)! Dia (manusia) itu belum melaksanakan apa yang Dia (Allah) perintahkan kepadanya."
+    },
+    {
+    id: 5782,
+    surah: 80,
+    nomor: 24,
+    ar: "فَلْيَنْظُرِ الْاِنْسَانُ اِلٰى طَعَامِهٖٓ ۙ ",
+    tr: "falyan<u>zh</u>uri <strong>a</strong>l-ins<u>aa</u>nu il<u>aa</u> <u>th</u>a'<u>aa</u>mih<strong>i</strong>",
+    idn: "Maka hendaklah manusia itu memperhatikan makanannya."
+    },
+    {
+    id: 5783,
+    surah: 80,
+    nomor: 25,
+    ar: "اَنَّا صَبَبْنَا الْمَاۤءَ صَبًّاۙ",
+    tr: "ann<u>aa</u> <u>sh</u>ababn<u>aa</u> <strong>a</strong>lm<u>aa</u>-a <u>sh</u>abb<u>aa</u><strong>n</strong>",
+    idn: "Kamilah yang telah mencurahkan air melimpah (dari langit),"
+    },
+    {
+    id: 5784,
+    surah: 80,
+    nomor: 26,
+    ar: "ثُمَّ شَقَقْنَا الْاَرْضَ شَقًّاۙ",
+    tr: "tsumma syaqaqn<u>aa</u> <strong>a</strong>l-ar<u>dh</u>a syaqq<u>aa</u><strong>n</strong>",
+    idn: "kemudian Kami belah bumi dengan sebaik-baiknya,"
+    },
+    {
+    id: 5785,
+    surah: 80,
+    nomor: 27,
+    ar: "فَاَنْۢبَتْنَا فِيْهَا حَبًّاۙ",
+    tr: "fa-anbatn<u>aa</u> fiih<u>aa</u> <u>h</u>abb<u>aa</u><strong>n</strong>",
+    idn: "lalu di sana Kami tumbuhkan biji-bijian,"
+    },
+    {
+    id: 5786,
+    surah: 80,
+    nomor: 28,
+    ar: "وَّعِنَبًا وَّقَضْبًاۙ",
+    tr: "wa'inaban waqa<u>dh</u>b<u>aa</u><strong>n</strong>",
+    idn: "dan anggur dan sayur-sayuran,"
+    },
+    {
+    id: 5787,
+    surah: 80,
+    nomor: 29,
+    ar: "وَّزَيْتُوْنًا وَّنَخْلًاۙ",
+    tr: "wazaytuunan wanakhl<u>aa</u><strong>n</strong>",
+    idn: "dan zaitun dan pohon kurma,"
+    },
+    {
+    id: 5788,
+    surah: 80,
+    nomor: 30,
+    ar: "وَّحَدَاۤئِقَ غُلْبًا",
+    tr: "wa<u>h</u>ad<u>aa</u>-iqa ghulb<u>aa</u><strong>n</strong>",
+    idn: "dan kebun-kebun (yang) rindang,"
+    },
+    {
+    id: 5789,
+    surah: 80,
+    nomor: 31,
+    ar: "وَفَاكِهَةً وَّاَبًّا",
+    tr: "waf<u>aa</u>kihatan wa-abb<u>aa</u><strong>n</strong>",
+    idn: "dan buah-buahan serta rerumputan."
+    },
+    {
+    id: 5790,
+    surah: 80,
+    nomor: 32,
+    ar: "مَتَاعًا لَّكُمْ وَلِاَنْعَامِكُمْۗ",
+    tr: "mat<u>aa</u>'an lakum wali-an'<u>aa</u>mikum",
+    idn: "(Semua itu) untuk kesenanganmu dan untuk hewan-hewan ternakmu."
+    },
+    {
+    id: 5791,
+    surah: 80,
+    nomor: 33,
+    ar: "فَاِذَا جَاۤءَتِ الصَّاۤخَّةُ ۖ",
+    tr: "fa-i<u>dzaa</u> j<u>aa</u>-ati <strong>al</strong><u>shshaa</u>khkha<strong>tu</strong>",
+    idn: "Maka apabila datang suara yang memekakkan (tiupan sangkakala yang kedua),"
+    },
+    {
+    id: 5792,
+    surah: 80,
+    nomor: 34,
+    ar: "يَوْمَ يَفِرُّ الْمَرْءُ مِنْ اَخِيْهِۙ",
+    tr: "yawma yafirru <strong>a</strong>lmaru min akhiih<strong>i</strong>",
+    idn: "pada hari itu manusia lari dari saudaranya,"
+    },
+    {
+    id: 5793,
+    surah: 80,
+    nomor: 35,
+    ar: "وَاُمِّهٖ وَاَبِيْهِۙ",
+    tr: "waummihi wa-abiih<strong>i</strong>",
+    idn: "dan dari ibu dan bapaknya,"
+    },
+    {
+    id: 5794,
+    surah: 80,
+    nomor: 36,
+    ar: "وَصَاحِبَتِهٖ وَبَنِيْهِۗ",
+    tr: "wa<u>shaah</u>ibatihi wabaniih<strong>i</strong>",
+    idn: "dan dari istri dan anak-anaknya."
+    },
+    {
+    id: 5795,
+    surah: 80,
+    nomor: 37,
+    ar: "لِكُلِّ امْرِئٍ مِّنْهُمْ يَوْمَىِٕذٍ شَأْنٌ يُّغْنِيْهِۗ",
+    tr: "likulli imri-in minhum yawma-i<u>dz</u>in sya/nun yughniih<strong>i</strong>",
+    idn: "Setiap orang dari mereka pada hari itu mempunyai urusan yang menyibukkannya."
+    },
+    {
+    id: 5796,
+    surah: 80,
+    nomor: 38,
+    ar: "وُجُوْهٌ يَّوْمَىِٕذٍ مُّسْفِرَةٌۙ",
+    tr: "wujuuhun yawma-i<u>dz</u>in musfira<strong>tun</strong>",
+    idn: "Pada hari itu ada wajah-wajah yang berseri-seri,"
+    },
+    {
+    id: 5797,
+    surah: 80,
+    nomor: 39,
+    ar: "ضَاحِكَةٌ مُّسْتَبْشِرَةٌ ۚ",
+    tr: "<u>dah</u>ikatun mustabsyira<strong>tun</strong>",
+    idn: "tertawa dan gembira ria,"
+    },
+    {
+    id: 5798,
+    surah: 80,
+    nomor: 40,
+    ar: "وَوُجُوْهٌ يَّوْمَىِٕذٍ عَلَيْهَا غَبَرَةٌۙ",
+    tr: "wawujuuhun yawma-i<u>dz</u>in 'alayh<u>aa</u> ghabara<strong>tun</strong>",
+    idn: "dan pada hari itu ada (pula) wajah-wajah yang tertutup debu (suram),"
+    },
+    {
+    id: 5799,
+    surah: 80,
+    nomor: 41,
+    ar: "تَرْهَقُهَا قَتَرَةٌ ۗ",
+    tr: "tarhaquh<u>aa</u> qatara<strong>tun</strong>",
+    idn: "tertutup oleh kegelapan (ditimpa kehinaan dan kesusahan)."
+    },
+    {
+    id: 5800,
+    surah: 80,
+    nomor: 42,
+    ar: "اُولٰۤىِٕكَ هُمُ الْكَفَرَةُ الْفَجَرَةُ ࣖ",
+    tr: "ul<u>aa</u>-ika humu <strong>a</strong>lkafaratu <strong>a</strong>lfajara<strong>tu</strong>",
+    idn: "Mereka itulah orang-orang kafir yang durhaka."
+    }
+    ],
+    surat_selanjutnya: {
+    id: 81,
+    nomor: 81,
+    nama: "التكوير",
+    nama_latin: "At-Takwir",
+    jumlah_ayat: 29,
+    tempat_turun: "mekah",
+    arti: "Penggulungan",
+    deskripsi: "Surat At Takwir terdiri atas 29 ayat dan termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al Masadd. Kata <i>At Takwir</i> (terbelah) yang menjadi nama bagi surat ini adalah dari kata asal (mashdar) dari kata kerja <i>kuwwirat</i> (digulung) yang terdapat pada ayat pertama surat ini.",
+    audio: "https://santrikoding.com/storage/audio/081.mp3"
+    },
+    surat_sebelumnya: {
+    id: 79,
+    nomor: 79,
+    nama: "النّٰزعٰت",
+    nama_latin: "An-Nazi'at",
+    jumlah_ayat: 46,
+    tempat_turun: "mekah",
+    arti: "Malaikat Yang Mencabut",
+    deskripsi: "Surat An NaaziÂ´aat terdiri atas 46 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat An NabaÂ´. Dinamai <i>An NaaziÂ´aat</i> diambil dari perkataan <i>An NaaziÂ´aat</i> yang terdapat pada ayat pertama surat ini. Dinamai pula <i>as Saahirah</i> yang diambil dari ayat 14, dinamai juga <i>Ath Thaammah</i> diambil dari ayat 34.",
+    audio: "https://santrikoding.com/storage/audio/079.mp3"
+    }
+    }

@@ -1,0 +1,195 @@
+{
+    status: true,
+    nomor: 73,
+    nama: "المزّمّل",
+    nama_latin: "Al-Muzzammil",
+    jumlah_ayat: 20,
+    tempat_turun: "mekah",
+    arti: "Orang Yang Berselimut",
+    deskripsi: "Surat Al Muzzammil terdiri atas 20 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al Qalam.<br>Dinamai <i>Al Muzzammil</i> (orang yang berselimut) diambil dari perkataan <i>Al Muzzammil</i> yang terdapat pada ayat pertama surat ini. Yang dimaksud dengan <i>orang yang berkemul</i> ialah Nabi Muhammad s.a.w.",
+    audio: "https://santrikoding.com/storage/audio/073.mp3",
+    ayat: [
+    {
+    id: 5476,
+    surah: 73,
+    nomor: 1,
+    ar: "يٰٓاَيُّهَا الْمُزَّمِّلُۙ",
+    tr: "y<u>aa</u> ayyuh<u>aa</u> <strong>a</strong>lmuzzammil<strong>u</strong>",
+    idn: "Wahai orang yang berselimut (Muhammad)!"
+    },
+    {
+    id: 5477,
+    surah: 73,
+    nomor: 2,
+    ar: "قُمِ الَّيْلَ اِلَّا قَلِيْلًاۙ",
+    tr: "qumi <strong>al</strong>layla ill<u>aa</u> qaliil<u>aa</u><strong>n</strong>",
+    idn: "Bangunlah (untuk salat) pada malam hari, kecuali sebagian kecil,"
+    },
+    {
+    id: 5478,
+    surah: 73,
+    nomor: 3,
+    ar: "نِّصْفَهٗٓ اَوِ انْقُصْ مِنْهُ قَلِيْلًاۙ",
+    tr: "ni<u>sh</u>fahu awi unqu<u>sh</u> minhu qaliil<u>aa</u><strong>n</strong>",
+    idn: "(yaitu) separuhnya atau kurang sedikit dari itu,"
+    },
+    {
+    id: 5479,
+    surah: 73,
+    nomor: 4,
+    ar: "اَوْ زِدْ عَلَيْهِ وَرَتِّلِ الْقُرْاٰنَ تَرْتِيْلًاۗ",
+    tr: "aw zid 'alayhi warattili <strong>a</strong>lqur-<u>aa</u>na tartiil<u>aa</u><strong>n</strong>",
+    idn: "atau lebih dari (seperdua) itu, dan bacalah Al-Qur'an itu dengan perlahan-lahan."
+    },
+    {
+    id: 5480,
+    surah: 73,
+    nomor: 5,
+    ar: "اِنَّا سَنُلْقِيْ عَلَيْكَ قَوْلًا ثَقِيْلًا",
+    tr: "inn<u>aa</u> sanulqii 'alayka qawlan tsaqiil<u>aa</u><strong>n</strong>",
+    idn: "Sesungguhnya Kami akan menurunkan perkataan yang berat kepadamu."
+    },
+    {
+    id: 5481,
+    surah: 73,
+    nomor: 6,
+    ar: "اِنَّ نَاشِئَةَ الَّيْلِ هِيَ اَشَدُّ وَطْـًٔا وَّاَقْوَمُ قِيْلًاۗ",
+    tr: "inna n<u>aa</u>syi-ata <strong>al</strong>layli hiya asyaddu wa<u>th</u>-an wa-aqwamu qiil<u>aa</u><strong>n</strong>",
+    idn: "Sungguh, bangun malam itu lebih kuat (mengisi jiwa); dan (bacaan pada waktu itu) lebih berkesan. "
+    },
+    {
+    id: 5482,
+    surah: 73,
+    nomor: 7,
+    ar: "اِنَّ لَكَ فِى النَّهَارِ سَبْحًا طَوِيْلًاۗ",
+    tr: "inna laka fii <strong>al</strong>nnah<u>aa</u>ri sab<u>h</u>an <u>th</u>awiil<u>aa</u><strong>n</strong>",
+    idn: "Sesungguhnya pada siang hari engkau sangat sibuk dengan urusan-urusan yang panjang."
+    },
+    {
+    id: 5483,
+    surah: 73,
+    nomor: 8,
+    ar: "وَاذْكُرِ اسْمَ رَبِّكَ وَتَبَتَّلْ اِلَيْهِ تَبْتِيْلًاۗ",
+    tr: "wa<strong>u</strong><u>dz</u>kuri isma rabbika watabattal ilayhi tabtiil<u>aa</u><strong>n</strong>",
+    idn: "Dan sebutlah nama Tuhanmu, dan beribadahlah kepada-Nya dengan sepenuh hati."
+    },
+    {
+    id: 5484,
+    surah: 73,
+    nomor: 9,
+    ar: "رَبُّ الْمَشْرِقِ وَالْمَغْرِبِ لَآ اِلٰهَ اِلَّا هُوَ فَاتَّخِذْهُ وَكِيْلًا",
+    tr: "rabbu <strong>a</strong>lmasyriqi wa<strong>a</strong>lmaghribi l<u>aa</u> il<u>aa</u>ha ill<u>aa</u> huwa fa<strong>i</strong>ttakhi<u>dz</u>hu wakiil<u>aa</u><strong>n</strong>",
+    idn: "(Dialah) Tuhan timur dan barat, tidak ada tuhan selain Dia, maka jadikanlah Dia sebagai pelindung."
+    },
+    {
+    id: 5485,
+    surah: 73,
+    nomor: 10,
+    ar: "وَاصْبِرْ عَلٰى مَا يَقُوْلُوْنَ وَاهْجُرْهُمْ هَجْرًا جَمِيْلًا ",
+    tr: "wa<strong>i</strong><u>sh</u>bir 'al<u>aa</u> m<u>aa</u> yaquuluuna wa<strong>u</strong>hjurhum hajran jamiil<u>aa</u><strong>n</strong>",
+    idn: "Dan bersabarlah (Muhammad) terhadap apa yang mereka katakan dan tinggalkanlah mereka dengan cara yang baik."
+    },
+    {
+    id: 5486,
+    surah: 73,
+    nomor: 11,
+    ar: "وَذَرْنِيْ وَالْمُكَذِّبِيْنَ اُولِى النَّعْمَةِ وَمَهِّلْهُمْ قَلِيْلًا ",
+    tr: "wa<u>dz</u>arnii wa<strong>a</strong>lmuka<u>dzdz</u>ibiina ulii <strong>al</strong>nna'mati wamahhilhum qaliil<u>aa</u><strong>n</strong>",
+    idn: "Dan biarkanlah Aku (yang bertindak) terhadap orang-orang yang mendustakan, yang memiliki segala kenikmatan hidup, dan berilah mereka penangguhan sebentar."
+    },
+    {
+    id: 5487,
+    surah: 73,
+    nomor: 12,
+    ar: "اِنَّ لَدَيْنَآ اَنْكَالًا وَّجَحِيْمًاۙ",
+    tr: "inna ladayn<u>aa</u> ank<u>aa</u>lan waja<u>h</u>iim<u>aa</u><strong>n</strong>",
+    idn: "Sungguh, di sisi Kami ada belenggu-belenggu (yang berat) dan neraka yang menyala-nyala,"
+    },
+    {
+    id: 5488,
+    surah: 73,
+    nomor: 13,
+    ar: "وَّطَعَامًا ذَا غُصَّةٍ وَّعَذَابًا اَلِيْمًا ",
+    tr: "wa<u>th</u>a'<u>aa</u>man <u>dzaa</u> ghu<u>shsh</u>atin wa'a<u>dzaa</u>ban <strong>a</strong>liim<u>aa</u><strong>n</strong>",
+    idn: "dan (ada) makanan yang menyumbat di kerongkongan dan azab yang pedih."
+    },
+    {
+    id: 5489,
+    surah: 73,
+    nomor: 14,
+    ar: "يَوْمَ تَرْجُفُ الْاَرْضُ وَالْجِبَالُ وَكَانَتِ الْجِبَالُ كَثِيْبًا مَّهِيْلًا ",
+    tr: "yawma tarjufu <strong>a</strong>l-ar<u>dh</u>u wa<strong>a</strong>ljib<u>aa</u>lu wak<u>aa</u>nati <strong>a</strong>ljib<u>aa</u>lu katsiiban mahiil<u>aa</u><strong>n</strong>",
+    idn: "(Ingatlah) pada hari (ketika) bumi dan gunung-gunung berguncang keras, dan menjadilah gunung-gunung itu seperti onggokan pasir yang dicurahkan."
+    },
+    {
+    id: 5490,
+    surah: 73,
+    nomor: 15,
+    ar: "اِنَّآ اَرْسَلْنَآ اِلَيْكُمْ رَسُوْلًا ەۙ شَاهِدًا عَلَيْكُمْ كَمَآ اَرْسَلْنَآ اِلٰى فِرْعَوْنَ رَسُوْلًا ۗ",
+    tr: "inn<u>aa</u> arsaln<u>aa</u> ilaykum rasuulan sy<u>aa</u>hidan 'alaykum kam<u>aa</u> arsaln<u>aa</u> il<u>aa</u> fir'awna rasuul<u>aa</u><strong>n</strong>",
+    idn: "Sesungguhnya Kami telah mengutus seorang Rasul (Muhammad) kepada kamu, yang menjadi saksi terhadapmu, sebagaimana Kami telah mengutus seorang Rasul kepada Fir‘aun."
+    },
+    {
+    id: 5491,
+    surah: 73,
+    nomor: 16,
+    ar: "فَعَصٰى فِرْعَوْنُ الرَّسُوْلَ فَاَخَذْنٰهُ اَخْذًا وَّبِيْلًاۚ",
+    tr: "fa'a<u>shaa</u> fir'awnu <strong>al</strong>rrasuula fa-akha<u>dz</u>n<u>aa</u>hu akh<u>dz</u>an wabiil<u>aa</u><strong>n</strong>",
+    idn: "Namun Fir‘aun mendurhakai Rasul itu, maka Kami siksa dia dengan siksaan yang berat."
+    },
+    {
+    id: 5492,
+    surah: 73,
+    nomor: 17,
+    ar: "فَكَيْفَ تَتَّقُوْنَ اِنْ كَفَرْتُمْ يَوْمًا يَّجْعَلُ الْوِلْدَانَ شِيْبًاۖ",
+    tr: "fakayfa tattaquuna in kafartum yawman yaj'alu <strong>a</strong>lwild<u>aa</u>na syiib<u>aa</u><strong>n</strong>",
+    idn: "Lalu bagaimanakah kamu akan dapat menjaga dirimu jika kamu tetap kafir kepada hari yang menjadikan anak-anak beruban."
+    },
+    {
+    id: 5493,
+    surah: 73,
+    nomor: 18,
+    ar: " ۨالسَّمَاۤءُ مُنْفَطِرٌۢ بِهٖۗ كَانَ وَعْدُهٗ مَفْعُوْلًا",
+    tr: "a<strong>l</strong>ssam<u>aa</u>u munfa<u>th</u>irun bihi k<u>aa</u>na wa'duhu maf'uul<u>aa</u><strong>n</strong>",
+    idn: "Langit terbelah pada hari itu. Janji Allah pasti terlaksana."
+    },
+    {
+    id: 5494,
+    surah: 73,
+    nomor: 19,
+    ar: "اِنَّ هٰذِهٖ تَذْكِرَةٌ ۚ فَمَنْ شَاۤءَ اتَّخَذَ اِلٰى رَبِّهٖ سَبِيْلًا ࣖ ",
+    tr: "inna h<u>aadz</u>ihi ta<u>dz</u>kiratun faman sy<u>aa</u>-a ittakha<u>dz</u>a il<u>aa</u> rabbihi sabiil<u>aa</u><strong>n</strong>",
+    idn: "Sungguh, ini adalah peringatan. Barangsiapa menghendaki, niscaya dia mengambil jalan (yang lurus) kepada Tuhannya."
+    },
+    {
+    id: 5495,
+    surah: 73,
+    nomor: 20,
+    ar: "۞ اِنَّ رَبَّكَ يَعْلَمُ اَنَّكَ تَقُوْمُ اَدْنٰى مِنْ ثُلُثَيِ الَّيْلِ وَنِصْفَهٗ وَثُلُثَهٗ وَطَاۤىِٕفَةٌ مِّنَ الَّذِيْنَ مَعَكَۗ وَاللّٰهُ يُقَدِّرُ الَّيْلَ وَالنَّهَارَۗ عَلِمَ اَنْ لَّنْ تُحْصُوْهُ فَتَابَ عَلَيْكُمْ فَاقْرَءُوْا مَا تَيَسَّرَ مِن",
+    tr: "inna rabbaka ya'lamu annaka taquumu adn<u>aa</u> min tsulutsayi <strong>al</strong>layli wani<u>sh</u>fahu watsulutsahu wa<u>th</u><u>aa</u>-ifatun mina <strong>al</strong>la<u>dz</u>iina ma'aka wa<strong>al</strong>l<u>aa</u>hu yuqaddiru <strong>al</strong>layla wa<strong>al</strong>nnah<u>aa</u>ra 'alima an lan tu<u>hs</u>uuhu fat<u>aa</u>ba 'alaykum fa<strong>i</strong>qrauu m<u>aa</u> tayassara mina <strong>a</strong>lqur-<u>aa</u>ni 'alima an sayakuunu minkum mar<u>daa</u> wa<u>aa</u>kharuuna ya<u>dh</u>ribuuna fii <strong>a</strong>l-ar<u>dh</u>i yabtaghuuna min fa<u>dh</u>li <strong>al</strong>l<u>aa</u>hi wa<u>aa</u>kharuuna yuq<u>aa</u>tiluuna fii sabiili <strong>al</strong>l<u>aa</u>hi fa<strong>i</strong>qrauu m<u>aa</u> tayassara minhu wa-aqiimuu <strong>al</strong><u>shsh</u>al<u>aa</u>ta wa<u>aa</u>tuu <strong>al</strong>zzak<u>aa</u>ta wa-aqri<u>dh</u>uu <strong>al</strong>l<u>aa</u>ha qar<u>dh</u>an <u>h</u>asanan wam<u>aa</u> tuqaddimuu li-anfusikum min khayrin tajiduuhu 'inda <strong>al</strong>l<u>aa</u>hi huwa khayran wa-a'<u>zh</u>ama ajran wa<strong>i</strong>staghfiruu <strong>al</strong>l<u>aa</u>ha inna <strong>al</strong>l<u>aa</u>ha ghafuurun ra<u>h</u>iim<strong>un</strong>",
+    idn: "Sesungguhnya Tuhanmu mengetahui bahwa engkau (Muhammad) berdiri (salat) kurang dari dua pertiga malam, atau seperdua malam atau sepertiganya dan (demikian pula) segolongan dari orang-orang yang bersamamu. Allah menetapkan ukuran malam dan siang. Allah mengetahui bahwa kamu tidak dapat menentukan batas-batas waktu itu, maka Dia memberi keringanan kepadamu, karena itu bacalah apa yang mudah (bagimu) dari Al-Qur'an; Dia mengetahui bahwa akan ada di antara kamu orang-orang yang sakit, dan yang lain berjalan di bumi mencari sebagian karunia Allah; dan yang lain berperang di jalan Allah, maka bacalah apa yang mudah (bagimu) dari Al-Qur'an dan laksanakanlah salat, tunaikanlah zakat dan berikanlah pinjaman kepada Allah pinjaman yang baik. Kebaikan apa saja yang kamu perbuat untuk dirimu niscaya kamu memperoleh (balasan)nya di sisi Allah sebagai balasan yang paling baik dan yang paling besar pahalanya. Dan mohonlah ampunan kepada Allah; sungguh, Allah Maha Pengampun, Maha Penyayang."
+    }
+    ],
+    surat_selanjutnya: {
+    id: 74,
+    nomor: 74,
+    nama: "المدّثّر",
+    nama_latin: "Al-Muddassir",
+    jumlah_ayat: 56,
+    tempat_turun: "mekah",
+    arti: "Orang Yang Berkemul",
+    deskripsi: "Surat Al Muddatstsir terdiri atas 56 ayat, termasuk golongan  surat-surat Makkiyah, diturunkan sesudah surat Al Muzzammil. 	Dinamai <i>Al Muddatstsir</i> (orang yang berkemul) diambil dari perkataan <i>Al Muddatstsir</i> yang terdapat pada ayat pertama surat ini.",
+    audio: "https://santrikoding.com/storage/audio/074.mp3"
+    },
+    surat_sebelumnya: {
+    id: 72,
+    nomor: 72,
+    nama: "الجن",
+    nama_latin: "Al-Jinn",
+    jumlah_ayat: 28,
+    tempat_turun: "mekah",
+    arti: "Jin",
+    deskripsi: "Surat Al Jin terdiri atas 28 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al A'raaf. Dinamai <i>Al Jin</i> diambil dari perkataan <i>Al Jin</i> yang terdapat  pada ayat pertama surat ini. Pada ayat tersebut dan ayat-ayat berikutnya  diterangkan bahwa Jin sebagai makhluk halus telah mendengar pembacaan  Al Quran dan mereka mengikuti ajaran Al Quran tersebut.",
+    audio: "https://santrikoding.com/storage/audio/072.mp3"
+    }
+    }

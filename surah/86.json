@@ -1,0 +1,171 @@
+{
+    status: true,
+    nomor: 86,
+    nama: "الطارق",
+    nama_latin: "At-Tariq",
+    jumlah_ayat: 17,
+    tempat_turun: "mekah",
+    arti: "Yang Datang Di Malam Hari",
+    deskripsi: "Surat Ath Thaariq terdiri atas 17 ayat, termasuk golongan surat-surat Makkiyah,  diturunkan sesudah surat Al Balad.  Dinamai <i>Ath Thaariq</i> (yang datang di malam hari) diambil dari  perkataan <i>Ath Thaariq</i> yang terdapat pada ayat 1 surat ini.",
+    audio: "https://santrikoding.com/storage/audio/086.mp3",
+    ayat: [
+    {
+    id: 5932,
+    surah: 86,
+    nomor: 1,
+    ar: "وَالسَّمَاۤءِ وَالطَّارِقِۙ ",
+    tr: "wa<strong>al</strong>ssam<u>aa</u>-i wa<strong>al</strong><u>ththaa</u>riq<strong>i</strong>",
+    idn: "Demi langit dan yang datang pada malam hari."
+    },
+    {
+    id: 5933,
+    surah: 86,
+    nomor: 2,
+    ar: "وَمَآ اَدْرٰىكَ مَا الطَّارِقُۙ ",
+    tr: "wam<u>aa</u> adr<u>aa</u>ka m<u>aa</u> <strong>al</strong><u>ththaa</u>riq<strong>u</strong>",
+    idn: "Dan tahukah kamu apakah yang datang pada malam hari itu?"
+    },
+    {
+    id: 5934,
+    surah: 86,
+    nomor: 3,
+    ar: "النَّجْمُ الثَّاقِبُۙ ",
+    tr: "a<strong>l</strong>nnajmu <strong>al</strong>tsts<u>aa</u>qib<strong>u</strong>",
+    idn: "(yaitu) bintang yang bersinar tajam,"
+    },
+    {
+    id: 5935,
+    surah: 86,
+    nomor: 4,
+    ar: "اِنْ كُلُّ نَفْسٍ لَّمَّا عَلَيْهَا حَافِظٌۗ ",
+    tr: "in kullu nafsin lamm<u>aa</u> 'alayh<u>aa</u> <u>haa</u>fi<u>zh</u><strong>un</strong>",
+    idn: "setiap orang pasti ada penjaganya."
+    },
+    {
+    id: 5936,
+    surah: 86,
+    nomor: 5,
+    ar: "فَلْيَنْظُرِ الْاِنْسَانُ مِمَّ خُلِقَ ",
+    tr: "falyan<u>zh</u>uri <strong>a</strong>l-ins<u>aa</u>nu mimma khuliq<strong>a</strong>",
+    idn: "Maka hendaklah manusia memperhatikan dari apa dia diciptakan."
+    },
+    {
+    id: 5937,
+    surah: 86,
+    nomor: 6,
+    ar: "خُلِقَ مِنْ مَّاۤءٍ دَافِقٍۙ ",
+    tr: "khuliqa min m<u>aa</u>-in d<u>aa</u>fiq<strong>in</strong>",
+    idn: "Dia diciptakan dari air (mani) yang terpancar,"
+    },
+    {
+    id: 5938,
+    surah: 86,
+    nomor: 7,
+    ar: "يَّخْرُجُ مِنْۢ بَيْنِ الصُّلْبِ وَالتَّرَاۤىِٕبِۗ ",
+    tr: "yakhruju min bayni <strong>al</strong><u>shsh</u>ulbi wa<strong>al</strong>ttar<u>aa</u>-ib<strong>i</strong>",
+    idn: "yang keluar dari antara tulang punggung (sulbi) dan tulang dada."
+    },
+    {
+    id: 5939,
+    surah: 86,
+    nomor: 8,
+    ar: "اِنَّهٗ عَلٰى رَجْعِهٖ لَقَادِرٌۗ ",
+    tr: "innahu 'al<u>aa</u> raj'ihi laq<u>aa</u>dir<strong>un</strong>",
+    idn: "Sungguh, Allah benar-benar kuasa untuk mengembalikannya (hidup setelah mati)."
+    },
+    {
+    id: 5940,
+    surah: 86,
+    nomor: 9,
+    ar: "يَوْمَ تُبْلَى السَّرَاۤىِٕرُۙ ",
+    tr: "yawma tubl<u>aa</u> <strong>al</strong>ssar<u>aa</u>-ir<strong>u</strong>",
+    idn: "Pada hari ditampakkan segala rahasia,"
+    },
+    {
+    id: 5941,
+    surah: 86,
+    nomor: 10,
+    ar: "فَمَا لَهٗ مِنْ قُوَّةٍ وَّلَا نَاصِرٍۗ ",
+    tr: "fam<u>aa</u> lahu min quwwatin wal<u>aa</u> n<u>aas</u>ir<strong>in</strong>",
+    idn: "maka manusia tidak lagi mempunyai suatu kekuatan dan tidak (pula) ada penolong."
+    },
+    {
+    id: 5942,
+    surah: 86,
+    nomor: 11,
+    ar: "وَالسَّمَاۤءِ ذَاتِ الرَّجْعِۙ ",
+    tr: "wa<strong>al</strong>ssam<u>aa</u>-i <u>dzaa</u>ti <strong>al</strong>rraj'<strong>i</strong>",
+    idn: "Demi langit yang mengandung hujan,"
+    },
+    {
+    id: 5943,
+    surah: 86,
+    nomor: 12,
+    ar: "وَالْاَرْضِ ذَاتِ الصَّدْعِۙ ",
+    tr: "wa<strong>a</strong>l-ar<u>dh</u>i <u>dzaa</u>ti <strong>al</strong><u>shsh</u>ad'<strong>i</strong>",
+    idn: "dan bumi yang mempunyai tumbuh-tumbuhan,"
+    },
+    {
+    id: 5944,
+    surah: 86,
+    nomor: 13,
+    ar: "اِنَّهٗ لَقَوْلٌ فَصْلٌۙ ",
+    tr: "innahu laqawlun fa<u>sh</u>l<strong>un</strong>",
+    idn: "sungguh, (Al-Qur'an) itu benar-benar firman pemisah (antara yang hak dan yang batil),"
+    },
+    {
+    id: 5945,
+    surah: 86,
+    nomor: 14,
+    ar: "وَّمَا هُوَ بِالْهَزْلِۗ ",
+    tr: "wam<u>aa</u> huwa bi<strong>a</strong>lhazl<strong>i</strong>",
+    idn: "dan (Al-Qur'an) itu bukanlah sendagurauan."
+    },
+    {
+    id: 5946,
+    surah: 86,
+    nomor: 15,
+    ar: "اِنَّهُمْ يَكِيْدُوْنَ كَيْدًاۙ ",
+    tr: "innahum yakiiduuna kayd<u>aa</u><strong>n</strong>",
+    idn: "Sungguh, mereka (orang kafir) merencanakan tipu daya yang jahat."
+    },
+    {
+    id: 5947,
+    surah: 86,
+    nomor: 16,
+    ar: "وَّاَكِيْدُ كَيْدًاۖ ",
+    tr: "wa-akiidu kayd<u>aa</u><strong>n</strong>",
+    idn: "Dan Aku pun membuat rencana (tipu daya) yang jitu."
+    },
+    {
+    id: 5948,
+    surah: 86,
+    nomor: 17,
+    ar: "فَمَهِّلِ الْكٰفِرِيْنَ اَمْهِلْهُمْ رُوَيْدًا ࣖ ",
+    tr: "famahhili <strong>a</strong>lk<u>aa</u>firiina amhilhum ruwayd<u>aa</u><strong>n</strong>",
+    idn: "Karena itu berilah penangguhan kepada orang-orang kafir itu. Berilah mereka itu kesempatan untuk sementara waktu."
+    }
+    ],
+    surat_selanjutnya: {
+    id: 87,
+    nomor: 87,
+    nama: "الاعلى",
+    nama_latin: "Al-A'la",
+    jumlah_ayat: 19,
+    tempat_turun: "mekah",
+    arti: "Maha Tinggi",
+    deskripsi: "Surat ini terdiri atas 19 ayat, termasuk golongan surat-surat Makkiyyah, dan diturunkan sesudah surat At Takwiir. Nama <i>Al AÂ´laa</i> diambil dari kata <i>Al AÂ´laa</i> yang terdapat pada ayat pertama, berarti <i>Yang Paling Tinggi</i>. Muslim meriwayatkan dalam kitab Al Jumu'ah, dan diriwayatkan pula oleh Ashhaabus Sunan, dari Nu'man ibnu Basyir bahwa Rasulullah s.a.w. pada shalat dua hari Raya (Fitri dan Adha) dan shalat Jum'at membaca surat Al AÂ´laa pada rakaat pertama, dan surat Al Ghaasyiyah pada rakaat kedua.",
+    audio: "https://santrikoding.com/storage/audio/087.mp3"
+    },
+    surat_sebelumnya: {
+    id: 85,
+    nomor: 85,
+    nama: "البروج",
+    nama_latin: "Al-Buruj",
+    jumlah_ayat: 22,
+    tempat_turun: "mekah",
+    arti: "Gugusan Bintang",
+    deskripsi: "Surat Al Buruuj terdiri atas 22 ayat, termasuk golongan surat-surat Makkiyyah diturunkan sesudah surat Asy-Syams.<br>Dinamai <i>Al Buruuj</i> (gugusan bintang) diambil dari perkataan <i>Al Buruuj</i> yang terdapat pada ayat 1 surat ini.",
+    audio: "https://santrikoding.com/storage/audio/085.mp3"
+    }
+    }

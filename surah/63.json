@@ -1,0 +1,123 @@
+{
+    status: true,
+    nomor: 63,
+    nama: "المنٰفقون",
+    nama_latin: "Al-Munafiqun",
+    jumlah_ayat: 11,
+    tempat_turun: "madinah",
+    arti: "Orang-Orang Munafik",
+    deskripsi: "Surat ini terdiri atas 11 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Hajj. Surat ini dinamai <i>Al-Munaafiquun</i>  yang artinya orang-orang munafik, karena surat ini mengungkapkan  sifat-sifat orang-orang munafik.",
+    audio: "https://santrikoding.com/storage/audio/063.mp3",
+    ayat: [
+    {
+    id: 5189,
+    surah: 63,
+    nomor: 1,
+    ar: "اِذَا جَاۤءَكَ الْمُنٰفِقُوْنَ قَالُوْا نَشْهَدُ اِنَّكَ لَرَسُوْلُ اللّٰهِ ۘوَاللّٰهُ يَعْلَمُ اِنَّكَ لَرَسُوْلُهٗ ۗوَاللّٰهُ يَشْهَدُ اِنَّ الْمُنٰفِقِيْنَ لَكٰذِبُوْنَۚ ",
+    tr: "i<u>dzaa</u> j<u>aa</u>-aka <strong>a</strong>lmun<u>aa</u>fiquuna q<u>aa</u>luu nasyhadu innaka larasuulu <strong>al</strong>l<u>aa</u>hi wa<strong>al</strong>l<u>aa</u>hu ya'lamu innaka larasuuluhu wa<strong>al</strong>l<u>aa</u>hu yasyhadu inna <strong>a</strong>lmun<u>aa</u>fiqiina lak<u>aadz</u>ibuun<strong>a</strong>",
+    idn: "Apabila orang-orang munafik datang kepadamu (Muhammad), mereka berkata, “Kami mengakui, bahwa engkau adalah Rasul Allah.” Dan Allah mengetahui bahwa engkau benar-benar Rasul-Nya; dan Allah menyaksikan bahwa orang-orang munafik itu benar-benar pendusta."
+    },
+    {
+    id: 5190,
+    surah: 63,
+    nomor: 2,
+    ar: "اِتَّخَذُوْٓا اَيْمَانَهُمْ جُنَّةً فَصَدُّوْا عَنْ سَبِيْلِ اللّٰهِ ۗاِنَّهُمْ سَاۤءَ مَا كَانُوْا يَعْمَلُوْنَ ",
+    tr: "ittakha<u>dz</u>uu aym<u>aa</u>nahum junnatan fa<u>sh</u>adduu 'an sabiili <strong>al</strong>l<u>aa</u>hi innahum s<u>aa</u>-a m<u>aa</u> k<u>aa</u>nuu ya'maluun<strong>a</strong>",
+    idn: "Mereka menjadikan sumpah-sumpah mereka sebagai perisai, lalu mereka menghalang-halangi (manusia) dari jalan Allah. Sungguh, betapa buruknya apa yang telah mereka kerjakan."
+    },
+    {
+    id: 5191,
+    surah: 63,
+    nomor: 3,
+    ar: "ذٰلِكَ بِاَنَّهُمْ اٰمَنُوْا ثُمَّ كَفَرُوْا فَطُبِعَ عَلٰى قُلُوْبِهِمْ فَهُمْ لَا يَفْقَهُوْنَ ",
+    tr: "<u>dzaa</u>lika bi-annahum <u>aa</u>manuu tsumma kafaruu fa<u>th</u>ubi'a 'al<u>aa</u> quluubihim fahum l<u>aa</u> yafqahuun<strong>a</strong>",
+    idn: "Yang demikian itu karena sesungguhnya mereka telah beriman, kemudian menjadi kafir, maka hati mereka dikunci, sehingga mereka tidak dapat mengerti. "
+    },
+    {
+    id: 5192,
+    surah: 63,
+    nomor: 4,
+    ar: "۞ وَاِذَا رَاَيْتَهُمْ تُعْجِبُكَ اَجْسَامُهُمْۗ وَاِنْ يَّقُوْلُوْا تَسْمَعْ لِقَوْلِهِمْۗ  كَاَنَّهُمْ خُشُبٌ مُّسَنَّدَةٌ  ۗيَحْسَبُوْنَ كُلَّ صَيْحَةٍ عَلَيْهِمْۗ هُمُ الْعَدُوُّ فَاحْذَرْهُمْۗ قَاتَلَهُمُ اللّٰهُ ۖاَنّٰى يُؤْفَكُوْنَ",
+    tr: "wa-i<u>dzaa</u> ra-aytahum tu'jibuka ajs<u>aa</u>muhum wa-in yaquuluu tasma' liqawlihim ka-annahum khusyubun musannadatun ya<u>h</u>sabuuna kulla <u>sh</u>ay<u>h</u>atin 'alayhim humu <strong>a</strong>l'aduwwu fa<strong>i</strong><u>hts</u>arhum q<u>aa</u>talahumu <strong>al</strong>l<u>aa</u>hu ann<u>aa</u> yu/fakuun<strong>a</strong>",
+    idn: "Dan apabila engkau melihat mereka, tubuh mereka mengagumkanmu. Dan jika mereka berkata, engkau mendengarkan tutur-katanya. Mereka seakan-akan kayu yang tersandar. Mereka mengira bahwa setiap teriakan ditujukan kepada mereka. Mereka itulah musuh (yang sebenarnya), maka waspadalah terhadap mereka; Allah membinasakan mereka. Bagaimanakah mereka dapat dipalingkan (dari kebenaran)?"
+    },
+    {
+    id: 5193,
+    surah: 63,
+    nomor: 5,
+    ar: "وَاِذَا قِيْلَ لَهُمْ تَعَالَوْا يَسْتَغْفِرْ لَكُمْ رَسُوْلُ اللّٰهِ لَوَّوْا رُءُوْسَهُمْ وَرَاَيْتَهُمْ يَصُدُّوْنَ وَهُمْ مُّسْتَكْبِرُوْنَ ",
+    tr: "wa-i<u>dzaa</u> qiila lahum ta'<u>aa</u>law yastaghfir lakum rasuulu <strong>al</strong>l<u>aa</u>hi lawwaw ruuusahum wara-aytahum ya<u>sh</u>udduuna wahum mustakbiruun<strong>a</strong>",
+    idn: "Dan apabila dikatakan kepada mereka, “Marilah (beriman), agar Rasulullah memohonkan ampunan bagimu,” mereka membuang muka dan engkau lihat mereka berpaling dengan menyombongkan diri. "
+    },
+    {
+    id: 5194,
+    surah: 63,
+    nomor: 6,
+    ar: "سَوَاۤءٌ عَلَيْهِمْ اَسْتَغْفَرْتَ لَهُمْ اَمْ لَمْ تَسْتَغْفِرْ لَهُمْۗ  لَنْ يَّغْفِرَ اللّٰهُ لَهُمْۗ اِنَّ اللّٰهَ لَا يَهْدِى الْقَوْمَ الْفٰسِقِيْنَ ",
+    tr: "saw<u>aa</u>un 'alayhim astaghfarta lahum am lam tastaghfir lahum lan yaghfira <strong>al</strong>l<u>aa</u>hu lahum inna <strong>al</strong>l<u>aa</u>ha l<u>aa</u> yahdii <strong>a</strong>lqawma <strong>a</strong>lf<u>aa</u>siqiin<strong>a</strong>",
+    idn: "Sama saja bagi mereka, engkau (Muhammad) mohonkan ampunan untuk mereka atau tidak engkau mohonkan ampunan bagi mereka, Allah tidak akan mengampuni mereka; sesungguhnya Allah tidak akan memberi petunjuk kepada orang-orang yang fasik."
+    },
+    {
+    id: 5195,
+    surah: 63,
+    nomor: 7,
+    ar: "هُمُ الَّذِيْنَ يَقُوْلُوْنَ لَا تُنْفِقُوْا عَلٰى مَنْ عِنْدَ رَسُوْلِ اللّٰهِ حَتّٰى يَنْفَضُّوْاۗ وَلِلّٰهِ خَزَاۤىِٕنُ السَّمٰوٰتِ وَالْاَرْضِۙ وَلٰكِنَّ الْمُنٰفِقِيْنَ لَا يَفْقَهُوْنَ ",
+    tr: "humu <strong>al</strong>la<u>dz</u>iina yaquuluuna l<u>aa</u> tunfiquu 'al<u>aa</u> man 'inda rasuuli <strong>al</strong>l<u>aa</u>hi <u>h</u>att<u>aa</u> yanfa<u>dhdh</u>uu walill<u>aa</u>hi khaz<u>aa</u>-inu <strong>al</strong>ssam<u>aa</u>w<u>aa</u>ti wa<strong>a</strong>l-ar<u>dh</u>i wal<u>aa</u>kinna <strong>a</strong>lmun<u>aa</u>fiqiina l<u>aa</u> yafqahuun<strong>a</strong>",
+    idn: "Mereka yang berkata (kepada orang-orang Ansar), “Janganlah kamu bersedekah kepada orang-orang (Muhajirin) yang ada di sisi Rasulullah sampai mereka bubar (meninggalkan Rasulullah).” Padahal milik Allah-lah perbendaharaan langit dan bumi, tetapi orang-orang munafik itu tidak memahami."
+    },
+    {
+    id: 5196,
+    surah: 63,
+    nomor: 8,
+    ar: "يَقُوْلُوْنَ لَىِٕنْ رَّجَعْنَآ اِلَى الْمَدِيْنَةِ لَيُخْرِجَنَّ الْاَعَزُّ مِنْهَا الْاَذَلَّ ۗوَلِلّٰهِ الْعِزَّةُ وَلِرَسُوْلِهٖ وَلِلْمُؤْمِنِيْنَ وَلٰكِنَّ الْمُنٰفِقِيْنَ لَا يَعْلَمُوْنَ ࣖ ",
+    tr: "yaquuluuna la-in raja'n<u>aa</u> il<u>aa</u> <strong>a</strong>lmadiinati layukhrijanna <strong>a</strong>l-a'azzu minh<u>aa</u> <strong>a</strong>l-a<u>dz</u>alla walill<u>aa</u>hi <strong>a</strong>l'izzatu walirasuulihi walilmu/miniina wal<u>aa</u>kinna <strong>a</strong>lmun<u>aa</u>fiqiina l<u>aa</u> ya'lamuun<strong>a</strong>",
+    idn: "Mereka berkata, “Sungguh, jika kita kembali ke Madinah (kembali dari perang Bani Mustalik), pastilah orang yang kuat akan mengusir orang-orang yang lemah dari sana.” Padahal kekuatan itu hanyalah bagi Allah, Rasul-Nya dan bagi orang-orang mukmin, tetapi orang-orang munafik itu tidak mengetahui."
+    },
+    {
+    id: 5197,
+    surah: 63,
+    nomor: 9,
+    ar: "يٰٓاَيُّهَا الَّذِيْنَ اٰمَنُوْا لَا تُلْهِكُمْ اَمْوَالُكُمْ وَلَآ اَوْلَادُكُمْ عَنْ ذِكْرِ اللّٰهِ ۚوَمَنْ يَّفْعَلْ ذٰلِكَ فَاُولٰۤىِٕكَ هُمُ الْخٰسِرُوْنَ ",
+    tr: "y<u>aa</u> ayyuh<u>aa</u> <strong>al</strong>la<u>dz</u>iina <u>aa</u>manuu l<u>aa</u> tulhikum amw<u>aa</u>lukum wal<u>aa</u> awl<u>aa</u>dukum 'an <u>dz</u>ikri <strong>al</strong>l<u>aa</u>hi waman yaf'al <u>dzaa</u>lika faul<u>aa</u>-ika humu <strong>a</strong>lkh<u>aa</u>siruun<strong>a</strong>",
+    idn: "Wahai orang-orang yang beriman! Janganlah harta bendamu dan anak-anakmu melalaikan kamu dari mengingat Allah. Dan barangsiapa berbuat demikian, maka mereka itulah orang-orang yang rugi."
+    },
+    {
+    id: 5198,
+    surah: 63,
+    nomor: 10,
+    ar: "وَاَنْفِقُوْا مِنْ مَّا رَزَقْنٰكُمْ مِّنْ قَبْلِ اَنْ يَّأْتِيَ اَحَدَكُمُ الْمَوْتُ فَيَقُوْلَ رَبِّ لَوْلَآ اَخَّرْتَنِيْٓ اِلٰٓى اَجَلٍ قَرِيْبٍۚ فَاَصَّدَّقَ وَاَكُنْ مِّنَ الصّٰلِحِيْنَ ",
+    tr: "wa-anfiquu min m<u>aa</u> razaqn<u>aa</u>kum min qabli an ya/tiya a<u>h</u>adakumu <strong>a</strong>lmawtu fayaquula rabbi lawl<u>aa</u> akhkhartanii il<u>aa</u> ajalin qariibin fa-a<u>shsh</u>addaqa wa-akun mina <strong>al</strong><u>shshaa</u>li<u>h</u>iin<strong>a</strong>",
+    idn: "Dan infakkanlah sebagian dari apa yang telah Kami berikan kepadamu sebelum kematian datang kepada salah seorang di antara kamu; lalu dia berkata (menyesali), “Ya Tuhanku, sekiranya Engkau berkenan menunda (kematian)ku sedikit waktu lagi, maka aku dapat bersedekah dan aku akan termasuk orang-orang yang saleh.”"
+    },
+    {
+    id: 5199,
+    surah: 63,
+    nomor: 11,
+    ar: "وَلَنْ يُّؤَخِّرَ اللّٰهُ نَفْسًا اِذَا جَاۤءَ اَجَلُهَاۗ وَاللّٰهُ خَبِيْرٌۢ بِمَا تَعْمَلُوْنَ ࣖ ",
+    tr: "walan yu-akhkhira <strong>al</strong>l<u>aa</u>hu nafsan i<u>dzaa</u> j<u>aa</u>-a ajaluh<u>aa</u> wa<strong>al</strong>l<u>aa</u>hu khabiirun bim<u>aa</u> ta'maluun<strong>a</strong>",
+    idn: "Dan Allah tidak akan menunda (kematian) seseorang apabila waktu kematiannya telah datang. Dan Allah Mahateliti apa yang kamu kerjakan."
+    }
+    ],
+    surat_selanjutnya: {
+    id: 64,
+    nomor: 64,
+    nama: "التغابن",
+    nama_latin: "At-Tagabun",
+    jumlah_ayat: 18,
+    tempat_turun: "madinah",
+    arti: "Pengungkapan Kesalahan",
+    deskripsi: "Surat ini terdiri atas 18 ayat, termasuk golongan surat-surat Madaniyyah dan diturunkan sesudah surat At Tahrim. Nama <i>At Taghaabun</i> diambil dari kata <i>At Taghaabun</i> yang terdapat pada ayat ke 9 yang artinya <i>hari dinampakkan kesalahan-kesalahan</i>.",
+    audio: "https://santrikoding.com/storage/audio/064.mp3"
+    },
+    surat_sebelumnya: {
+    id: 62,
+    nomor: 62,
+    nama: "الجمعة",
+    nama_latin: "Al-Jumu'ah",
+    jumlah_ayat: 11,
+    tempat_turun: "madinah",
+    arti: "Jumat",
+    deskripsi: "Surat Al Jumu'ah ini terdiri atas 11 ayat, termasuk golongan-golongan surat-surat Madaniyyah dan diturunkan sesudah surat Ash Shaf. Nama surat Al Jumu'ah diambil dari kata <i>Al Jumu'ah</i> yang terdapat pada ayat 9 surat ini yang artinya: <i>hari Jum'at</i>.",
+    audio: "https://santrikoding.com/storage/audio/062.mp3"
+    }
+    }

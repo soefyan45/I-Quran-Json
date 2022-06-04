@@ -1,0 +1,451 @@
+{
+    status: true,
+    nomor: 68,
+    nama: "القلم",
+    nama_latin: "Al-Qalam",
+    jumlah_ayat: 52,
+    tempat_turun: "mekah",
+    arti: "Pena",
+    deskripsi: "Surat ini terdiri atas 52 ayat,termasuk golongan surat-surat Makkiyah,diturunkan sesudah surat Al Alaq. <br>Nama <i>Al Qalam</i> diambil dari kata Al Qalam yang terdapat pada ayat pertama surat iniyang artinya <i>pena</i>. Surat ini dinamai pula dengan surat <i>Nun</i> (huruf <i>nun</i>).",
+    audio: "https://santrikoding.com/storage/audio/068.mp3",
+    ayat: [
+    {
+    id: 5272,
+    surah: 68,
+    nomor: 1,
+    ar: "نۤ ۚوَالْقَلَمِ وَمَا يَسْطُرُوْنَۙ",
+    tr: "nuun wa<strong>a</strong>lqalami wam<u>aa</u> yas<u>th</u>uruun<strong>a</strong>",
+    idn: "Nun. Demi pena dan apa yang mereka tuliskan, "
+    },
+    {
+    id: 5273,
+    surah: 68,
+    nomor: 2,
+    ar: "مَآ اَنْتَ بِنِعْمَةِ رَبِّكَ بِمَجْنُوْنٍ ",
+    tr: "m<u>aa</u> anta bini'mati rabbika bimajnuun<strong>in</strong>",
+    idn: "dengan karunia Tuhanmu engkau (Muhammad) bukanlah orang gila. "
+    },
+    {
+    id: 5274,
+    surah: 68,
+    nomor: 3,
+    ar: "وَاِنَّ لَكَ لَاَجْرًا غَيْرَ مَمْنُوْنٍۚ",
+    tr: "wa-inna laka la-ajran ghayra mamnuun<strong>in</strong>",
+    idn: "Dan sesungguhnya engkau pasti mendapat pahala yang besar yang tidak putus-putusnya. "
+    },
+    {
+    id: 5275,
+    surah: 68,
+    nomor: 4,
+    ar: "وَاِنَّكَ لَعَلٰى خُلُقٍ عَظِيْمٍ ",
+    tr: "wa-innaka la'al<u>aa</u> khuluqin 'a<u>zh</u>iim<strong>in</strong>",
+    idn: "Dan sesungguhnya engkau benar-benar berbudi pekerti yang luhur. "
+    },
+    {
+    id: 5276,
+    surah: 68,
+    nomor: 5,
+    ar: "فَسَتُبْصِرُ وَيُبْصِرُوْنَۙ",
+    tr: "fasatub<u>sh</u>iru wayub<u>sh</u>iruun<strong>a</strong>",
+    idn: "Maka kelak engkau akan melihat dan mereka (orang-orang kafir) pun akan melihat, "
+    },
+    {
+    id: 5277,
+    surah: 68,
+    nomor: 6,
+    ar: "بِاَيِّىكُمُ الْمَفْتُوْنُ ",
+    tr: "bi-ayyikumu <strong>a</strong>lmaftuun<strong>u</strong>",
+    idn: "siapa di antara kamu yang gila? "
+    },
+    {
+    id: 5278,
+    surah: 68,
+    nomor: 7,
+    ar: "اِنَّ رَبَّكَ هُوَ اَعْلَمُ بِمَنْ ضَلَّ عَنْ سَبِيْلِهٖۖ وَهُوَ اَعْلَمُ بِالْمُهْتَدِيْنَ ",
+    tr: "inna rabbaka huwa a'lamu biman <u>dh</u>alla 'an sabiilihi wahuwa a'lamu bi<strong>a</strong>lmuhtadiin<strong>a</strong>",
+    idn: "Sungguh, Tuhanmu, Dialah yang paling mengetahui siapa yang sesat dari jalan-Nya; dan Dialah yang paling mengetahui siapa orang yang mendapat petunjuk. "
+    },
+    {
+    id: 5279,
+    surah: 68,
+    nomor: 8,
+    ar: "فَلَا تُطِعِ الْمُكَذِّبِيْنَ ",
+    tr: "fal<u>aa</u> tu<u>th</u>i'i <strong>a</strong>lmuka<u>dzdz</u>ibiin<strong>a</strong>",
+    idn: "Maka janganlah engkau patuhi orang-orang yang mendustakan (ayat-ayat Allah)."
+    },
+    {
+    id: 5280,
+    surah: 68,
+    nomor: 9,
+    ar: "وَدُّوْا لَوْ تُدْهِنُ فَيُدْهِنُوْنَۚ",
+    tr: "wadduu law tudhinu fayudhinuun<strong>a</strong>",
+    idn: "Mereka menginginkan agar engkau bersikap lunak maka mereka bersikap lunak (pula). "
+    },
+    {
+    id: 5281,
+    surah: 68,
+    nomor: 10,
+    ar: "وَلَا تُطِعْ كُلَّ حَلَّافٍ مَّهِيْنٍۙ",
+    tr: "wal<u>aa</u> tu<u>th</u>i' kulla <u>h</u>all<u>aa</u>fin mahiin<strong>in</strong>",
+    idn: "Dan janganlah engkau patuhi setiap orang yang suka bersumpah dan suka menghina,"
+    },
+    {
+    id: 5282,
+    surah: 68,
+    nomor: 11,
+    ar: "هَمَّازٍ مَّشَّاۤءٍۢ بِنَمِيْمٍۙ",
+    tr: "hamm<u>aa</u>zin masysy<u>aa</u>-in binamiim<strong>in</strong>",
+    idn: "suka mencela, yang kian ke mari menyebarkan fitnah, "
+    },
+    {
+    id: 5283,
+    surah: 68,
+    nomor: 12,
+    ar: "مَّنَّاعٍ لِّلْخَيْرِ مُعْتَدٍ اَثِيْمٍۙ",
+    tr: "mann<u>aa</u>'in lilkhayri mu'tadin atsiim<strong>in</strong>",
+    idn: "yang merintangi segala yang baik, yang melampaui batas dan banyak dosa, "
+    },
+    {
+    id: 5284,
+    surah: 68,
+    nomor: 13,
+    ar: "عُتُلٍّۢ بَعْدَ ذٰلِكَ زَنِيْمٍۙ",
+    tr: "'utullin ba'da <u>dzaa</u>lika zaniim<strong>in</strong>",
+    idn: "yang bertabiat kasar, selain itu juga terkenal kejahatannya,"
+    },
+    {
+    id: 5285,
+    surah: 68,
+    nomor: 14,
+    ar: "اَنْ كَانَ ذَا مَالٍ وَّبَنِيْنَۗ",
+    tr: "an k<u>aa</u>na <u>dzaa</u> m<u>aa</u>lin wabaniin<strong>a</strong>",
+    idn: "karena dia kaya dan banyak anak."
+    },
+    {
+    id: 5286,
+    surah: 68,
+    nomor: 15,
+    ar: "اِذَا تُتْلٰى عَلَيْهِ اٰيٰتُنَا قَالَ اَسَاطِيْرُ الْاَوَّلِيْنَۗ",
+    tr: "i<u>dzaa</u> tutl<u>aa</u> 'alayhi <u>aa</u>y<u>aa</u>tun<u>aa</u> q<u>aa</u>la as<u>aath</u>iiru <strong>a</strong>l-awwaliin<strong>a</strong>",
+    idn: "Apabila ayat-ayat Kami dibacakan kepadanya, dia berkata, “(Ini adalah) dongeng-dongeng orang dahulu.” "
+    },
+    {
+    id: 5287,
+    surah: 68,
+    nomor: 16,
+    ar: "سَنَسِمُهٗ عَلَى الْخُرْطُوْمِ ",
+    tr: "sanasimuhu 'al<u>aa</u> <strong>a</strong>lkhur<u>th</u>uum<strong>i</strong>",
+    idn: "Kelak dia akan Kami beri tanda pada belalai(nya). "
+    },
+    {
+    id: 5288,
+    surah: 68,
+    nomor: 17,
+    ar: "اِنَّا بَلَوْنٰهُمْ كَمَا بَلَوْنَآ اَصْحٰبَ الْجَنَّةِۚ اِذْ اَقْسَمُوْا لَيَصْرِمُنَّهَا مُصْبِحِيْنَۙ",
+    tr: "inn<u>aa</u> balawn<u>aa</u>hum kam<u>aa</u> balawn<u>aa</u> a<u>sh</u>-<u>haa</u>ba <strong>a</strong>ljannati i<u>dz</u> aqsamuu laya<u>sh</u>rimunnah<u>aa</u> mu<u>sh</u>bi<u>h</u>iin<strong>a</strong>",
+    idn: "Sungguh, Kami telah menguji mereka (orang musyrik Mekah) sebagaimana Kami telah menguji pemilik-pemilik kebun, ketika mereka bersumpah pasti akan memetik (hasil)nya pada pagi hari,"
+    },
+    {
+    id: 5289,
+    surah: 68,
+    nomor: 18,
+    ar: "وَلَا يَسْتَثْنُوْنَ ",
+    tr: "wal<u>aa</u> yastatsnuun<strong>a</strong>",
+    idn: "tetapi mereka tidak menyisihkan (dengan mengucapkan, “Insya Allah”)."
+    },
+    {
+    id: 5290,
+    surah: 68,
+    nomor: 19,
+    ar: "فَطَافَ عَلَيْهَا طَاۤىِٕفٌ مِّنْ رَّبِّكَ وَهُمْ نَاۤىِٕمُوْنَ ",
+    tr: "fa<u>th</u><u>aa</u>fa 'alayh<u>aa</u> <u>th</u><u>aa</u>-ifun min rabbika wahum n<u>aa</u>-imuun<strong>a</strong>",
+    idn: "Lalu kebun itu ditimpa bencana (yang datang) dari Tuhanmu ketika mereka sedang tidur."
+    },
+    {
+    id: 5291,
+    surah: 68,
+    nomor: 20,
+    ar: "فَاَصْبَحَتْ كَالصَّرِيْمِۙ",
+    tr: "fa-a<u>sh</u>ba<u>h</u>at ka<strong>al</strong><u>shsh</u>ariim<strong>i</strong>",
+    idn: "Maka jadilah kebun itu hitam seperti malam yang gelap gulita,"
+    },
+    {
+    id: 5292,
+    surah: 68,
+    nomor: 21,
+    ar: "فَتَنَادَوْا مُصْبِحِيْنَۙ",
+    tr: "fatan<u>aa</u>daw mu<u>sh</u>bi<u>h</u>iin<strong>a</strong>",
+    idn: "lalu pada pagi hari mereka saling memanggil."
+    },
+    {
+    id: 5293,
+    surah: 68,
+    nomor: 22,
+    ar: "اَنِ اغْدُوْا عَلٰى حَرْثِكُمْ اِنْ كُنْتُمْ صَارِمِيْنَ ",
+    tr: "ani ighduu 'al<u>aa</u> <u>h</u>artsikum in kuntum <u>shaa</u>rimiin<strong>a</strong>",
+    idn: "”Pergilah pagi-pagi ke kebunmu jika kamu hendak memetik hasil.” "
+    },
+    {
+    id: 5294,
+    surah: 68,
+    nomor: 23,
+    ar: "فَانْطَلَقُوْا وَهُمْ يَتَخَافَتُوْنَۙ",
+    tr: "fa<strong>i</strong>n<u>th</u>alaquu wahum yatakh<u>aa</u>fatuun<strong>a</strong>",
+    idn: "Maka mereka pun berangkat sambil berbisik-bisik. "
+    },
+    {
+    id: 5295,
+    surah: 68,
+    nomor: 24,
+    ar: "اَنْ لَّا يَدْخُلَنَّهَا الْيَوْمَ عَلَيْكُمْ مِّسْكِيْنٌۙ",
+    tr: "an l<u>aa</u> yadkhulannah<u>aa</u> <strong>a</strong>lyawma 'alaykum miskiin<strong>un</strong>",
+    idn: "”Pada hari ini jangan sampai ada orang miskin masuk ke dalam kebunmu.” "
+    },
+    {
+    id: 5296,
+    surah: 68,
+    nomor: 25,
+    ar: "وَّغَدَوْا عَلٰى حَرْدٍ قَادِرِيْنَ ",
+    tr: "waghadaw 'al<u>aa</u> <u>h</u>ardin q<u>aa</u>diriin<strong>a</strong>",
+    idn: "Dan berangkatlah mereka pada pagi hari dengan niat menghalangi (orang-orang miskin) padahal mereka mampu (menolongnya). "
+    },
+    {
+    id: 5297,
+    surah: 68,
+    nomor: 26,
+    ar: "فَلَمَّا رَاَوْهَا قَالُوْٓا اِنَّا لَضَاۤلُّوْنَۙ",
+    tr: "falamm<u>aa</u> ra-awh<u>aa</u> q<u>aa</u>luu inn<u>aa</u> la<u>daa</u>lluun<strong>a</strong>",
+    idn: "Maka ketika mereka melihat kebun itu, mereka berkata, “Sungguh, kita ini benar-benar orang-orang yang sesat,"
+    },
+    {
+    id: 5298,
+    surah: 68,
+    nomor: 27,
+    ar: "بَلْ نَحْنُ مَحْرُوْمُوْنَ ",
+    tr: "bal na<u>h</u>nu ma<u>h</u>ruumuun<strong>a</strong>",
+    idn: "bahkan kita tidak memperoleh apa pun,”"
+    },
+    {
+    id: 5299,
+    surah: 68,
+    nomor: 28,
+    ar: "قَالَ اَوْسَطُهُمْ اَلَمْ اَقُلْ لَّكُمْ لَوْلَا تُسَبِّحُوْنَ ",
+    tr: "q<u>aa</u>la awsa<u>th</u>uhum alam aqul lakum lawl<u>aa</u> tusabbi<u>h</u>uun<strong>a</strong>",
+    idn: "berkatalah seorang yang paling bijak di antara mereka, “Bukankah aku telah mengatakan kepadamu, mengapa kamu tidak bertasbih (kepada Tuhanmu).”"
+    },
+    {
+    id: 5300,
+    surah: 68,
+    nomor: 29,
+    ar: "قَالُوْا سُبْحٰنَ رَبِّنَآ اِنَّا كُنَّا ظٰلِمِيْنَ ",
+    tr: "q<u>aa</u>luu sub<u>haa</u>na rabbin<u>aa</u> inn<u>aa</u> kunn<u>aa</u> <u>zhaa</u>limiin<strong>a</strong>",
+    idn: "Mereka mengucapkan, “Mahasuci Tuhan kami, sungguh, kami adalah orang-orang yang zalim.” "
+    },
+    {
+    id: 5301,
+    surah: 68,
+    nomor: 30,
+    ar: "فَاَقْبَلَ بَعْضُهُمْ عَلٰى بَعْضٍ يَّتَلَاوَمُوْنَ ",
+    tr: "fa-aqbala ba'<u>dh</u>uhum 'al<u>aa</u> ba'<u>dh</u>in yatal<u>aa</u>wamuun<strong>a</strong>",
+    idn: "Lalu mereka saling berhadapan dan saling menyalahkan."
+    },
+    {
+    id: 5302,
+    surah: 68,
+    nomor: 31,
+    ar: "قَالُوْا يٰوَيْلَنَآ اِنَّا كُنَّا طٰغِيْنَ ",
+    tr: "q<u>aa</u>luu y<u>aa</u> waylan<u>aa</u> inn<u>aa</u> kunn<u>aa</u> <u>th</u><u>aa</u>ghiin<strong>a</strong>",
+    idn: "Mereka berkata, “Celaka kita! Sesungguhnya kita orang-orang yang melampaui batas. "
+    },
+    {
+    id: 5303,
+    surah: 68,
+    nomor: 32,
+    ar: "عَسٰى رَبُّنَآ اَنْ يُّبْدِلَنَا خَيْرًا مِّنْهَآ اِنَّآ اِلٰى رَبِّنَا رَاغِبُوْنَ ",
+    tr: "'as<u>aa</u> rabbun<u>aa</u> an yubdilan<u>aa</u> khayran minh<u>aa</u> inn<u>aa</u> il<u>aa</u> rabbin<u>aa</u> r<u>aa</u>ghibuun<strong>a</strong>",
+    idn: "Mudah-mudahan Tuhan memberikan ganti kepada kita dengan (kebun) yang lebih baik daripada yang ini, sungguh, kita mengharapkan ampunan dari Tuhan kita.” "
+    },
+    {
+    id: 5304,
+    surah: 68,
+    nomor: 33,
+    ar: "كَذٰلِكَ الْعَذَابُۗ وَلَعَذَابُ الْاٰخِرَةِ اَكْبَرُۘ لَوْ كَانُوْا يَعْلَمُوْنَ ࣖ ",
+    tr: "ka<u>dzaa</u>lika <strong>a</strong>l'a<u>dzaa</u>bu wala'a<u>dzaa</u>bu <strong>a</strong>l-<u>aa</u>khirati akbaru law k<u>aa</u>nuu ya'lamuun<strong>a</strong>",
+    idn: "Seperti itulah azab (di dunia). Dan sungguh, azab akhirat lebih besar se-kiranya mereka mengetahui."
+    },
+    {
+    id: 5305,
+    surah: 68,
+    nomor: 34,
+    ar: "اِنَّ لِلْمُتَّقِيْنَ عِنْدَ رَبِّهِمْ جَنّٰتِ النَّعِيْمِ ",
+    tr: "inna lilmuttaqiina 'inda rabbihim jann<u>aa</u>ti <strong>al</strong>nna'iim<strong>i</strong>",
+    idn: "Sungguh, bagi orang-orang yang bertakwa (disediakan) surga yang penuh kenikmatan di sisi Tuhannya."
+    },
+    {
+    id: 5306,
+    surah: 68,
+    nomor: 35,
+    ar: "اَفَنَجْعَلُ الْمُسْلِمِيْنَ كَالْمُجْرِمِيْنَۗ",
+    tr: "afanaj'alu <strong>a</strong>lmuslimiina ka<strong>a</strong>lmujrimiin<strong>a</strong>",
+    idn: "Apakah patut Kami memperlakukan orang-orang Islam itu seperti orang-orang yang berdosa (orang kafir)?"
+    },
+    {
+    id: 5307,
+    surah: 68,
+    nomor: 36,
+    ar: "مَا لَكُمْۗ  كَيْفَ تَحْكُمُوْنَۚ",
+    tr: "m<u>aa</u> lakum kayfa ta<u>h</u>kumuun<strong>a</strong>",
+    idn: "Mengapa kamu (berbuat demikian)? Bagaimana kamu mengambil keputusan?"
+    },
+    {
+    id: 5308,
+    surah: 68,
+    nomor: 37,
+    ar: "اَمْ لَكُمْ كِتٰبٌ فِيْهِ تَدْرُسُوْنَۙ",
+    tr: "am lakum kit<u>aa</u>bun fiihi tadrusuun<strong>a</strong>",
+    idn: "Atau apakah kamu mempunyai kitab (yang diturunkan Allah) yang kamu pelajari?  "
+    },
+    {
+    id: 5309,
+    surah: 68,
+    nomor: 38,
+    ar: "اِنَّ لَكُمْ فِيْهِ لَمَا تَخَيَّرُوْنَۚ",
+    tr: "inna lakum fiihi lam<u>aa</u> takhayyaruun<strong>a</strong>",
+    idn: "sesungguhnya kamu dapat memilih apa saja yang ada di dalamnya."
+    },
+    {
+    id: 5310,
+    surah: 68,
+    nomor: 39,
+    ar: "اَمْ لَكُمْ اَيْمَانٌ عَلَيْنَا بَالِغَةٌ اِلٰى يَوْمِ الْقِيٰمَةِۙ اِنَّ لَكُمْ لَمَا تَحْكُمُوْنَۚ",
+    tr: "am lakum aym<u>aa</u>nun 'alayn<u>aa</u> b<u>aa</u>lighatun il<u>aa</u> yawmi <strong>a</strong>lqiy<u>aa</u>mati inna lakum lam<u>aa</u> ta<u>h</u>kumuun<strong>a</strong>",
+    idn: "Atau apakah kamu memperoleh (janji-janji yang diperkuat dengan) sumpah dari Kami, yang tetap berlaku sampai hari Kiamat; bahwa kamu dapat mengambil keputusan (sekehendakmu)? "
+    },
+    {
+    id: 5311,
+    surah: 68,
+    nomor: 40,
+    ar: "سَلْهُمْ اَيُّهُمْ بِذٰلِكَ زَعِيْمٌۚ",
+    tr: "salhum ayyuhum bi<u>dzaa</u>lika za'iim<strong>un</strong>",
+    idn: "Tanyakanlah kepada mereka, “Siapakah di antara mereka yang bertanggung jawab terhadap (keputusan yang diambil itu)?”"
+    },
+    {
+    id: 5312,
+    surah: 68,
+    nomor: 41,
+    ar: "اَمْ لَهُمْ شُرَكَاۤءُۚ فَلْيَأْتُوْا بِشُرَكَاۤىِٕهِمْ اِنْ كَانُوْا صٰدِقِيْنَ ",
+    tr: "am lahum syurak<u>aa</u>u falya/tuu bisyurak<u>aa</u>-ihim in k<u>aa</u>nuu <u>shaa</u>diqiin<strong>a</strong>",
+    idn: "Atau apakah mereka mempunyai sekutu-sekutu? Kalau begitu hendaklah mereka mendatangkan sekutu-sekutunya jika mereka orang-orang yang benar."
+    },
+    {
+    id: 5313,
+    surah: 68,
+    nomor: 42,
+    ar: "يَوْمَ يُكْشَفُ عَنْ سَاقٍ وَّيُدْعَوْنَ اِلَى السُّجُوْدِ فَلَا يَسْتَطِيْعُوْنَۙ",
+    tr: "yawma yuksyafu 'an s<u>aa</u>qin wayud'awna il<u>aa</u> <strong>al</strong>ssujuudi fal<u>aa</u> yasta<u>th</u>ii'uun<strong>a</strong>",
+    idn: "(Ingatlah) pada hari ketika betis disingkapkan dan mereka diseru untuk bersujud; maka mereka tidak mampu,"
+    },
+    {
+    id: 5314,
+    surah: 68,
+    nomor: 43,
+    ar: "خَاشِعَةً اَبْصَارُهُمْ تَرْهَقُهُمْ ذِلَّةٌ  ۗوَقَدْ كَانُوْا يُدْعَوْنَ اِلَى السُّجُوْدِ وَهُمْ سَالِمُوْنَ ",
+    tr: "kh<u>aa</u>syi'atan ab<u>shaa</u>ruhum tarhaquhum <u>dz</u>illatun waqad k<u>aa</u>nuu yud'awna il<u>aa</u> <strong>al</strong>ssujuudi wahum s<u>aa</u>limuun<strong>a</strong>",
+    idn: "pandangan mereka tertunduk ke bawah, diliputi kehinaan. Dan sungguh, dahulu (di dunia) mereka telah diseru untuk bersujud pada waktu mereka sehat (tetapi mereka tidak melakukan). "
+    },
+    {
+    id: 5315,
+    surah: 68,
+    nomor: 44,
+    ar: "فَذَرْنِيْ وَمَنْ يُّكَذِّبُ بِهٰذَا الْحَدِيْثِۗ سَنَسْتَدْرِجُهُمْ مِّنْ حَيْثُ لَا يَعْلَمُوْنَۙ",
+    tr: "fa<u>dz</u>arnii waman yuka<u>dzdz</u>ibu bih<u>aadzaa</u> <strong>a</strong>l<u>h</u>adiitsi sanastadrijuhum min <u>h</u>aytsu l<u>aa</u> ya'lamuun<strong>a</strong>",
+    idn: "Maka serahkanlah kepada-Ku (urusannya) dan orang-orang yang mendustakan perkataan ini (Al-Qur'an). Kelak akan Kami hukum mereka berangsur-angsur dari arah yang tidak mereka ketahui, "
+    },
+    {
+    id: 5316,
+    surah: 68,
+    nomor: 45,
+    ar: "وَاُمْلِيْ لَهُمْۗ اِنَّ كَيْدِيْ مَتِيْنٌ ",
+    tr: "waumlii lahum inna kaydii matiin<strong>un</strong>",
+    idn: "dan Aku memberi tenggang waktu kepada mereka. Sungguh, rencana-Ku sangat teguh. "
+    },
+    {
+    id: 5317,
+    surah: 68,
+    nomor: 46,
+    ar: "اَمْ تَسْـَٔلُهُمْ اَجْرًا فَهُمْ مِّنْ مَّغْرَمٍ مُّثْقَلُوْنَۚ ",
+    tr: "am tas-aluhum ajran fahum min maghramin mutsqaluun<strong>a</strong>",
+    idn: "Ataukah engkau (Muhammad) meminta imbalan kepada mereka, sehingga mereka dibebani dengan utang?"
+    },
+    {
+    id: 5318,
+    surah: 68,
+    nomor: 47,
+    ar: "اَمْ عِنْدَهُمُ الْغَيْبُ فَهُمْ يَكْتُبُوْنَ ",
+    tr: "am 'indahumu <strong>a</strong>lghaybu fahum yaktubuun<strong>a</strong>",
+    idn: "Ataukah mereka mengetahui yang gaib, lalu mereka menuliskannya?"
+    },
+    {
+    id: 5319,
+    surah: 68,
+    nomor: 48,
+    ar: "فَاصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تَكُنْ كَصَاحِبِ الْحُوْتِۘ اِذْ نَادٰى وَهُوَ مَكْظُوْمٌۗ",
+    tr: "fa<strong>i</strong><u>sh</u>bir li<u>h</u>ukmi rabbika wal<u>aa</u> takun ka<u>shaah</u>ibi <strong>a</strong>l<u>h</u>uuti i<u>dz</u> n<u>aa</u>d<u>aa</u> wahuwa mak<u>zh</u>uum<strong>un</strong>",
+    idn: "Maka bersabarlah engkau (Muhammad) terhadap ketetapan Tuhanmu, dan janganlah engkau seperti (Yunus) orang yang berada dalam (perut) ikan ketika dia berdoa dengan hati sedih."
+    },
+    {
+    id: 5320,
+    surah: 68,
+    nomor: 49,
+    ar: "لَوْلَآ اَنْ تَدَارَكَهٗ نِعْمَةٌ مِّنْ رَّبِّهٖ لَنُبِذَ بِالْعَرَاۤءِ وَهُوَ مَذْمُوْمٌ ",
+    tr: "lawl<u>aa</u> an tad<u>aa</u>rakahu ni'matun min rabbihi lanubi<u>dz</u>a bi<strong>a</strong>l'ar<u>aa</u>-i wahuwa ma<u>dz</u>muum<strong>un</strong>",
+    idn: "Sekiranya dia tidak segera mendapat nikmat dari Tuhannya, pastilah dia dicampakkan ke tanah tandus dalam keadaan tercela. "
+    },
+    {
+    id: 5321,
+    surah: 68,
+    nomor: 50,
+    ar: "فَاجْتَبٰىهُ رَبُّهٗ فَجَعَلَهٗ مِنَ الصّٰلِحِيْنَ ",
+    tr: "fa<strong>i</strong>jtab<u>aa</u>hu rabbuhu faja'alahu mina <strong>al</strong><u>shshaa</u>li<u>h</u>iin<strong>a</strong>",
+    idn: "Lalu Tuhannya memilihnya dan menjadikannya termasuk orang yang saleh. "
+    },
+    {
+    id: 5322,
+    surah: 68,
+    nomor: 51,
+    ar: "وَاِنْ يَّكَادُ الَّذِيْنَ كَفَرُوْا لَيُزْلِقُوْنَكَ بِاَبْصَارِهِمْ لَمَّا سَمِعُوا الذِّكْرَ وَيَقُوْلُوْنَ اِنَّهٗ لَمَجْنُوْنٌ ۘ",
+    tr: "wa-in yak<u>aa</u>du <strong>al</strong>la<u>dz</u>iina kafaruu layuzliquunaka bi-ab<u>shaa</u>rihim lamm<u>aa</u> sami'uu <strong>al</strong><u>dzdz</u>ikra wayaquuluuna innahu lamajnuun<strong>un</strong>",
+    idn: "Dan sungguh, orang-orang kafir itu hampir-hampir menggelincirkanmu dengan pandangan mata mereka, ketika mereka mendengar Al-Qur'an dan mereka berkata, “Dia (Muhammad) itu benar-benar orang gila.”"
+    },
+    {
+    id: 5323,
+    surah: 68,
+    nomor: 52,
+    ar: "وَمَا هُوَ اِلَّا ذِكْرٌ لِّلْعٰلَمِيْنَ ࣖ ",
+    tr: "wam<u>aa</u> huwa ill<u>aa</u> <u>dz</u>ikrun lil'<u>aa</u>lamiin<strong>a</strong>",
+    idn: "Padahal (Al-Qur'an) itu tidak lain adalah peringatan bagi seluruh alam."
+    }
+    ],
+    surat_selanjutnya: {
+    id: 69,
+    nomor: 69,
+    nama: "الحاۤقّة",
+    nama_latin: "Al-Haqqah",
+    jumlah_ayat: 52,
+    tempat_turun: "mekah",
+    arti: "Hari Kiamat",
+    deskripsi: "Surat ini terdiri atas 52 ayat,termasuk golongan surat-surat Makkiyah,diturunkan sesudah surat Al Mulk. <br> Nama <i>Al Haaqqah</i> diambil dari kata <i>Al Haaqqah</i> yang terdapat pada ayat pertama surat ini yang artinya <i>hari kiamat</i>",
+    audio: "https://santrikoding.com/storage/audio/069.mp3"
+    },
+    surat_sebelumnya: {
+    id: 67,
+    nomor: 67,
+    nama: "الملك",
+    nama_latin: "Al-Mulk",
+    jumlah_ayat: 30,
+    tempat_turun: "mekah",
+    arti: "Kerajaan",
+    deskripsi: "Surat ini terdiri atas 30 ayat, termasuk golongan surat-surat  Makkiyah, diturunkan sesudah Ath Thuur.<br> Nama <i>Al Mulk</i> diambil dari kata <i>Al Mulk</i> yang terdapat pada ayat pertama surat ini yang artinya kerajaan atau kekuasaan. Dinamai pula surat ini dengan <i>At Tabaarak</i> (Maha Suci).",
+    audio: "https://santrikoding.com/storage/audio/067.mp3"
+    }
+    }

@@ -1,0 +1,267 @@
+{
+    status: true,
+    nomor: 48,
+    nama: "الفتح",
+    nama_latin: "Al-Fath",
+    jumlah_ayat: 29,
+    tempat_turun: "madinah",
+    arti: "Kemenangan",
+    deskripsi: "Surat Al Fath terdiri atas 29 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Jum'ah. Dinamakan <i>Al Fath (kemenangan)</i> diambil dari perkataan <i>Fat-han</i> yang terdapat pada ayat pertama surat ini. Sebagian besar dari ayat-ayat surat ini menerangkan hal-hal yang berhubungan dengan kemenangan yang dicapai Nabi Muhammad s.a.w. dalam peperangan-peperangannya. <br>Nabi Muhammad s.a.w. sangat gembira dengan turunnya ayat pertama surat ini. Kegembiraan ini dinyatakan dalam sabda beliau yang diriwayatkan Bukhari; <i>Sesungguhnya telah diturunkan kepadaku satu surat, yang surat itu benar-benar lebih aku cintai dari seluruh apa yang disinari matahari</i>. Kegembiraan Nabi Muhammad s.a.w. itu ialah karena ayat-ayatnya menerangkan tentang kemenangan yang akan diperoleh Muhammad s.a.w. dalam perjuangannya dan tentang kesempurnaan nikmat Allah kepadanya.",
+    audio: "https://santrikoding.com/storage/audio/048.mp3",
+    ayat: [
+    {
+    id: 4584,
+    surah: 48,
+    nomor: 1,
+    ar: " اِنَّا فَتَحْنَا لَكَ فَتْحًا مُّبِيْنًاۙ",
+    tr: "inn<u>aa</u> fata<u>h</u>n<u>aa</u> laka fat<u>h</u>an mubiin<u>aa</u><strong>n</strong>",
+    idn: "Sungguh, Kami telah memberikan kepadamu kemenangan yang nyata."
+    },
+    {
+    id: 4585,
+    surah: 48,
+    nomor: 2,
+    ar: "لِّيَغْفِرَ لَكَ اللّٰهُ مَا تَقَدَّمَ مِنْ ذَنْۢبِكَ وَمَا تَاَخَّرَ وَيُتِمَّ نِعْمَتَهٗ عَلَيْكَ وَيَهْدِيَكَ صِرَاطًا مُّسْتَقِيْمًاۙ",
+    tr: "liyaghfira laka <strong>al</strong>l<u>aa</u>hu m<u>aa</u> taqaddama min <u>dz</u>anbika wam<u>aa</u> ta-akhkhara wayutimma ni'matahu 'alayka wayahdiyaka <u>sh</u>ir<u>aath</u>an mustaqiim<u>aa</u><strong>n</strong>",
+    idn: "Agar Allah memberikan ampunan kepadamu (Muhammad) atas dosamu yang lalu dan yang akan datang serta menyempurnakan nikmat-Nya atasmu dan menunjukimu ke jalan yang lurus,"
+    },
+    {
+    id: 4586,
+    surah: 48,
+    nomor: 3,
+    ar: "وَّيَنْصُرَكَ اللّٰهُ نَصْرًا عَزِيْزًا ",
+    tr: "wayan<u>sh</u>uraka <strong>al</strong>l<u>aa</u>hu na<u>sh</u>ran 'aziiz<u>aa</u><strong>n</strong>",
+    idn: "dan agar Allah menolongmu dengan pertolongan yang kuat (banyak)."
+    },
+    {
+    id: 4587,
+    surah: 48,
+    nomor: 4,
+    ar: "هُوَ الَّذِيْٓ اَنْزَلَ السَّكِيْنَةَ فِيْ قُلُوْبِ الْمُؤْمِنِيْنَ لِيَزْدَادُوْٓا اِيْمَانًا مَّعَ اِيْمَانِهِمْ ۗ وَلِلّٰهِ جُنُوْدُ السَّمٰوٰتِ وَالْاَرْضِۗ وَكَانَ اللّٰهُ عَلِيْمًا حَكِيْمًاۙ",
+    tr: "huwa <strong>al</strong>la<u>dz</u>ii anzala <strong>al</strong>ssakiinata fii quluubi <strong>a</strong>lmu/miniina liyazd<u>aa</u>duu iim<u>aa</u>nan ma'a iim<u>aa</u>nihim walill<u>aa</u>hi junuudu <strong>al</strong>ssam<u>aa</u>w<u>aa</u>ti wa<strong>a</strong>l-ar<u>dh</u>i wak<u>aa</u>na <strong>al</strong>l<u>aa</u>hu 'aliiman <u>h</u>akiim<u>aa</u><strong>n</strong>",
+    idn: "Dialah yang telah menurunkan ketenangan ke dalam hati orang-orang mukmin untuk menambah keimanan atas keimanan mereka (yang telah ada). Dan milik Allah-lah bala tentara langit dan bumi, dan Allah Maha Mengetahui, Mahabijaksana;"
+    },
+    {
+    id: 4588,
+    surah: 48,
+    nomor: 5,
+    ar: "لِّيُدْخِلَ الْمُؤْمِنِيْنَ وَالْمُؤْمِنٰتِ جَنّٰتٍ تَجْرِيْ مِنْ تَحْتِهَا الْاَنْهٰرُ خٰلِدِيْنَ فِيْهَا وَيُكَفِّرَ عَنْهُمْ سَيِّاٰتِهِمْۗ وَكَانَ ذٰلِكَ عِنْدَ اللّٰهِ فَوْزًا عَظِيْمًاۙ",
+    tr: "liyudkhila <strong>a</strong>lmu/miniina wa<strong>a</strong>lmu/min<u>aa</u>ti jann<u>aa</u>tin tajrii min ta<u>h</u>tih<u>aa</u> <strong>a</strong>l-anh<u>aa</u>ru kh<u>aa</u>lidiina fiih<u>aa</u> wayukaffira 'anhum sayyi-<u>aa</u>tihim wak<u>aa</u>na <u>dzaa</u>lika 'inda <strong>al</strong>l<u>aa</u>hi fawzan 'a<u>zh</u>iim<u>aa</u><strong>n</strong>",
+    idn: "Agar Dia masukkan orang-orang mukmin laki-laki dan perempuan ke dalam surga yang mengalir di bawahnya sungai-sungai. Mereka kekal di dalamnya dan Dia akan menghapus kesalahan-kesalahan mereka. Dan yang demikian itu menurut Allah suatu keuntungan yang besar,"
+    },
+    {
+    id: 4589,
+    surah: 48,
+    nomor: 6,
+    ar: "وَّيُعَذِّبَ الْمُنٰفِقِيْنَ وَالْمُنٰفِقٰتِ وَالْمُشْرِكِيْنَ وَالْمُشْرِكٰتِ الظَّاۤنِّيْنَ بِاللّٰهِ ظَنَّ السَّوْءِۗ عَلَيْهِمْ دَاۤىِٕرَةُ السَّوْءِۚ وَغَضِبَ اللّٰهُ عَلَيْهِمْ وَلَعَنَهُمْ وَاَعَدَّ لَهُمْ جَهَنَّمَۗ وَسَاۤءَتْ مَصِيْرًا ",
+    tr: "wayu'a<u>dzdz</u>iba <strong>a</strong>lmun<u>aa</u>fiqiina wa<strong>a</strong>lmun<u>aa</u>fiq<u>aa</u>ti wa<strong>a</strong>lmusyrikiina wa<strong>a</strong>lmusyrik<u>aa</u>ti <strong>al</strong><u>zhzhaa</u>nniina bi<strong>al</strong>l<u>aa</u>hi <u>zh</u>anna <strong>al</strong>ssaw-i 'alayhim d<u>aa</u>-iratu <strong>al</strong>ssaw-i wagha<u>dh</u>iba <strong>al</strong>l<u>aa</u>hu 'alayhim wala'anahum wa-a'adda lahum jahannama was<u>aa</u>-at ma<u>sh</u>iir<u>aa</u><strong>n</strong>",
+    idn: "dan Dia mengazab orang-orang munafik laki-laki dan perempuan, dan (juga) orang-orang musyrik laki-laki dan perempuan yang berprasangka buruk terhadap Allah. Mereka akan mendapat giliran (azab) yang buruk dan Allah murka kepada mereka dan mengutuk mereka serta menyediakan neraka Jahanam bagi mereka. Dan (neraka Jahanam) itu seburuk-buruk tempat kembali. "
+    },
+    {
+    id: 4590,
+    surah: 48,
+    nomor: 7,
+    ar: "وَلِلّٰهِ جُنُوْدُ السَّمٰوٰتِ وَالْاَرْضِۗ وَكَانَ اللّٰهُ عَزِيْزًا حَكِيْمًا",
+    tr: "walill<u>aa</u>hi junuudu <strong>al</strong>ssam<u>aa</u>w<u>aa</u>ti wa<strong>a</strong>l-ar<u>dh</u>i wak<u>aa</u>na <strong>al</strong>l<u>aa</u>hu 'aziizan <u>h</u>akiim<u>aa</u><strong>n</strong>",
+    idn: "Dan milik Allah bala tentara langit dan bumi. Dan Allah Mahaperkasa, Mahabijaksana. "
+    },
+    {
+    id: 4591,
+    surah: 48,
+    nomor: 8,
+    ar: "اِنَّآ اَرْسَلْنٰكَ شَاهِدًا وَّمُبَشِّرًا وَّنَذِيْرًاۙ",
+    tr: "inn<u>aa</u> arsaln<u>aa</u>ka sy<u>aa</u>hidan wamubasysyiran wana<u>dz</u>iir<u>aa</u><strong>n</strong>",
+    idn: "Sesungguhnya Kami mengutus engkau (Muhammad) sebagai saksi, pembawa berita gembira dan pemberi peringatan,"
+    },
+    {
+    id: 4592,
+    surah: 48,
+    nomor: 9,
+    ar: "لِّتُؤْمِنُوْا بِاللّٰهِ وَرَسُوْلِهٖ وَتُعَزِّرُوْهُ وَتُوَقِّرُوْهُۗ وَتُسَبِّحُوْهُ بُكْرَةً وَّاَصِيْلًا ",
+    tr: "litu/minuu bi<strong>al</strong>l<u>aa</u>hi warasuulihi watu'azziruuhu watuwaqqiruuhu watusabbi<u>h</u>uuhu bukratan wa-a<u>sh</u>iil<u>aa</u><strong>n</strong>",
+    idn: "agar kamu semua beriman kepada Allah dan Rasul-Nya, menguatkan (agama)-Nya, membesarkan-Nya, dan bertasbih kepada-Nya pagi dan petang."
+    },
+    {
+    id: 4593,
+    surah: 48,
+    nomor: 10,
+    ar: "اِنَّ الَّذِيْنَ يُبَايِعُوْنَكَ اِنَّمَا يُبَايِعُوْنَ اللّٰهَ ۗيَدُ اللّٰهِ فَوْقَ اَيْدِيْهِمْ ۚ فَمَنْ نَّكَثَ فَاِنَّمَا يَنْكُثُ عَلٰى نَفْسِهٖۚ وَمَنْ اَوْفٰى بِمَا عٰهَدَ عَلَيْهُ اللّٰهَ فَسَيُؤْتِيْهِ اَجْرًا عَظِيْمًا ࣖ ",
+    tr: "inna <strong>al</strong>la<u>dz</u>iina yub<u>aa</u>yi'uunaka innam<u>aa</u> yub<u>aa</u>yi'uuna <strong>al</strong>l<u>aa</u>ha yadu <strong>al</strong>l<u>aa</u>hi fawqa aydiihim faman nakatsa fa-innam<u>aa</u> yankutsu 'al<u>aa</u> nafsihi waman awf<u>aa</u> bim<u>aa</u> '<u>aa</u>hada 'alayhu <strong>al</strong>l<u>aa</u>ha fasayu/tiihi ajran 'a<u>zh</u>iim<u>aa</u><strong>n</strong>",
+    idn: "Bahwasanya orang-orang yang berjanji setia kepadamu (Muhammad), sesungguhnya mereka hanya berjanji setia kepada Allah. Tangan Allah di atas tangan mereka, maka barangsiapa melanggar janji, maka sesungguhnya dia melanggar atas (janji) sendiri; dan barangsiapa menepati janjinya kepada Allah maka Dia akan memberinya pahala yang besar. "
+    },
+    {
+    id: 4594,
+    surah: 48,
+    nomor: 11,
+    ar: "سَيَقُوْلُ لَكَ الْمُخَلَّفُوْنَ مِنَ الْاَعْرَابِ شَغَلَتْنَآ اَمْوَالُنَا وَاَهْلُوْنَا فَاسْتَغْفِرْ لَنَا ۚيَقُوْلُوْنَ بِاَلْسِنَتِهِمْ مَّا لَيْسَ فِيْ قُلُوْبِهِمْۗ قُلْ فَمَنْ يَّمْلِكُ لَكُمْ مِّنَ اللّٰهِ شَيْـًٔا اِنْ اَرَادَ بِكُمْ ضَرًّا اَو",
+    tr: "sayaquulu laka <strong>a</strong>lmukhallafuuna mina <strong>a</strong>l-a'r<u>aa</u>bi syaghalatn<u>aa</u> amw<u>aa</u>lun<u>aa</u> wa-ahluun<u>aa</u> fa<strong>i</strong>staghfir lan<u>aa</u> yaquuluuna bi-alsinatihim m<u>aa</u> laysa fii quluubihim qul faman yamliku lakum mina <strong>al</strong>l<u>aa</u>hi syay-an in ar<u>aa</u>da bikum <u>dh</u>arran aw ar<u>aa</u>da bikum naf'an bal k<u>aa</u>na <strong>al</strong>l<u>aa</u>hu bim<u>aa</u> ta'maluuna khabiir<u>aa</u><strong>n</strong>",
+    idn: "Orang-orang Badui yang tertinggal (tidak turut ke Hudaibiyah) akan berkata kepadamu, “Kami telah disibukkan oleh harta dan keluarga kami, maka mohonkanlah ampunan untuk kami.” Mereka mengucapkan sesuatu dengan mulutnya apa yang tidak ada dalam hatinya. Katakanlah, “Maka siapakah yang dapat menghalang-halangi kehendak Allah jika Dia menghendaki bencana terhadap kamu atau jika Dia menghendaki keuntungan bagimu? Sungguh, Allah Mahateliti dengan apa yang kamu kerjakan.” "
+    },
+    {
+    id: 4595,
+    surah: 48,
+    nomor: 12,
+    ar: "بَلْ ظَنَنْتُمْ اَنْ لَّنْ يَّنْقَلِبَ الرَّسُوْلُ وَالْمُؤْمِنُوْنَ اِلٰٓى اَهْلِيْهِمْ اَبَدًا وَّزُيِّنَ ذٰلِكَ فِيْ قُلُوْبِكُمْ وَظَنَنْتُمْ ظَنَّ السَّوْءِۚ وَكُنْتُمْ قَوْمًاۢ  بُوْرًا ",
+    tr: "bal <u>zh</u>anantum an lan yanqaliba <strong>al</strong>rrasuulu wa<strong>a</strong>lmu/minuuna il<u>aa</u> ahliihim abadan wazuyyina <u>dzaa</u>lika fii quluubikum wa<u>zh</u>anantum <u>zh</u>anna <strong>al</strong>ssaw-i wakuntum qawman buur<u>aa</u><strong>n</strong>",
+    idn: "Bahkan (semula) kamu menyangka bahwa Rasul dan orang-orang mukmin sekali-kali tidak akan kembali lagi kepada keluarga mereka selama-lamanya dan dijadikan terasa indah yang demikian itu di dalam hatimu, dan kamu telah berprasangka dengan prasangka yang buruk, karena itu kamu menjadi kaum yang binasa. "
+    },
+    {
+    id: 4596,
+    surah: 48,
+    nomor: 13,
+    ar: "وَمَنْ لَّمْ يُؤْمِنْۢ بِاللّٰهِ وَرَسُوْلِهٖ فَاِنَّآ اَعْتَدْنَا لِلْكٰفِرِيْنَ سَعِيْرًا ",
+    tr: "waman lam yu/min bi<strong>al</strong>l<u>aa</u>hi warasuulihi fa-inn<u>aa</u> a'tadn<u>aa</u> lilk<u>aa</u>firiina sa'iir<u>aa</u><strong>n</strong>",
+    idn: "Dan barangsiapa tidak beriman kepada Allah dan Rasul-Nya, maka sesungguhnya Kami telah menyediakan untuk orang-orang kafir itu neraka yang menyala-nyala. "
+    },
+    {
+    id: 4597,
+    surah: 48,
+    nomor: 14,
+    ar: "وَلِلّٰهِ مُلْكُ السَّمٰوٰتِ وَالْاَرْضِۗ يَغْفِرُ لِمَنْ يَّشَاۤءُ وَيُعَذِّبُ مَنْ يَّشَاۤءُ ۗوَكَانَ اللّٰهُ غَفُوْرًا رَّحِيْمًا",
+    tr: "walill<u>aa</u>hi mulku <strong>al</strong>ssam<u>aa</u>w<u>aa</u>ti wa<strong>a</strong>l-ar<u>dh</u>i yaghfiru liman yasy<u>aa</u>u wayu'a<u>dzdz</u>ibu man yasy<u>aa</u>u wak<u>aa</u>na <strong>al</strong>l<u>aa</u>hu ghafuuran ra<u>h</u>iim<u>aa</u><strong>n</strong>",
+    idn: "Dan hanya milik Allah kerajaan langit dan bumi. Dia mengampuni siapa yang Dia kehendaki dan akan mengazab siapa yang Dia kehendaki. Dan Allah Maha Pengampun, Maha Penyayang. "
+    },
+    {
+    id: 4598,
+    surah: 48,
+    nomor: 15,
+    ar: "سَيَقُوْلُ الْمُخَلَّفُوْنَ اِذَا انْطَلَقْتُمْ اِلٰى مَغَانِمَ لِتَأْخُذُوْهَا ذَرُوْنَا نَتَّبِعْكُمْ ۚ يُرِيْدُوْنَ اَنْ يُّبَدِّلُوْا كَلٰمَ اللّٰهِ ۗ قُلْ لَّنْ تَتَّبِعُوْنَا كَذٰلِكُمْ قَالَ اللّٰهُ مِنْ قَبْلُ  ۖفَسَيَقُوْلُوْنَ بَلْ تَحْسُدُوْنَن",
+    tr: "sayaquulu <strong>a</strong>lmukhallafuuna i<u>dzaa</u> in<u>th</u>alaqtum il<u>aa</u> magh<u>aa</u>nima lita/khu<u>dz</u>uuh<u>aa</u> <u>dz</u>aruun<u>aa</u> nattabi'kum yuriiduuna an yubaddiluu kal<u>aa</u>ma <strong>al</strong>l<u>aa</u>hi qul lan tattabi'uun<u>aa</u> ka<u>dzaa</u>likum q<u>aa</u>la <strong>al</strong>l<u>aa</u>hu min qablu fasayaquuluuna bal ta<u>h</u>suduunan<u>aa</u> bal k<u>aa</u>nuu l<u>aa</u> yafqahuuna ill<u>aa</u> qaliil<u>aa</u><strong>n</strong>",
+    idn: "Apabila kamu berangkat untuk mengambil barang rampasan, orang-orang Badui yang tertinggal itu akan berkata, “Biarkanlah kami mengikuti kamu.” Mereka hendak mengubah janji Allah. Katakanlah, “Kamu sekali-kali tidak (boleh) mengikuti kami. Demikianlah yang telah ditetapkan Allah sejak semula.” Maka mereka akan berkata, “Sebenarnya kamu dengki kepada kami.” Padahal mereka tidak mengerti melainkan sedikit sekali. "
+    },
+    {
+    id: 4599,
+    surah: 48,
+    nomor: 16,
+    ar: "قُلْ لِّلْمُخَلَّفِيْنَ مِنَ الْاَعْرَابِ سَتُدْعَوْنَ اِلٰى قَوْمٍ اُولِيْ بَأْسٍ شَدِيْدٍ تُقَاتِلُوْنَهُمْ اَوْ يُسْلِمُوْنَ ۚ فَاِنْ تُطِيْعُوْا يُؤْتِكُمُ اللّٰهُ اَجْرًا حَسَنًا ۚ وَاِنْ تَتَوَلَّوْا كَمَا تَوَلَّيْتُمْ مِّنْ قَبْلُ يُعَذِّبْكُمْ عَ",
+    tr: "qul lilmukhallafiina mina <strong>a</strong>l-a'r<u>aa</u>bi satud'awna il<u>aa</u> qawmin ulii ba/sin syadiidin tuq<u>aa</u>tiluunahum aw yuslimuuna fa-in tu<u>th</u>ii'uu yu/tikumu <strong>al</strong>l<u>aa</u>hu ajran <u>h</u>asanan wa-in tatawallaw kam<u>aa</u> tawallaytum min qablu yu'a<u>dzdz</u>ibkum 'a<u>dzaa</u>ban <strong>a</strong>liim<u>aa</u><strong>n</strong>",
+    idn: "Katakanlah kepada orang-orang Badui yang tertinggal, “Kamu akan diajak untuk (memerangi) kaum yang mempunyai kekuatan yang besar, kamu harus memerangi mereka kecuali mereka menyerah. Jika kamu patuhi (ajakan itu) Allah akan memberimu pahala yang baik, tetapi jika kamu berpaling seperti yang kamu perbuat sebelumnya, Dia akan mengazab kamu dengan azab yang pedih.” "
+    },
+    {
+    id: 4600,
+    surah: 48,
+    nomor: 17,
+    ar: "لَيْسَ عَلَى الْاَعْمٰى حَرَجٌ وَّلَا عَلَى الْاَعْرَجِ حَرَجٌ وَّلَا عَلَى الْمَرِيْضِ حَرَجٌ ۗ وَمَنْ يُّطِعِ اللّٰهَ وَرَسُوْلَهٗ يُدْخِلْهُ جَنّٰتٍ تَجْرِيْ مِنْ تَحْتِهَا الْاَنْهٰرُ ۚ وَمَنْ يَّتَوَلَّ يُعَذِّبْهُ عَذَابًا اَلِيْمًا ࣖ ",
+    tr: "laysa 'al<u>aa</u> <strong>a</strong>l-a'm<u>aa</u> <u>h</u>arajun wal<u>aa</u> 'al<u>aa</u> <strong>a</strong>l-a'raji <u>h</u>arajun wal<u>aa</u> 'al<u>aa</u> <strong>a</strong>lmarii<u>dh</u>i <u>h</u>arajun waman yu<u>th</u>i'i <strong>al</strong>l<u>aa</u>ha warasuulahu yudkhilhu jann<u>aa</u>tin tajrii min ta<u>h</u>tih<u>aa</u> <strong>a</strong>l-anh<u>aa</u>ru waman yatawalla yu'a<u>dzdz</u>ibhu 'a<u>dzaa</u>ban <strong>a</strong>liim<u>aa</u><strong>n</strong>",
+    idn: "Tidak ada dosa atas orang-orang yang buta, atas orang-orang yang pincang, dan atas orang-orang yang sakit (apabila tidak ikut berperang). Barangsiapa taat kepada Allah dan Rasul-Nya, Dia akan memasukkannya ke dalam surga yang mengalir di bawahnya sungai-sungai; tetapi barangsiapa berpaling, Dia akan mengazabnya dengan azab yang pedih. "
+    },
+    {
+    id: 4601,
+    surah: 48,
+    nomor: 18,
+    ar: "۞ لَقَدْ رَضِيَ اللّٰهُ عَنِ الْمُؤْمِنِيْنَ اِذْ يُبَايِعُوْنَكَ تَحْتَ الشَّجَرَةِ فَعَلِمَ مَا فِيْ قُلُوْبِهِمْ فَاَنْزَلَ السَّكِيْنَةَ عَلَيْهِمْ وَاَثَابَهُمْ فَتْحًا قَرِيْبًاۙ",
+    tr: "laqad ra<u>dh</u>iya <strong>al</strong>l<u>aa</u>hu 'ani <strong>a</strong>lmu/miniina i<u>dz</u> yub<u>aa</u>yi'uunaka ta<u>h</u>ta <strong>al</strong>sysyajarati fa'alima m<u>aa</u> fii quluubihim fa-anzala <strong>al</strong>sakiinata 'alayhim wa-ats<u>aa</u>bahum fat<u>h</u>an qariib<u>aa</u><strong>n</strong>",
+    idn: "Sungguh, Allah telah meridai orang-orang mukmin ketika mereka berjanji setia kepadamu (Muhammad) di bawah pohon, Dia mengetahui apa yang ada dalam hati mereka lalu Dia memberikan ketenangan atas mereka dan memberi balasan dengan kemenangan yang dekat,"
+    },
+    {
+    id: 4602,
+    surah: 48,
+    nomor: 19,
+    ar: "وَّمَغَانِمَ كَثِيْرَةً يَّأْخُذُوْنَهَا ۗ وَكَانَ اللّٰهُ عَزِيْزًا حَكِيْمًا ",
+    tr: "wamagh<u>aa</u>nima katsiiratan ya/khu<u>dz</u>uunah<u>aa</u> wak<u>aa</u>na <strong>al</strong>l<u>aa</u>hu 'aziizan <u>h</u>akiim<u>aa</u><strong>n</strong>",
+    idn: "dan harta rampasan perang yang banyak yang akan mereka peroleh. Dan Allah Mahaperkasa, Mahabijaksana. "
+    },
+    {
+    id: 4603,
+    surah: 48,
+    nomor: 20,
+    ar: "وَعَدَكُمُ اللّٰهُ مَغَانِمَ كَثِيْرَةً تَأْخُذُوْنَهَا فَعَجَّلَ لَكُمْ هٰذِهٖ وَكَفَّ اَيْدِيَ النَّاسِ عَنْكُمْۚ وَلِتَكُوْنَ اٰيَةً لِّلْمُؤْمِنِيْنَ وَيَهْدِيَكُمْ صِرَاطًا مُّسْتَقِيْمًاۙ",
+    tr: "wa'adakumu <strong>al</strong>l<u>aa</u>hu magh<u>aa</u>nima katsiiratan ta/khu<u>dz</u>uunah<u>aa</u> fa'ajjala lakum h<u>aadz</u>ihi wakaffa aydiya <strong>al</strong>nn<u>aa</u>si 'ankum walitakuuna <u>aa</u>yatan lilmu/miniina wayahdiyakum <u>sh</u>ir<u>aath</u>an mustaqiim<u>aa</u><strong>n</strong>",
+    idn: "Allah menjanjikan kepadamu harta rampasan perang yang banyak yang dapat kamu ambil, maka Dia segerakan (harta rampasan perang) ini untukmu dan Dia menahan tangan manusia dari (membinasakan)mu (agar kamu mensyukuri-Nya) dan agar menjadi bukti bagi orang-orang mukmin dan agar Dia menunjukkan kamu ke jalan yang lurus. "
+    },
+    {
+    id: 4604,
+    surah: 48,
+    nomor: 21,
+    ar: "وَّاُخْرٰى لَمْ تَقْدِرُوْا عَلَيْهَا قَدْ اَحَاطَ اللّٰهُ بِهَا ۗوَكَانَ اللّٰهُ عَلٰى كُلِّ شَيْءٍ قَدِيْرًا ",
+    tr: "waukhr<u>aa</u> lam taqdiruu 'alayh<u>aa</u> qad a<u>hath</u>a <strong>al</strong>l<u>aa</u>hu bih<u>aa</u> wak<u>aa</u>na <strong>al</strong>l<u>aa</u>hu 'al<u>aa</u> kulli syay-in qadiir<u>aa</u><strong>n</strong>",
+    idn: "Dan (kemenangan-kemenangan) atas negeri-negeri lain yang tidak dapat kamu perkirakan, tetapi sesungguhnya Allah telah menentukannya. Dan Allah Mahakuasa atas segala sesuatu. "
+    },
+    {
+    id: 4605,
+    surah: 48,
+    nomor: 22,
+    ar: "وَلَوْ قَاتَلَكُمُ الَّذِيْنَ كَفَرُوْا لَوَلَّوُا الْاَدْبَارَ ثُمَّ لَا يَجِدُوْنَ وَلِيًّا وَّلَا نَصِيْرًا ",
+    tr: "walaw q<u>aa</u>talakumu <strong>al</strong>la<u>dz</u>iina kafaruu lawallawuu <strong>a</strong>l-adb<u>aa</u>ra tsumma l<u>aa</u> yajiduuna waliyyan wal<u>aa</u> na<u>sh</u>iir<u>aa</u><strong>n</strong>",
+    idn: "Dan sekiranya orang-orang yang kafir itu memerangi kamu pastilah mereka akan berbalik melarikan diri (kalah) dan mereka tidak akan mendapatkan pelindung dan penolong. "
+    },
+    {
+    id: 4606,
+    surah: 48,
+    nomor: 23,
+    ar: "سُنَّةَ اللّٰهِ الَّتِيْ قَدْ خَلَتْ مِنْ قَبْلُ  ۖوَلَنْ تَجِدَ لِسُنَّةِ اللّٰهِ تَبْدِيْلًا ",
+    tr: "sunnata <strong>al</strong>l<u>aa</u>hi <strong>al</strong>latii qad khalat min qablu walan tajida lisunnati <strong>al</strong>l<u>aa</u>hi tabdiil<u>aa</u><strong>n</strong>",
+    idn: "(Demikianlah) hukum Allah, yang telah berlaku sejak dahulu, kamu sekali-kali tidak akan menemukan perubahan pada hukum Allah itu. "
+    },
+    {
+    id: 4607,
+    surah: 48,
+    nomor: 24,
+    ar: "وَهُوَ الَّذِيْ كَفَّ اَيْدِيَهُمْ عَنْكُمْ وَاَيْدِيَكُمْ عَنْهُمْ بِبَطْنِ مَكَّةَ مِنْۢ بَعْدِ اَنْ اَظْفَرَكُمْ عَلَيْهِمْ ۗوَكَانَ اللّٰهُ بِمَا تَعْمَلُوْنَ بَصِيْرًا ",
+    tr: "wahuwa <strong>al</strong>la<u>dz</u>ii kaffa aydiyahum 'ankum wa-aydiyakum 'anhum biba<u>th</u>ni makkata min ba'di an a<u>zh</u>farakum 'alayhim wak<u>aa</u>na <strong>al</strong>l<u>aa</u>hu bim<u>aa</u> ta'maluuna ba<u>sh</u>iir<u>aa</u><strong>n</strong>",
+    idn: "Dan Dialah yang mencegah tangan mereka dari (membinasakan) kamu dan (mencegah) tangan kamu dari (membinasakan) mereka di tengah (kota) Mekah setelah Allah memenangkan kamu atas mereka. Dan Allah Maha Melihat apa yang kamu kerjakan. "
+    },
+    {
+    id: 4608,
+    surah: 48,
+    nomor: 25,
+    ar: "هُمُ الَّذِيْنَ كَفَرُوْا وَصَدُّوْكُمْ عَنِ الْمَسْجِدِ الْحَرَامِ وَالْهَدْيَ مَعْكُوْفًا اَنْ يَّبْلُغَ مَحِلَّهٗ ۚوَلَوْلَا رِجَالٌ مُّؤْمِنُوْنَ وَنِسَاۤءٌ مُّؤْمِنٰتٌ لَّمْ تَعْلَمُوْهُمْ اَنْ تَطَـُٔوْهُمْ فَتُصِيْبَكُمْ مِّنْهُمْ مَّعَرَّةٌ ۢبِغَي",
+    tr: "humu <strong>al</strong>la<u>dz</u>iina kafaruu wa<u>sh</u>adduukum 'ani <strong>a</strong>lmasjidi <strong>a</strong>l<u>h</u>ar<u>aa</u>mi wa<strong>a</strong>lhadya ma'kuufan an yablugha ma<u>h</u>illahu walawl<u>aa</u> rij<u>aa</u>lun mu/minuuna wanis<u>aa</u>un mu/min<u>aa</u>tun lam ta'lamuuhum an ta<u>th</u>auuhum fatu<u>sh</u>iibakum minhum ma'arratun bighayri 'ilmin liyudkhila <strong>al</strong>l<u>aa</u>hu fii ra<u>h</u>matihi man yasy<u>aa</u>u law tazayyaluu la'a<u>dzdz</u>abn<u>aa</u> <strong>al</strong>la<u>dz</u>iina kafaruu minhum 'a<u>dzaa</u>ban <strong>a</strong>liim<u>aa</u><strong>n</strong>",
+    idn: "Merekalah orang-orang kafir yang menghalang-halangi kamu (masuk) Masjidilharam dan menghambat hewan-hewan kurban sampai ke tempat (penyembelihan)nya. Dan kalau bukanlah karena ada beberapa orang beriman laki-laki dan perempuan yang tidak kamu ketahui, tentulah kamu akan membunuh mereka yang menyebabkan kamu ditimpa kesulitan tanpa kamu sadari. Karena Allah hendak memasukkan siapa yang Dia kehendaki ke dalam rahmat-Nya. Sekiranya mereka terpisah, tentu Kami akan mengazab orang-orang yang kafir di antara mereka dengan azab yang pedih. "
+    },
+    {
+    id: 4609,
+    surah: 48,
+    nomor: 26,
+    ar: "اِذْ جَعَلَ الَّذِيْنَ كَفَرُوْا فِيْ قُلُوْبِهِمُ الْحَمِيَّةَ حَمِيَّةَ الْجَاهِلِيَّةِ فَاَنْزَلَ اللّٰهُ سَكِيْنَتَهٗ عَلٰى رَسُوْلِهٖ وَعَلَى الْمُؤْمِنِيْنَ وَاَلْزَمَهُمْ كَلِمَةَ التَّقْوٰى وَكَانُوْٓا اَحَقَّ بِهَا وَاَهْلَهَا ۗوَكَانَ اللّٰهُ بِ",
+    tr: "i<u>dz</u> ja'ala <strong>al</strong>la<u>dz</u>iina kafaruu fii quluubihimu <strong>a</strong>l<u>h</u>amiyyata <u>h</u>amiyyata <strong>a</strong>lj<u>aa</u>hiliyyati fa-anzala <strong>al</strong>l<u>aa</u>hu sakiinatahu 'al<u>aa</u> rasuulihi wa'al<u>aa</u> <strong>a</strong>lmu/miniina wa-alzamahum kalimata <strong>al</strong>ttaqw<u>aa</u> wak<u>aa</u>nuu a<u>h</u>aqqa bih<u>aa</u> wa-ahlah<u>aa</u> wak<u>aa</u>na <strong>al</strong>l<u>aa</u>hu bikulli syay-in 'aliim<u>aa</u><strong>n</strong>",
+    idn: "Ketika orang-orang yang kafir menanamkan kesombongan dalam hati mereka (yaitu) kesombongan jahiliah, lalu Allah menurunkan ketenangan kepada Rasul-Nya, dan kepada orang-orang mukmin; dan (Allah) mewajibkan kepada mereka tetap taat menjalankan kalimat takwa dan mereka lebih berhak dengan itu dan patut memilikinya. Dan Allah Maha Mengetahui segala sesuatu. "
+    },
+    {
+    id: 4610,
+    surah: 48,
+    nomor: 27,
+    ar: "لَقَدْ صَدَقَ اللّٰهُ رَسُوْلَهُ الرُّءْيَا بِالْحَقِّ ۚ لَتَدْخُلُنَّ الْمَسْجِدَ الْحَرَامَ اِنْ شَاۤءَ اللّٰهُ اٰمِنِيْنَۙ مُحَلِّقِيْنَ رُءُوْسَكُمْ وَمُقَصِّرِيْنَۙ  لَا تَخَافُوْنَ ۗفَعَلِمَ مَا لَمْ تَعْلَمُوْا فَجَعَلَ مِنْ دُوْنِ ذٰلِكَ فَتْحًا ق",
+    tr: "laqad <u>sh</u>adaqa <strong>al</strong>l<u>aa</u>hu rasuulahu <strong>al</strong>rru/y<u>aa</u> bi<strong>a</strong>l<u>h</u>aqqi latadkhulunna <strong>a</strong>lmasjida <strong>a</strong>l<u>h</u>ar<u>aa</u>ma in sy<u>aa</u>-a <strong>al</strong>l<u>aa</u>hu <u>aa</u>miniina mu<u>h</u>alliqiina ruuusakum wamuqa<u>shsh</u>iriina l<u>aa</u> takh<u>aa</u>fuuna fa'alima m<u>aa</u> lam ta'lamuu faja'ala min duuni <u>dzaa</u>lika fat<u>h</u>an qariib<u>aa</u><strong>n</strong>",
+    idn: "Sungguh, Allah akan membuktikan kepada Rasul-Nya tentang kebenaran mimpinya bahwa kamu pasti akan memasuki Masjidilharam, jika Allah menghendaki dalam keadaan aman, dengan menggundul rambut kepala dan memendekkannya, sedang kamu tidak merasa takut. Maka Allah mengetahui apa yang tidak kamu ketahui dan selain itu Dia telah memberikan kemenangan yang dekat."
+    },
+    {
+    id: 4611,
+    surah: 48,
+    nomor: 28,
+    ar: "هُوَ الَّذِيْٓ اَرْسَلَ رَسُوْلَهٗ بِالْهُدٰى وَدِيْنِ الْحَقِّ لِيُظْهِرَهٗ عَلَى الدِّيْنِ كُلِّهٖ ۗوَكَفٰى بِاللّٰهِ شَهِيْدًا ",
+    tr: "huwa <strong>al</strong>la<u>dz</u>ii arsala rasuulahu bi<strong>a</strong>lhud<u>aa</u> wadiini <strong>a</strong>l<u>h</u>aqqi liyu<u>zh</u>hirahu 'al<u>aa</u> <strong>al</strong>ddiini kullihi wakaf<u>aa</u> bi<strong>al</strong>l<u>aa</u>hi syahiid<u>aa</u><strong>n</strong>",
+    idn: "Dialah yang mengutus Rasul-Nya dengan membawa petunjuk dan agama yang benar agar dimenangkan-Nya terhadap semua agama. Dan cukuplah Allah sebagai saksi. "
+    },
+    {
+    id: 4612,
+    surah: 48,
+    nomor: 29,
+    ar: "مُحَمَّدٌ رَّسُوْلُ اللّٰهِ ۗوَالَّذِيْنَ مَعَهٗٓ اَشِدَّاۤءُ عَلَى الْكُفَّارِ رُحَمَاۤءُ بَيْنَهُمْ تَرٰىهُمْ رُكَّعًا سُجَّدًا يَّبْتَغُوْنَ فَضْلًا مِّنَ اللّٰهِ وَرِضْوَانًا ۖ سِيْمَاهُمْ فِيْ وُجُوْهِهِمْ مِّنْ اَثَرِ السُّجُوْدِ ۗذٰلِكَ مَثَلُهُمْ ",
+    tr: "mu<u>h</u>ammadun rasuulu <strong>al</strong>l<u>aa</u>hi wa<strong>a</strong>lla<u>dz</u>iina ma'ahu asyidd<u>aa</u>u 'al<u>aa</u> <strong>a</strong>lkuff<u>aa</u>ri ru<u>h</u>am<u>aa</u>u baynahum tar<u>aa</u>hum rukka'an sujjadan yabtaghuuna fa<u>dh</u>lan mina <strong>al</strong>l<u>aa</u>hi wari<u>dh</u>w<u>aa</u>nan siim<u>aa</u>hum fii wujuuhihim min atsari <strong>al</strong>ssujuudi <u>dzaa</u>lika matsaluhum fii <strong>al</strong>ttawr<u>aa</u>ti wamatsaluhum fii <strong>a</strong>l-injiili kazar'in akhraja sya<u>th</u>-ahu fa<u>aa</u>zarahu fa<strong>i</strong>staghla<u>zh</u>a fa<strong>i</strong>staw<u>aa</u> 'al<u>aa</u> suuqihi yu'jibu <strong>al</strong>zzurr<u>aa</u>'a liyaghii<u>zh</u>a bihimu <strong>a</strong>lkuff<u>aa</u>ra wa'ada <strong>al</strong>l<u>aa</u>hu <strong>al</strong>la<u>dz</u>iina <u>aa</u>manuu wa'amiluu <strong>al</strong><u>shshaa</u>li<u>haa</u>ti minhum maghfiratan wa-ajran 'a<u>zh</u>iim<u>aa</u><strong>n</strong>",
+    idn: "Muhammad adalah utusan Allah dan orang-orang yang bersama dengan dia bersikap keras terhadap orang-orang kafir, tetapi berkasih sayang sesama mereka. Kamu melihat mereka rukuk dan sujud mencari karunia Allah dan keridaan-Nya. Pada wajah mereka tampak tanda-tanda bekas sujud. Demikianlah sifat-sifat mereka (yang diungkapkan) dalam Taurat dan sifat-sifat mereka (yang diungkapkan) dalam Injil, yaitu seperti benih yang mengeluarkan tunasnya, kemudian tunas itu semakin kuat lalu menjadi besar dan tegak lurus di atas batangnya; tanaman itu menyenangkan hati penanam-penanamnya karena Allah hendak menjengkelkan hati orang-orang kafir (dengan kekuatan orang-orang mukmin). Allah menjanjikan kepada orang-orang yang beriman dan mengerjakan kebajikan di antara mereka, ampunan dan pahala yang besar. "
+    }
+    ],
+    surat_selanjutnya: {
+    id: 49,
+    nomor: 49,
+    nama: "الحجرٰت",
+    nama_latin: "Al-Hujurat",
+    jumlah_ayat: 18,
+    tempat_turun: "madinah",
+    arti: "Kamar-Kamar",
+    deskripsi: "Surat Al Hujuraat terdiri atas 18 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Mujaadalah. Dinamai <i>Al Hujuraat</i> diambil dari perkataan <i>Al Hujuraat</i> yang terdapat pada ayat 4 surat ini. Ayat tersebut mencela para sahabat yang memanggil Nabi Muhammad SAW yang sedang berada di dalam kamar rumahnya bersama isterinya. Memanggil Nabi Muhammad SAW dengan cara dan dalam keadaan yang demikian menunjukkan sifat kurang hormat kepada beliau dan mengganggu ketenteraman beliau.",
+    audio: "https://santrikoding.com/storage/audio/049.mp3"
+    },
+    surat_sebelumnya: {
+    id: 47,
+    nomor: 47,
+    nama: "محمّد",
+    nama_latin: "Muhammad",
+    jumlah_ayat: 38,
+    tempat_turun: "madinah",
+    arti: "Muhammad",
+    deskripsi: "Surat Muhammad terdiri atas 38 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Hadiid. Nama <i>Muhammad</i> sebagai nama surat ini diambil dari perkataan Muhammad yang terdapat pada ayat 2 surat ini. Pada ayat 1, 2, dan 3 surat ini, Allah membandingkan antara hasil yang diperoleh oleh orang-orang yang tidak percaya kepada apa yang diturunkan kepada Nabi Muhammad s.a.w dan hasil yang diperoleh oleh orang-orang yang tidak percaya kepadanya. Orang-orang yang percaya kepada apa yang dibawa oleh Muhammad s.a.w merekalah orang-orang yang beriman dan mengikuti yang hak, diterima Allah semua amalnya, diampuni segala kesalahannya. Adapun orang-orang yang tidak percaya kepada Muhammad s.a.w adalah orang-orang yang mengikuti kebatilan, amalnya tidak diterima, dosa mereka tidak diampuni, kepada mereka dijanjikan azab di dunia dan di akhirat.<br>Dinamai juga dengan <i>Al Qital</i> (peperangan), karena sebahagian besar surat ini mengutarakan tentang peperangan dan pokok-pokok hukumnya, serta bagaimana seharusnya sikap orang-orang mukmin terhadap orang-orang kafir.",
+    audio: "https://santrikoding.com/storage/audio/047.mp3"
+    }
+    }

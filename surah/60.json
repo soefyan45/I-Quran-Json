@@ -1,0 +1,139 @@
+{
+    status: true,
+    nomor: 60,
+    nama: "الممتحنة",
+    nama_latin: "Al-Mumtahanah",
+    jumlah_ayat: 13,
+    tempat_turun: "madinah",
+    arti: "Wanita Yang Diuji",
+    deskripsi: "Surat Al Mumtahanah terdiri atas 13 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Ahzab. Dinamai <i>Al Mumtahanah</i> (wanita yang diuji), diambil dari kata "Famtahinuuhunna" yang berarti <i>maka ujilah mereka</i>, yang terdapat pada ayat 10 surat ini.",
+    audio: "https://santrikoding.com/storage/audio/060.mp3",
+    ayat: [
+    {
+    id: 5151,
+    surah: 60,
+    nomor: 1,
+    ar: "يٰٓاَيُّهَا الَّذِيْنَ اٰمَنُوْا لَا تَتَّخِذُوْا عَدُوِّيْ وَعَدُوَّكُمْ اَوْلِيَاۤءَ تُلْقُوْنَ اِلَيْهِمْ بِالْمَوَدَّةِ وَقَدْ كَفَرُوْا بِمَا جَاۤءَكُمْ مِّنَ الْحَقِّۚ  يُخْرِجُوْنَ الرَّسُوْلَ وَاِيَّاكُمْ اَنْ تُؤْمِنُوْا بِاللّٰهِ رَبِّكُمْۗ اِنْ",
+    tr: "y<u>aa</u> ayyuh<u>aa</u> <strong>al</strong>la<u>dz</u>iina <u>aa</u>manuu l<u>aa</u> tattakhi<u>dz</u>uu 'aduwwii wa'aduwwakum awliy<u>aa</u>-a tulquuna ilayhim bi<strong>a</strong>lmawaddati waqad kafaruu bim<u>aa</u> j<u>aa</u>-akum mina <strong>a</strong>l<u>h</u>aqqi yukhrijuuna <strong>al</strong>rrasuula wa-iyy<u>aa</u>kum an tu/minuu bi<strong>al</strong>l<u>aa</u>hi rabbikum in kuntum kharajtum jih<u>aa</u>dan fii sabiilii wa<strong>i</strong>btigh<u>aa</u>-a mar<u>daa</u>tii tusirruuna ilayhim bi<strong>a</strong>lmawaddati wa-an<u>aa</u> a'lamu bim<u>aa</u> akhfaytum wam<u>aa</u> a'lantum waman yaf'alhu minkum faqad <u>dh</u>alla saw<u>aa</u>-a <strong>al</strong>ssabiil<strong>i</strong>",
+    idn: "Wahai orang-orang yang beriman! Janganlah kamu menjadikan musuh-Ku dan musuhmu sebagai teman-teman setia sehingga kamu sampaikan kepada mereka (berita-berita Muhammad), karena rasa kasih sayang; padahal mereka telah ingkar kepada kebenaran yang disampaikan kepadamu. Mereka mengusir Rasul dan kamu sendiri karena kamu beriman kepada Allah, Tuhanmu. Jika kamu benar-benar keluar untuk berjihad pada jalan-Ku dan mencari keridaan-Ku (janganlah kamu berbuat demikian). Kamu memberitahukan secara rahasia (berita-berita Muhammad) kepada mereka, karena rasa kasih sayang, dan Aku lebih mengetahui apa yang kamu sembunyikan dan apa yang kamu nyatakan. Dan barangsiapa di antara kamu yang melakukannya, maka sungguh, dia telah tersesat dari jalan yang lurus. "
+    },
+    {
+    id: 5152,
+    surah: 60,
+    nomor: 2,
+    ar: "اِنْ يَّثْقَفُوْكُمْ يَكُوْنُوْا لَكُمْ اَعْدَاۤءً وَّيَبْسُطُوْٓا اِلَيْكُمْ اَيْدِيَهُمْ وَاَلْسِنَتَهُمْ بِالسُّوْۤءِ وَوَدُّوْا لَوْ تَكْفُرُوْنَۗ ",
+    tr: "in yatsqafuukum yakuunuu lakam a'd<u>aa</u>-an wayabsu<u>th</u>uu ilaykum aydiyahum wa-alsinatahum bi<strong>al</strong>ssuu-i wawadduu law takfuruun<strong>a</strong>",
+    idn: "Jika mereka menangkapmu, niscaya mereka bertindak sebagai musuh bagimu lalu melepaskan tangan dan lidahnya kepadamu untuk menyakiti dan mereka ingin agar kamu (kembali) kafir. "
+    },
+    {
+    id: 5153,
+    surah: 60,
+    nomor: 3,
+    ar: "لَنْ تَنْفَعَكُمْ اَرْحَامُكُمْ وَلَآ اَوْلَادُكُمْ ۛيَوْمَ الْقِيٰمَةِ ۛيَفْصِلُ بَيْنَكُمْۗ وَاللّٰهُ بِمَا تَعْمَلُوْنَ بَصِيْرٌ ",
+    tr: "lan tanfa'akum ar<u>haa</u>mukum wal<u>aa</u> awl<u>aa</u>dukum yawma <strong>a</strong>lqiy<u>aa</u>mati yaf<u>sh</u>ilu baynakum wa<strong>al</strong>l<u>aa</u>hu bim<u>aa</u> ta'maluuna ba<u>sh</u>iir<strong>un</strong>",
+    idn: "Kaum kerabatmu dan anak-anakmu tidak akan bermanfaat bagimu pada hari Kiamat. Dia akan memisahkan antara kamu. Dan Allah Maha Melihat apa yang kamu kerjakan."
+    },
+    {
+    id: 5154,
+    surah: 60,
+    nomor: 4,
+    ar: "قَدْ كَانَتْ لَكُمْ اُسْوَةٌ حَسَنَةٌ فِيْٓ اِبْرٰهِيْمَ وَالَّذِيْنَ مَعَهٗۚ اِذْ قَالُوْا لِقَوْمِهِمْ اِنَّا بُرَءٰۤؤُا مِنْكُمْ وَمِمَّا تَعْبُدُوْنَ مِنْ دُوْنِ اللّٰهِ ۖ كَفَرْنَا بِكُمْ وَبَدَا بَيْنَنَا وَبَيْنَكُمُ الْعَدَاوَةُ وَالْبَغْضَاۤءُ اَ",
+    tr: "qad k<u>aa</u>nat lakum uswatun <u>h</u>asanatun fii ibr<u>aa</u>hiima wa<strong>a</strong>lla<u>dz</u>iina ma'ahu i<u>dz</u> q<u>aa</u>luu liqawmihim inn<u>aa</u> bura<u>aa</u>u minkum wamimm<u>aa</u> ta'buduuna min duuni <strong>al</strong>l<u>aa</u>hi kafarn<u>aa</u> bikum wabad<u>aa</u> baynan<u>aa</u> wabaynakumu <strong>a</strong>l'ad<u>aa</u>watu wa<strong>a</strong>lbagh<u>daa</u>u abadan <u>h</u>att<u>aa</u> tu/minuu bi<strong>al</strong>l<u>aa</u>hi wa<u>h</u>dahu ill<u>aa</u> qawla ibr<u>aa</u>hiima li-abiihi la-astaghfiranna laka wam<u>aa</u> amliku laka mina <strong>al</strong>l<u>aa</u>hi min syay-in rabban<u>aa</u> 'alayka tawakkaln<u>aa</u> wa-ilayka anabn<u>aa</u> wa-ilayka <strong>a</strong>lma<u>sh</u>iir<strong>u</strong>",
+    idn: "Sungguh, telah ada suri teladan yang baik bagimu pada Ibrahim dan orang-orang yang bersama dengannya, ketika mereka berkata kepada kaumnya, “Sesungguhnya kami berlepas diri dari kamu dan dari apa yang kamu sembah selain Allah, kami mengingkari (kekafiran)mu dan telah nyata antara kami dan kamu ada permusuhan dan kebencian untuk selama-lamanya sampai kamu beriman kepada Allah saja,” kecuali perkataan Ibrahim kepada ayahnya, ”Sungguh, aku akan memohonkan ampunan bagimu, namun aku sama sekali tidak dapat menolak (siksaan) Allah terhadapmu.” (Ibrahim berkata), “Ya Tuhan kami, hanya kepada Engkau kami bertawakal dan hanya kepada Engkau kami bertobat dan hanya kepada Engkaulah kami kembali,"
+    },
+    {
+    id: 5155,
+    surah: 60,
+    nomor: 5,
+    ar: "رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِّلَّذِيْنَ كَفَرُوْا وَاغْفِرْ لَنَا رَبَّنَاۚ اِنَّكَ اَنْتَ الْعَزِيْزُ الْحَكِيْمُ ",
+    tr: "rabban<u>aa</u> l<u>aa</u> taj'aln<u>aa</u> fitnatan lilla<u>dz</u>iina kafaruu wa<strong>i</strong>ghfir lan<u>aa</u> rabban<u>aa</u> innaka anta <strong>a</strong>l'aziizu <strong>a</strong>l<u>h</u>akiim<strong>u</strong>",
+    idn: "Ya Tuhan kami, janganlah Engkau jadikan kami (sasaran) fitnah bagi orang-orang kafir. Dan ampunilah kami, ya Tuhan kami. Sesungguhnya Engkau yang Mahaperkasa, Mahabijaksana.”"
+    },
+    {
+    id: 5156,
+    surah: 60,
+    nomor: 6,
+    ar: "لَقَدْ كَانَ لَكُمْ فِيْهِمْ اُسْوَةٌ حَسَنَةٌ لِّمَنْ كَانَ يَرْجُو اللّٰهَ وَالْيَوْمَ الْاٰخِرَۗ وَمَنْ يَّتَوَلَّ فَاِنَّ اللّٰهَ هُوَ الْغَنِيُّ الْحَمِيْدُ ࣖ ",
+    tr: "laqad k<u>aa</u>na lakum fiihim uswatun <u>h</u>asanatun liman k<u>aa</u>na yarjuu <strong>al</strong>l<u>aa</u>ha wa<strong>a</strong>lyawma <strong>a</strong>l-<u>aa</u>khira waman yatawalla fa-inna <strong>al</strong>l<u>aa</u>ha huwa <strong>a</strong>lghanniyyu <strong>a</strong>l<u>h</u>amiid<strong>u</strong>",
+    idn: "Sungguh, pada mereka itu (Ibrahim dan umatnya) terdapat suri teladan yang baik bagimu; (yaitu) bagi orang yang mengharap (pahala) Allah dan (keselamatan pada) hari kemudian, dan barangsiapa berpaling, maka sesungguhnya Allah, Dialah Yang Mahakaya, Maha Terpuji."
+    },
+    {
+    id: 5157,
+    surah: 60,
+    nomor: 7,
+    ar: "۞ عَسَى اللّٰهُ اَنْ يَّجْعَلَ بَيْنَكُمْ وَبَيْنَ الَّذِيْنَ عَادَيْتُمْ مِّنْهُمْ مَّوَدَّةًۗ وَاللّٰهُ قَدِيْرٌۗ وَاللّٰهُ غَفُوْرٌ رَّحِيْمٌ ",
+    tr: "'as<u>aa</u> <strong>al</strong>l<u>aa</u>hu an yaj'ala baynakum wabayna <strong>al</strong>la<u>dz</u>iina '<u>aa</u>daytum minhum mawaddatan wa<strong>al</strong>l<u>aa</u>hu qadiirun wa<strong>al</strong>l<u>aa</u>hu ghafuurun ra<u>h</u>iim<strong>un</strong>",
+    idn: "Mudah-mudahan Allah menimbulkan kasih sayang di antara kamu dengan orang-orang yang pernah kamu musuhi di antara mereka. Allah Mahakuasa. Dan Allah Maha Pengampun, Maha Penyayang."
+    },
+    {
+    id: 5158,
+    surah: 60,
+    nomor: 8,
+    ar: "لَا يَنْهٰىكُمُ اللّٰهُ عَنِ الَّذِيْنَ لَمْ يُقَاتِلُوْكُمْ فِى الدِّيْنِ وَلَمْ يُخْرِجُوْكُمْ مِّنْ دِيَارِكُمْ اَنْ تَبَرُّوْهُمْ وَتُقْسِطُوْٓا اِلَيْهِمْۗ اِنَّ اللّٰهَ يُحِبُّ الْمُقْسِطِيْنَ ",
+    tr: "l<u>aa</u> yanh<u>aa</u>kumu <strong>al</strong>l<u>aa</u>hu 'ani <strong>al</strong>la<u>dz</u>iina lam yuq<u>aa</u>tiluukum fii <strong>al</strong>ddiini walam yukhrijuukum min diy<u>aa</u>rikum an tabarruuhum watuqsi<u>th</u>uu ilayhim inna <strong>al</strong>l<u>aa</u>ha yu<u>h</u>ibbu <strong>a</strong>lmuqsi<u>th</u>iin<strong>a</strong>",
+    idn: "Allah tidak melarang kamu berbuat baik dan berlaku adil terhadap orang-orang yang tidak memerangimu dalam urusan agama dan tidak mengusir kamu dari kampung halamanmu. Sesungguhnya Allah mencintai orang-orang yang berlaku adil."
+    },
+    {
+    id: 5159,
+    surah: 60,
+    nomor: 9,
+    ar: "اِنَّمَا يَنْهٰىكُمُ اللّٰهُ عَنِ الَّذِيْنَ قَاتَلُوْكُمْ فِى الدِّيْنِ وَاَخْرَجُوْكُمْ مِّنْ دِيَارِكُمْ وَظَاهَرُوْا عَلٰٓى اِخْرَاجِكُمْ اَنْ تَوَلَّوْهُمْۚ وَمَنْ يَّتَوَلَّهُمْ فَاُولٰۤىِٕكَ هُمُ الظّٰلِمُوْنَ ",
+    tr: "innam<u>aa</u> yanh<u>aa</u>kumu <strong>al</strong>l<u>aa</u>hu 'ani <strong>al</strong>la<u>dz</u>iina q<u>aa</u>taluukum fii <strong>al</strong>ddiini wa-akhrajuukum min diy<u>aa</u>rikum wa<u>zhaa</u>haruu 'al<u>aa</u> ikhr<u>aa</u>jikum an tawallawhum waman yatawallahum faul<u>aa</u>-ika humu <strong>al</strong><u>zhzhaa</u>limuun<strong>a</strong>",
+    idn: "Sesungguhnya Allah hanya melarang kamu menjadikan mereka sebagai kawanmu orang-orang yang memerangi kamu dalam urusan agama dan mengusir kamu dari kampung halamanmu dan membantu (orang lain) untuk mengusirmu. Barangsiapa menjadikan mereka sebagai kawan, mereka itulah orang-orang yang zalim."
+    },
+    {
+    id: 5160,
+    surah: 60,
+    nomor: 10,
+    ar: "يٰٓاَيُّهَا الَّذِيْنَ اٰمَنُوْٓا اِذَا جَاۤءَكُمُ الْمُؤْمِنٰتُ مُهٰجِرٰتٍ فَامْتَحِنُوْهُنَّۗ  اَللّٰهُ اَعْلَمُ بِاِيْمَانِهِنَّ فَاِنْ عَلِمْتُمُوْهُنَّ مُؤْمِنٰتٍ فَلَا تَرْجِعُوْهُنَّ اِلَى الْكُفَّارِۗ  لَا هُنَّ حِلٌّ لَّهُمْ وَلَا هُمْ يَحِلُّوْن",
+    tr: "y<u>aa</u> ayyuh<u>aa</u> <strong>al</strong>la<u>dz</u>iina <u>aa</u>manuu i<u>dzaa</u> j<u>aa</u>-akumu <strong>a</strong>lmu/min<u>aa</u>tu muh<u>aa</u>jir<u>aa</u>tin fa<strong>i</strong>mta<u>h</u>inuuhunna <strong>al</strong>l<u>aa</u>hu a'lamu bi-iim<u>aa</u>nihinna fa-in 'alimtumuuhunna mu/min<u>aa</u>tin fal<u>aa</u> tarji'uuhunna il<u>aa</u> <strong>a</strong>lkuff<u>aa</u>ri l<u>aa</u> hunna <u>h</u>illun lahum wal<u>aa</u> hum ya<u>h</u>illuuna lahunna wa<u>aa</u>tuuhum m<u>aa</u> anfaquu wal<u>aa</u> jun<u>aah</u>a 'alaykum an tanki<u>h</u>uuhunna i<u>dzaa</u> <u>aa</u>taytumuuhunna ujuurahunna wal<u>aa</u> tumsikuu bi'i<u>sh</u>ami <strong>a</strong>lkaw<u>aa</u>firi wa<strong>i</strong>s-aluu m<u>aa</u> anfaqtum walyas-aluu m<u>aa</u> anfaquu <u>dzaa</u>likum <u>h</u>ukmu <strong>al</strong>l<u>aa</u>hi ya<u>h</u>kumu baynakum wa<strong>al</strong>l<u>aa</u>hu 'aliimun <u>h</u>akiim<strong>un</strong>",
+    idn: "Wahai orang-orang yang beriman! Apabila perempuan-perempuan mukmin datang berhijrah kepadamu, maka hendaklah kamu uji (keimanan) mereka. Allah lebih mengetahui tentang keimanan mereka; jika kamu telah mengetahui bahwa mereka (benar-benar) beriman maka janganlah kamu kembalikan mereka kepada orang-orang kafir (suami-suami mereka). Mereka tidak halal bagi orang-orang kafir itu dan orang-orang kafir itu tidak halal bagi mereka. Dan berikanlah kepada (suami) mereka mahar yang telah mereka berikan. Dan tidak ada dosa bagimu menikahi mereka apabila kamu bayar kepada mereka maharnya. Dan janganlah kamu tetap berpegang pada tali (pernikahan) dengan perempuan-perempuan kafir; dan hendaklah kamu minta kembali mahar yang telah kamu berikan; dan (jika suaminya tetap kafir) biarkan mereka meminta kembali mahar yang telah mereka bayar (kepada mantan istrinya yang telah beriman). Demikianlah hukum Allah yang ditetapkan-Nya di antara kamu. Dan Allah Maha Mengetahui, Mahabijaksana."
+    },
+    {
+    id: 5161,
+    surah: 60,
+    nomor: 11,
+    ar: "وَاِنْ فَاتَكُمْ شَيْءٌ مِّنْ اَزْوَاجِكُمْ اِلَى الْكُفَّارِ فَعَاقَبْتُمْ فَاٰتُوا الَّذِيْنَ ذَهَبَتْ اَزْوَاجُهُمْ مِّثْلَ مَآ اَنْفَقُوْاۗ وَاتَّقُوا اللّٰهَ الَّذِيْٓ اَنْتُمْ بِهٖ مُؤْمِنُوْنَ ",
+    tr: "wa-in f<u>aa</u>takum syay-un min azw<u>aa</u>jikum il<u>aa</u> <strong>a</strong>lkuff<u>aa</u>ri fa'<u>aa</u>qabtum fa<u>aa</u>tuu <strong>al</strong>la<u>dz</u>iina <u>dz</u>ahabat azw<u>aa</u>juhum mitsla m<u>aa</u> anfaquu wa<strong>i</strong>ttaquu <strong>al</strong>l<u>aa</u>ha <strong>al</strong>la<u>dz</u>ii antum bihi mu/minuun<strong>a</strong>",
+    idn: "Dan jika ada sesuatu (pengembalian mahar) yang belum kamu selesaikan dari istri-istrimu yang lari kepada orang-orang kafir, lalu kamu dapat mengalahkan mereka maka berikanlah (dari harta rampasan) kepada orang-orang yang istrinya lari itu sebanyak mahar yang telah mereka berikan. Dan bertakwalah kamu kepada Allah yang kepada-Nya kamu beriman."
+    },
+    {
+    id: 5162,
+    surah: 60,
+    nomor: 12,
+    ar: "يٰٓاَيُّهَا النَّبِيُّ اِذَا جَاۤءَكَ الْمُؤْمِنٰتُ يُبَايِعْنَكَ عَلٰٓى اَنْ لَّا يُشْرِكْنَ بِاللّٰهِ شَيْـًٔا وَّلَا يَسْرِقْنَ وَلَا يَزْنِيْنَ وَلَا يَقْتُلْنَ اَوْلَادَهُنَّ وَلَا يَأْتِيْنَ بِبُهْتَانٍ يَّفْتَرِيْنَهٗ بَيْنَ اَيْدِيْهِنَّ وَاَرْجُل",
+    tr: "y<u>aa</u> ayyuh<u>aa</u> <strong>al</strong>nnabiyyu i<u>dzaa</u> j<u>aa</u>-aka <strong>a</strong>lmu/min<u>aa</u>tu yub<u>aa</u>yi'naka 'al<u>aa</u> an l<u>aa</u> yusyrikna bi<strong>al</strong>l<u>aa</u>hi syay-an wal<u>aa</u> yasriqna wal<u>aa</u> yazniina wal<u>aa</u> yaqtulna awl<u>aa</u>dahunna wal<u>aa</u> ya/tiina bibuht<u>aa</u>nin yaftariinahu bayna aydiihinna wa-arjulihinna wal<u>aa</u> ya'<u>sh</u>iinaka fii ma'ruufin fab<u>aa</u>yi'hunna wa<strong>i</strong>staghfir lahunna <strong>al</strong>l<u>aa</u>ha inna <strong>al</strong>l<u>aa</u>ha ghafuurun ra<u>h</u>iim<strong>un</strong>",
+    idn: "Wahai Nabi! Apabila perempuan-perempuan yang mukmin datang kepadamu untuk mengadakan bai‘at (janji setia), bahwa mereka tidak akan mempersekutukan sesuatu apa pun dengan Allah; tidak akan mencuri, tidak akan berzina, tidak akan membunuh anak-anaknya, tidak akan berbuat dusta yang mereka ada-adakan antara tangan dan kaki mereka dan tidak akan mendurhakaimu dalam urusan yang baik, maka terimalah janji setia mereka dan mohonkanlah ampunan untuk mereka kepada Allah. Sungguh, Allah Maha Pengampun, Maha Penyayang."
+    },
+    {
+    id: 5163,
+    surah: 60,
+    nomor: 13,
+    ar: "يٰٓاَيُّهَا الَّذِيْنَ اٰمَنُوْا لَا تَتَوَلَّوْا قَوْمًا غَضِبَ اللّٰهُ عَلَيْهِمْ قَدْ يَىِٕسُوْا مِنَ الْاٰخِرَةِ كَمَا يَىِٕسَ الْكُفَّارُ مِنْ اَصْحٰبِ الْقُبُوْرِ ࣖ ",
+    tr: "y<u>aa</u> ayyuh<u>aa</u> <strong>al</strong>la<u>dz</u>iina <u>aa</u>manuu l<u>aa</u> tatawallaw qawman gha<u>dh</u>iba <strong>al</strong>l<u>aa</u>hu 'alayhim qad ya-isuu mina <strong>a</strong>l-<u>aa</u>khirati kam<u>aa</u> ya-isa <strong>a</strong>lkuff<u>aa</u>ru min a<u>sh</u>-<u>haa</u>bi <strong>a</strong>lqubuur<strong>i</strong>",
+    idn: "Wahai orang-orang yang beriman! Janganlah kamu jadikan orang-orang yang dimurkai Allah sebagai penolongmu, sungguh, mereka telah putus asa terhadap akhirat sebagaimana orang-orang kafir yang telah berada dalam kubur juga berputus asa."
+    }
+    ],
+    surat_selanjutnya: {
+    id: 61,
+    nomor: 61,
+    nama: "الصّفّ",
+    nama_latin: "As-Saff",
+    jumlah_ayat: 14,
+    tempat_turun: "madinah",
+    arti: "Barisan",
+    deskripsi: "Surat Ash Shaff terdiri atas 14 ayat termasuk golongan surat-surat Madaniyyah. Dinamai dengan <i>Ash Shaff</i>, karena pada ayat 4 surat ini terdapat kata <i>Shaffan</i> yang berarti <i>satu barisan</i>. Ayat ini menerangkan apa yang diridhai Allah sesudah menerangkan apa yang dimurkai-Nya. Pada ayat 3 diterangkan bahwa Allah murka kepada orang yang hanya pandai berkata saja tetapi tidak melaksanakan apa yang diucapkannya. Dan pada ayat 4 diterangkan bahwa Allah menyukai orang yang mempraktekkan apa yang diucapkannya yaitu orang-orang yang berperang pada jalan Allah dalam satu barisan.",
+    audio: "https://santrikoding.com/storage/audio/061.mp3"
+    },
+    surat_sebelumnya: {
+    id: 59,
+    nomor: 59,
+    nama: "الحشر",
+    nama_latin: "Al-Hasyr",
+    jumlah_ayat: 24,
+    tempat_turun: "madinah",
+    arti: "Pengusiran",
+    deskripsi: "Surat Al Hasyr terdiri atas 24 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Bayyinah.<br> 	Dinamai surat <i>Al Hasyr</i> (pengusiran) diambil dari perkataan <i>Al-Hasyr</i> yang terdapat pada ayat 2 surat ini. Di dalam surat ini disebutkan  kisah pengusiran suatu suku Yahudi yang bernama Bani Nadhir yang berdiam  di sekitar kota Madinah.",
+    audio: "https://santrikoding.com/storage/audio/059.mp3"
+    }
+    }

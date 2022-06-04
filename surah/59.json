@@ -1,0 +1,227 @@
+{
+    status: true,
+    nomor: 59,
+    nama: "الحشر",
+    nama_latin: "Al-Hasyr",
+    jumlah_ayat: 24,
+    tempat_turun: "madinah",
+    arti: "Pengusiran",
+    deskripsi: "Surat Al Hasyr terdiri atas 24 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Bayyinah.<br> 	Dinamai surat <i>Al Hasyr</i> (pengusiran) diambil dari perkataan <i>Al-Hasyr</i> yang terdapat pada ayat 2 surat ini. Di dalam surat ini disebutkan  kisah pengusiran suatu suku Yahudi yang bernama Bani Nadhir yang berdiam  di sekitar kota Madinah.",
+    audio: "https://santrikoding.com/storage/audio/059.mp3",
+    ayat: [
+    {
+    id: 5127,
+    surah: 59,
+    nomor: 1,
+    ar: "سَبَّحَ لِلّٰهِ مَا فِى السَّمٰوٰتِ وَمَا فِى الْاَرْضِۚ وَهُوَ الْعَزِيْزُ الْحَكِيْمُ ",
+    tr: "sabba<u>h</u>a lill<u>aa</u>hi m<u>aa</u> fii <strong>al</strong>ssam<u>aa</u>w<u>aa</u>ti wam<u>aa</u> fii <strong>a</strong>l-ar<u>dh</u>i wahuwa <strong>a</strong>l'aziizu <strong>a</strong>l<u>h</u>akiim<strong>u</strong>",
+    idn: "Apa yang ada di langit dan apa yang ada di bumi bertasbih kepada Allah; dan Dialah Yang Mahaperkasa, Mahabijaksana."
+    },
+    {
+    id: 5128,
+    surah: 59,
+    nomor: 2,
+    ar: "هُوَ الَّذِيْٓ اَخْرَجَ الَّذِيْنَ كَفَرُوْا مِنْ اَهْلِ الْكِتٰبِ مِنْ دِيَارِهِمْ لِاَوَّلِ الْحَشْرِۗ مَا ظَنَنْتُمْ اَنْ يَّخْرُجُوْا وَظَنُّوْٓا اَنَّهُمْ مَّانِعَتُهُمْ حُصُوْنُهُمْ مِّنَ اللّٰهِ فَاَتٰىهُمُ اللّٰهُ مِنْ حَيْثُ لَمْ يَحْتَسِبُوْا وَ",
+    tr: "huwa <strong>al</strong>la<u>dz</u>ii akhraja <strong>al</strong>la<u>dz</u>iina kafaruu min ahli <strong>a</strong>lkit<u>aa</u>bi min diy<u>aa</u>rihim li-awwali <strong>a</strong>l<u>h</u>asyri m<u>aa</u> <u>zh</u>anantum an yakhrujuu wa<u>zh</u>annuu annahum m<u>aa</u>ni'atuhum <u>h</u>u<u>sh</u>uunuhum mina <strong>al</strong>l<u>aa</u>hi fa-at<u>aa</u>humu <strong>al</strong>l<u>aa</u>hu min <u>h</u>aytsu lam ya<u>h</u>tasibuu waqa<u>dz</u>afa fii quluubihimu <strong>al</strong>rru'ba yukhribuuna buyuutahum bi-aydiihim wa-aydii <strong>a</strong>lmu/miniina fa<strong>i</strong>'tabiruu y<u>aa</u> ulii <strong>a</strong>l-ab<u>shaa</u>r<strong>i</strong>",
+    idn: "Dialah yang mengeluarkan orang-orang kafir di antara Ahli Kitab dari kampung halamannya pada saat pengusiran yang pertama. Kamu tidak menyangka, bahwa mereka akan keluar dan mereka pun yakin, benteng-benteng mereka akan dapat mempertahankan mereka dari (siksaan) Allah; maka Allah mendatangkan (siksaan) kepada mereka dari arah yang tidak mereka sangka-sangka. Dan Allah menanamkan rasa takut ke dalam hati mereka; sehingga memusnahkan rumah-rumah mereka dengan tangannya sendiri dan tangan orang-orang mukmin. Maka ambillah (kejadian itu) untuk menjadi pelajaran, wahai orang-orang yang mempunyai pandangan!"
+    },
+    {
+    id: 5129,
+    surah: 59,
+    nomor: 3,
+    ar: "وَلَوْلَآ اَنْ كَتَبَ اللّٰهُ عَلَيْهِمُ الْجَلَاۤءَ لَعَذَّبَهُمْ فِى الدُّنْيَاۗ وَلَهُمْ فِى الْاٰخِرَةِ عَذَابُ النَّارِ ",
+    tr: "walawl<u>aa</u> an kataba <strong>al</strong>l<u>aa</u>hu 'alayhimu <strong>a</strong>ljal<u>aa</u>-a la'a<u>dzdz</u>abahum fii <strong>al</strong>dduny<u>aa</u> walahum fii <strong>a</strong>l-<u>aa</u>khirati 'a<u>dzaa</u>bu <strong>al</strong>nn<u>aa</u>r<strong>i</strong>",
+    idn: "Dan sekiranya tidak karena Allah telah menetapkan pengusiran terhadap mereka, pasti Allah mengazab mereka di dunia. Dan di akhirat mereka akan mendapat azab neraka. "
+    },
+    {
+    id: 5130,
+    surah: 59,
+    nomor: 4,
+    ar: "ذٰلِكَ بِاَنَّهُمْ شَاۤقُّوا اللّٰهَ وَرَسُوْلَهٗ  ۖوَمَنْ يُّشَاۤقِّ اللّٰهَ فَاِنَّ اللّٰهَ شَدِيْدُ الْعِقَابِ",
+    tr: "<u>dzaa</u>lika bi-annahum sy<u>aa</u>qquu <strong>al</strong>l<u>aa</u>ha warasuulahu waman yusy<u>aa</u>qqi <strong>al</strong>l<u>aa</u>ha fa-inna <strong>al</strong>l<u>aa</u>ha syadiidu <strong>a</strong>l'iq<u>aa</u>b<strong>i</strong>",
+    idn: "Yang demikian itu karena sesungguhnya mereka menentang Allah dan Rasul-Nya. Barangsiapa menentang Allah, maka sesungguhnya Allah sangat keras hukuman-Nya. "
+    },
+    {
+    id: 5131,
+    surah: 59,
+    nomor: 5,
+    ar: "مَا قَطَعْتُمْ مِّنْ لِّيْنَةٍ اَوْ تَرَكْتُمُوْهَا قَاۤىِٕمَةً عَلٰٓى اُصُوْلِهَا فَبِاِذْنِ اللّٰهِ وَلِيُخْزِيَ الْفٰسِقِيْنَ ",
+    tr: "m<u>aa</u> qa<u>th</u>a'tum min liinatin aw taraktumuuh<u>aa</u> q<u>aa</u>-imatan 'al<u>aa</u> u<u>sh</u>uulih<u>aa</u> fabi-i<u>dz</u>ni <strong>al</strong>l<u>aa</u>hi waliyukhziya <strong>a</strong>lf<u>aa</u>siqiin<strong>a</strong>",
+    idn: "Apa yang kamu tebang di antara pohon kurma (milik orang-orang kafir) atau yang kamu biarkan (tumbuh) berdiri di atas pokoknya, maka (itu terjadi) dengan izin Allah; dan karena Dia hendak memberikan kehinaan kepada orang-orang fasik."
+    },
+    {
+    id: 5132,
+    surah: 59,
+    nomor: 6,
+    ar: "وَمَآ اَفَاۤءَ اللّٰهُ عَلٰى رَسُوْلِهٖ مِنْهُمْ فَمَآ اَوْجَفْتُمْ عَلَيْهِ مِنْ خَيْلٍ وَّلَا رِكَابٍ وَّلٰكِنَّ اللّٰهَ يُسَلِّطُ رُسُلَهٗ عَلٰى مَنْ يَّشَاۤءُۗ وَاللّٰهُ عَلٰى كُلِّ شَيْءٍ قَدِيْرٌ ",
+    tr: "wam<u>aa</u> af<u>aa</u>-a <strong>al</strong>l<u>aa</u>hu 'al<u>aa</u> rasuulihi minhum fam<u>aa</u> awjaftum 'alayhi min khaylin wal<u>aa</u> rik<u>aa</u>bin wal<u>aa</u>kinna <strong>al</strong>l<u>aa</u>ha yusalli<u>th</u>u rusulahu 'al<u>aa</u> man yasy<u>aa</u>u wa<strong>al</strong>l<u>aa</u>hu 'al<u>aa</u> kulli syay-in qadiir<strong>u</strong>",
+    idn: "Dan harta rampasan fai' dari mereka yang diberikan Allah kepada Rasul-Nya, kamu tidak memerlukan kuda atau unta untuk mendapatkannya, tetapi Allah memberikan kekuasaan kepada rasul-rasul-Nya terhadap siapa yang Dia kehendaki. Dan Allah Mahakuasa atas segala sesuatu."
+    },
+    {
+    id: 5133,
+    surah: 59,
+    nomor: 7,
+    ar: "مَآ اَفَاۤءَ اللّٰهُ عَلٰى رَسُوْلِهٖ مِنْ اَهْلِ الْقُرٰى فَلِلّٰهِ وَلِلرَّسُوْلِ وَلِذِى الْقُرْبٰى وَالْيَتٰمٰى وَالْمَسٰكِيْنِ وَابْنِ السَّبِيْلِۙ كَيْ لَا يَكُوْنَ دُوْلَةً ۢ بَيْنَ الْاَغْنِيَاۤءِ مِنْكُمْۗ وَمَآ اٰتٰىكُمُ الرَّسُوْلُ فَخُذُوْهُ",
+    tr: "m<u>aa</u> af<u>aa</u>-a <strong>al</strong>l<u>aa</u>hu 'al<u>aa</u> rasuulihi min ahli <strong>a</strong>lqur<u>aa</u> falill<u>aa</u>hi wali<strong>l</strong>rrasuuli wali<u>dz</u>ii <strong>a</strong>lqurb<u>aa</u> wa<strong>a</strong>lyat<u>aa</u>m<u>aa</u> wa<strong>a</strong>lmas<u>aa</u>kiini wa<strong>i</strong>bni <strong>al</strong>ssabiili kay l<u>aa</u> yakuuna duulatan bayna <strong>a</strong>l-aghniy<u>aa</u>-i minkum wam<u>aa</u> <u>aa</u>t<u>aa</u>kumu <strong>al</strong>rrasuulu fakhu<u>dz</u>uuhu wam<u>aa</u> nah<u>aa</u>kum 'anhu fa<strong>i</strong>ntahuu wa<strong>i</strong>ttaquu <strong>al</strong>l<u>aa</u>ha inna <strong>al</strong>l<u>aa</u>ha syadiidu <strong>a</strong>l'iq<u>aa</u>b<strong>i</strong>",
+    idn: "Harta rampasan (fai') dari mereka yang diberikan Allah kepada Rasul-Nya (yang berasal) dari penduduk beberapa negeri, adalah untuk Allah, Rasul, kerabat (Rasul), anak-anak yatim, orang-orang miskin dan untuk orang-orang yang dalam perjalanan, agar harta itu jangan hanya beredar di antara orang-orang kaya saja di antara kamu. Apa yang diberikan Rasul kepadamu maka terimalah. Dan apa yang dilarangnya bagimu maka tinggalkanlah. Dan bertakwalah kepada Allah. Sungguh, Allah sangat keras hukuman-Nya. "
+    },
+    {
+    id: 5134,
+    surah: 59,
+    nomor: 8,
+    ar: "لِلْفُقَرَاۤءِ الْمُهٰجِرِيْنَ الَّذِيْنَ اُخْرِجُوْا مِنْ دِيَارِهِمْ وَاَمْوَالِهِمْ يَبْتَغُوْنَ فَضْلًا مِّنَ اللّٰهِ وَرِضْوَانًا وَّيَنْصُرُوْنَ اللّٰهَ وَرَسُوْلَهٗ ۗ اُولٰۤىِٕكَ هُمُ الصّٰدِقُوْنَۚ ",
+    tr: "lilfuqar<u>aa</u>-i <strong>a</strong>lmuh<u>aa</u>jiriina <strong>al</strong>la<u>dz</u>iina ukhrijuu min diy<u>aa</u>rihim wa-amw<u>aa</u>lihim yabtaghuuna fa<u>dh</u>lan mina <strong>al</strong>l<u>aa</u>hi wari<u>dh</u>w<u>aa</u>nan wayan<u>sh</u>uruuna <strong>al</strong>l<u>aa</u>ha warasuulahu ul<u>aa</u>-ika humu <strong>al</strong><u>shshaa</u>diquun<strong>a</strong>",
+    idn: "(Harta rampasan itu juga) untuk orang-orang fakir yang berhijrah yang terusir dari kampung halamannya dan meninggalkan harta bendanya demi mencari karunia dari Allah dan keridaan(-Nya) dan (demi) menolong (agama) Allah dan Rasul-Nya. Mereka itulah orang-orang yang benar. "
+    },
+    {
+    id: 5135,
+    surah: 59,
+    nomor: 9,
+    ar: "وَالَّذِيْنَ تَبَوَّءُو الدَّارَ وَالْاِيْمَانَ مِنْ قَبْلِهِمْ يُحِبُّوْنَ مَنْ هَاجَرَ اِلَيْهِمْ وَلَا يَجِدُوْنَ فِيْ صُدُوْرِهِمْ حَاجَةً مِّمَّآ اُوْتُوْا وَيُؤْثِرُوْنَ عَلٰٓى اَنْفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ  ۗوَمَنْ يُّوْقَ شُحَّ نَفْس",
+    tr: "wa<strong>a</strong>lla<u>dz</u>iina tabawwauu <strong>al</strong>dd<u>aa</u>ra wa<strong>a</strong>l-iim<u>aa</u>na min qablihim yu<u>h</u>ibbuuna man h<u>aa</u>jara ilayhim wal<u>aa</u> yajiduuna fii <u>sh</u>uduurihim <u>haa</u>jatan mimm<u>aa</u> uutuu wayu/tsiruuna 'al<u>aa</u> anfusihim walaw k<u>aa</u>na bihim kha<u>sas</u>atun waman yuuqa syu<u>hh</u>a nafsihi faul<u>aa</u>-ika humu <strong>a</strong>lmufli<u>h</u>uun<strong>a</strong>",
+    idn: "Dan orang-orang (Ansar) yang telah menempati kota Madinah dan telah beriman sebelum (kedatangan) mereka (Muhajirin), mereka mencintai orang yang berhijrah ke tempat mereka. Dan mereka tidak menaruh keinginan dalam hati mereka terhadap apa yang diberikan kepada mereka (Muhajirin); dan mereka mengutamakan (Muhajirin), atas dirinya sendiri, meskipun mereka juga memerlukan. Dan siapa yang dijaga dirinya dari kekikiran, maka mereka itulah orang-orang yang beruntung. "
+    },
+    {
+    id: 5136,
+    surah: 59,
+    nomor: 10,
+    ar: "وَالَّذِيْنَ جَاۤءُوْ مِنْۢ بَعْدِهِمْ يَقُوْلُوْنَ رَبَّنَا اغْفِرْ لَنَا وَلِاِخْوَانِنَا الَّذِيْنَ سَبَقُوْنَا بِالْاِيْمَانِ وَلَا تَجْعَلْ فِيْ قُلُوْبِنَا غِلًّا لِّلَّذِيْنَ اٰمَنُوْا رَبَّنَآ اِنَّكَ رَءُوْفٌ رَّحِيْمٌ ࣖ ",
+    tr: "wa<strong>a</strong>lla<u>dz</u>iina j<u>aa</u>uu min ba'dihim yaquuluuna rabban<u>aa</u> ighfir lan<u>aa</u> wali-ikhw<u>aa</u>nin<u>aa</u> <strong>al</strong>la<u>dz</u>iina sabaquun<u>aa</u> bi<strong>a</strong>l-iim<u>aa</u>ni wal<u>aa</u> taj'al fii quluubin<u>aa</u> ghillan lilla<u>dz</u>iina <u>aa</u>manuu rabban<u>aa</u> innaka rauufun ra<u>h</u>iim<strong>un</strong>",
+    idn: "Dan orang-orang yang datang sesudah mereka (Muhajirin dan Ansar), mereka berdoa, “Ya Tuhan kami, ampunilah kami dan saudara-saudara kami yang telah beriman lebih dahulu dari kami, dan janganlah Engkau tanamkan kedengkian dalam hati kami terhadap orang-orang yang beriman. Ya Tuhan kami, Sungguh, Engkau Maha Penyantun, Maha Penyayang.”  "
+    },
+    {
+    id: 5137,
+    surah: 59,
+    nomor: 11,
+    ar: "۞ اَلَمْ تَرَ اِلَى الَّذِيْنَ نَافَقُوْا يَقُوْلُوْنَ لِاِخْوَانِهِمُ الَّذِيْنَ كَفَرُوْا مِنْ اَهْلِ الْكِتٰبِ لَىِٕنْ اُخْرِجْتُمْ لَنَخْرُجَنَّ مَعَكُمْ وَلَا نُطِيْعُ فِيْكُمْ اَحَدًا اَبَدًاۙ وَّاِنْ قُوْتِلْتُمْ لَنَنْصُرَنَّكُمْۗ وَاللّٰهُ يَشْهَ",
+    tr: "alam tara il<u>aa</u> <strong>al</strong>la<u>dz</u>iina n<u>aa</u>faquu yaquuluuna li-ikhw<u>aa</u>nihimu <strong>al</strong>la<u>dz</u>iina kafaruu min ahli <strong>a</strong>lkit<u>aa</u>bi la-in ukhrijtum lanakhrujanna ma'akum wal<u>aa</u> nu<u>th</u>ii'u fiikum a<u>h</u>adan abadan wa-in quutiltum lanan<u>sh</u>urannakum wa<strong>al</strong>l<u>aa</u>hu yasyhadu innahum lak<u>aadz</u>ibuun<strong>a</strong>",
+    idn: "Tidakkah engkau memperhatikan orang-orang munafik yang berkata kepada saudara-saudaranya yang kafir di antara Ahli Kitab, “Sungguh, jika kamu diusir niscaya kami pun akan keluar bersama kamu; dan kami selama-lamanya tidak akan patuh kepada siapa pun demi kamu, dan jika kamu diperangi pasti kami akan membantumu.” Dan Allah menyaksikan, bahwa mereka benar-benar pendusta. "
+    },
+    {
+    id: 5138,
+    surah: 59,
+    nomor: 12,
+    ar: "لَىِٕنْ اُخْرِجُوْا لَا يَخْرُجُوْنَ مَعَهُمْۚ وَلَىِٕنْ قُوْتِلُوْا لَا يَنْصُرُوْنَهُمْۚ وَلَىِٕنْ نَّصَرُوْهُمْ لَيُوَلُّنَّ الْاَدْبَارَۙ ثُمَّ لَا يُنْصَرُوْنَ ",
+    tr: "la-in ukhrijuu l<u>aa</u> yakhrujuuna ma'ahum wala-in quutiluu l<u>aa</u> yan<u>sh</u>uruunahum wala-in na<u>sh</u>aruuhum layuwallunna <strong>a</strong>l-adb<u>aa</u>ra tsumma l<u>aa</u> yun<u>sh</u>aruun<strong>a</strong>",
+    idn: "Sungguh, jika mereka diusir, orang-orang munafik itu tidak akan keluar bersama mereka, dan jika mereka di-perangi; mereka (juga) tidak akan menolongnya; dan kalau pun mereka menolongnya pastilah mereka akan berpaling lari ke belakang, kemudian mereka tidak akan mendapat pertolongan. "
+    },
+    {
+    id: 5139,
+    surah: 59,
+    nomor: 13,
+    ar: "لَاَنْتُمْ اَشَدُّ رَهْبَةً فِيْ صُدُوْرِهِمْ مِّنَ اللّٰهِ ۗذٰلِكَ بِاَنَّهُمْ قَوْمٌ لَّا يَفْقَهُوْنَ ",
+    tr: "la-antum asyaddu rahbatan fii <u>sh</u>uduurihim mina <strong>al</strong>l<u>aa</u>hi <u>dzaa</u>lika bi-annahum qawmun l<u>aa</u> yafqahuun<strong>a</strong>",
+    idn: "Sesungguhnya dalam hati mereka, kamu (Muslimin) lebih ditakuti daripada Allah. Yang demikian itu karena mereka orang-orang yang tidak mengerti."
+    },
+    {
+    id: 5140,
+    surah: 59,
+    nomor: 14,
+    ar: "لَا يُقَاتِلُوْنَكُمْ جَمِيْعًا اِلَّا فِيْ قُرًى مُّحَصَّنَةٍ اَوْ مِنْ وَّرَاۤءِ جُدُرٍۗ بَأْسُهُمْ بَيْنَهُمْ شَدِيْدٌ ۗ تَحْسَبُهُمْ جَمِيْعًا وَّقُلُوْبُهُمْ شَتّٰىۗ ذٰلِكَ بِاَنَّهُمْ قَوْمٌ لَّا يَعْقِلُوْنَۚ ",
+    tr: "l<u>aa</u> yuq<u>aa</u>tiluunakum jamii'an ill<u>aa</u> fii quran mu<u>h</u>a<u>shsh</u>anatin aw min war<u>aa</u>-i judurin ba/suhum baynahum syadiidun ta<u>h</u>sabuhum jamii'an waquluubuhum syatt<u>aa</u> <u>dzaa</u>lika bi-annahum qawmun l<u>aa</u> ya'qiluun<strong>a</strong>",
+    idn: "Mereka tidak akan memerangi kamu (secara) bersama-sama, kecuali di negeri-negeri yang berbenteng atau di balik tembok. Permusuhan antara sesama mereka sangat hebat. Kamu kira mereka itu bersatu padahal hati mereka terpecah belah. Yang demikian itu karena mereka orang-orang yang tidak mengerti. "
+    },
+    {
+    id: 5141,
+    surah: 59,
+    nomor: 15,
+    ar: "كَمَثَلِ الَّذِيْنَ مِنْ قَبْلِهِمْ قَرِيْبًا ذَاقُوْا وَبَالَ اَمْرِهِمْۚ وَلَهُمْ عَذَابٌ اَلِيْمٌۚ ",
+    tr: "kamatsali <strong>al</strong>la<u>dz</u>iina min qablihim qariiban <u>dzaa</u>quu wab<u>aa</u>la amrihim walahum 'a<u>dzaa</u>bun <strong>a</strong>liim<strong>un</strong>",
+    idn: "(Mereka) seperti orang-orang yang sebelum mereka (Yahudi) belum lama berselang, telah merasakan akibat buruk (terusir) disebabkan perbuatan mereka sendiri. Dan mereka akan men-dapat azab yang pedih. "
+    },
+    {
+    id: 5142,
+    surah: 59,
+    nomor: 16,
+    ar: "كَمَثَلِ الشَّيْطٰنِ اِذْ قَالَ لِلْاِنْسَانِ اكْفُرْۚ فَلَمَّا كَفَرَ قَالَ اِنِّيْ بَرِيْۤءٌ مِّنْكَ اِنِّيْٓ اَخَافُ اللّٰهَ رَبَّ الْعٰلَمِيْنَ ",
+    tr: "kamatsali <strong>al</strong>sysyay<u>th</u><u>aa</u>ni i<u>dz</u> q<u>aa</u>la lil-ins<u>aa</u>ni ukfur falamm<u>aa</u> kafara q<u>aa</u>la innii barii-un minka innii akh<u>aa</u>fu <strong>al</strong>l<u>aa</u>ha rabba <strong>a</strong>l'<u>aa</u>lamiin<strong>a</strong>",
+    idn: "(Bujukan orang-orang munafik itu) seperti (bujukan) setan ketika ia berkata kepada manusia, “Kafirlah kamu!” Kemudian ketika manusia itu menjadi kafir ia berkata, “Sesungguhnya aku berlepas diri dari kamu, karena sesungguhnya aku takut kepada Allah, Tuhan seluruh alam.” "
+    },
+    {
+    id: 5143,
+    surah: 59,
+    nomor: 17,
+    ar: "فَكَانَ عَاقِبَتَهُمَآ اَنَّهُمَا فِى النَّارِ خَالِدَيْنِ فِيْهَاۗ وَذٰلِكَ جَزٰۤؤُا الظّٰلِمِيْنَ ࣖ",
+    tr: "fak<u>aa</u>na '<u>aa</u>qibatahum<u>aa</u> annahum<u>aa</u> fii <strong>al</strong>nn<u>aa</u>ri kh<u>aa</u>lidayni fiih<u>aa</u> wa<u>dzaa</u>lika jaz<u>aa</u>u <strong>al</strong><u>zhzhaa</u>limiin<strong>a</strong>",
+    idn: "Maka kesudahan bagi keduanya, bahwa keduanya masuk ke dalam neraka, kekal di dalamnya. Demikianlah balasan bagi orang-orang zalim. "
+    },
+    {
+    id: 5144,
+    surah: 59,
+    nomor: 18,
+    ar: "يٰٓاَيُّهَا الَّذِيْنَ اٰمَنُوا اتَّقُوا اللّٰهَ وَلْتَنْظُرْ نَفْسٌ مَّا قَدَّمَتْ لِغَدٍۚ وَاتَّقُوا اللّٰهَ ۗاِنَّ اللّٰهَ خَبِيْرٌ ۢبِمَا تَعْمَلُوْنَ ",
+    tr: "y<u>aa</u> ayyuh<u>aa</u> <strong>al</strong>la<u>dz</u>iina <u>aa</u>manuu ittaquu <strong>al</strong>l<u>aa</u>ha waltan<u>zh</u>ur nafsun m<u>aa</u> qaddamat lighadin wa<strong>i</strong>ttaquu <strong>al</strong>l<u>aa</u>ha inna <strong>al</strong>l<u>aa</u>ha khabiirun bim<u>aa</u> ta'maluun<strong>a</strong>",
+    idn: "Wahai orang-orang yang beriman! Bertakwalah kepada Allah dan hendaklah setiap orang memperhatikan apa yang telah diperbuatnya untuk hari esok (akhirat), dan bertakwalah kepada Allah. Sungguh, Allah Mahateliti terhadap apa yang kamu kerjakan. "
+    },
+    {
+    id: 5145,
+    surah: 59,
+    nomor: 19,
+    ar: "وَلَا تَكُوْنُوْا كَالَّذِيْنَ نَسُوا اللّٰهَ فَاَنْسٰىهُمْ اَنْفُسَهُمْۗ  اُولٰۤىِٕكَ هُمُ الْفٰسِقُوْنَ ",
+    tr: "wal<u>aa</u> takuunuu ka<strong>a</strong>lla<u>dz</u>iina nasuu <strong>al</strong>l<u>aa</u>ha fa-ans<u>aa</u>hum anfusahum ul<u>aa</u>-ika humu <strong>a</strong>lf<u>aa</u>siquun<strong>a</strong>",
+    idn: "Dan janganlah kamu seperti orang-orang yang lupa kepada Allah, sehingga Allah menjadikan mereka lupa akan diri sendiri. Mereka itulah orang-orang fasik. "
+    },
+    {
+    id: 5146,
+    surah: 59,
+    nomor: 20,
+    ar: "لَا يَسْتَوِيْٓ اَصْحٰبُ النَّارِ وَاَصْحٰبُ الْجَنَّةِۗ  اَصْحٰبُ الْجَنَّةِ هُمُ الْفَاۤىِٕزُوْنَ ",
+    tr: "l<u>aa</u> yastawii a<u>sh</u>-<u>haa</u>bu <strong>al</strong>nn<u>aa</u>ri wa-a<u>sh</u>-<u>haa</u>bu <strong>a</strong>ljannati a<u>sh</u>-<u>haa</u>bu <strong>a</strong>ljannati humu <strong>a</strong>lf<u>aa</u>-izuun<strong>a</strong>",
+    idn: "Tidak sama para penghuni neraka dengan para penghuni surga; para penghuni surga itulah orang-orang yang memperoleh kemenangan."
+    },
+    {
+    id: 5147,
+    surah: 59,
+    nomor: 21,
+    ar: "لَوْ اَنْزَلْنَا هٰذَا الْقُرْاٰنَ عَلٰى جَبَلٍ لَّرَاَيْتَهٗ خَاشِعًا مُّتَصَدِّعًا مِّنْ خَشْيَةِ اللّٰهِ ۗوَتِلْكَ الْاَمْثَالُ نَضْرِبُهَا لِلنَّاسِ لَعَلَّهُمْ يَتَفَكَّرُوْنَ ",
+    tr: "law anzaln<u>aa</u> h<u>aadzaa</u> <strong>a</strong>lqur-<u>aa</u>na 'al<u>aa</u> jabalin lara-aytahu kh<u>aa</u>syi'an muta<u>sh</u>addi'an min khasyyati <strong>al</strong>l<u>aa</u>hi watilka <strong>a</strong>l-amts<u>aa</u>lu na<u>dh</u>ribuh<u>aa</u> li<strong>l</strong>nn<u>aa</u>si la'allahum yatafakkaruun<strong>a</strong>",
+    idn: "Sekiranya Kami turunkan Al-Qur'an ini kepada sebuah gunung, pasti kamu akan melihatnya tunduk terpecah belah disebabkan takut kepada Allah. Dan perumpamaan-perumpamaan itu Kami buat untuk manusia agar mereka berpikir."
+    },
+    {
+    id: 5148,
+    surah: 59,
+    nomor: 22,
+    ar: "هُوَ اللّٰهُ الَّذِيْ لَآ اِلٰهَ اِلَّا هُوَۚ عَالِمُ الْغَيْبِ وَالشَّهَادَةِۚ هُوَ الرَّحْمٰنُ الرَّحِيْمُ ",
+    tr: "huwa <strong>al</strong>l<u>aa</u>hu <strong>al</strong>la<u>dz</u>ii l<u>aa</u> il<u>aa</u>ha ill<u>aa</u> huwa '<u>aa</u>limu <strong>a</strong>lghaybi wa<strong>al</strong>sysyah<u>aa</u>dati huwa <strong>al</strong>rra<u>h</u>m<u>aa</u>nu <strong>al</strong>rra<u>h</u>iim<strong>u</strong>",
+    idn: "Dialah Allah tidak ada tuhan selain Dia. Yang Mengetahui yang gaib dan yang nyata, Dialah Yang Maha Pengasih, Maha Penyayang. "
+    },
+    {
+    id: 5149,
+    surah: 59,
+    nomor: 23,
+    ar: "هُوَ اللّٰهُ الَّذِيْ لَآ اِلٰهَ اِلَّا هُوَ ۚ اَلْمَلِكُ الْقُدُّوْسُ السَّلٰمُ الْمُؤْمِنُ الْمُهَيْمِنُ الْعَزِيْزُ الْجَبَّارُ الْمُتَكَبِّرُۗ سُبْحٰنَ اللّٰهِ عَمَّا يُشْرِكُوْنَ",
+    tr: "huwa <strong>al</strong>l<u>aa</u>hu <strong>al</strong>la<u>dz</u>ii l<u>aa</u> il<u>aa</u>ha ill<u>aa</u> huwa <strong>a</strong>lmaliku <strong>a</strong>lqudduusu <strong>al</strong>ssal<u>aa</u>mu <strong>a</strong>lmu/minu <strong>a</strong>lmuhayminu <strong>a</strong>l'aziizu <strong>a</strong>ljabb<u>aa</u>ru <strong>a</strong>lmutakabbiru sub<u>haa</u>na <strong>al</strong>l<u>aa</u>hi 'amm<u>aa</u> yusyrikuun<strong>a</strong>",
+    idn: "Dialah Allah tidak ada tuhan selain Dia. Maharaja, Yang Mahasuci, Yang Mahasejahtera, Yang Menjaga Keamanan, Pemelihara Keselamatan, Yang Mahaperkasa, Yang Mahakuasa, Yang Memiliki Segala Keagungan, Mahasuci Allah dari apa yang mereka persekutukan."
+    },
+    {
+    id: 5150,
+    surah: 59,
+    nomor: 24,
+    ar: "هُوَ اللّٰهُ الْخَالِقُ الْبَارِئُ الْمُصَوِّرُ لَهُ الْاَسْمَاۤءُ الْحُسْنٰىۗ يُسَبِّحُ لَهٗ مَا فِى السَّمٰوٰتِ وَالْاَرْضِۚ وَهُوَ الْعَزِيْزُ الْحَكِيْمُ ࣖ ",
+    tr: "huwa <strong>al</strong>l<u>aa</u>hu <strong>a</strong>lkh<u>aa</u>liqu <strong>a</strong>lb<u>aa</u>ri-u <strong>a</strong>lmu<u>sh</u>awwiru lahu <strong>a</strong>l-asm<u>aa</u>u <strong>a</strong>l<u>h</u>usn<u>aa</u> yusabbi<u>h</u>u lahu m<u>aa</u> fii <strong>al</strong>ssam<u>aa</u>w<u>aa</u>ti wa<strong>a</strong>l-ar<u>dh</u>i wahuwa <strong>a</strong>l'aziizu <strong>a</strong>l<u>h</u>akiim<strong>u</strong>",
+    idn: "Dialah Allah Yang Menciptakan, Yang Mengadakan, Yang Membentuk Rupa, Dia memiliki nama-nama yang indah. Apa yang di langit dan di bumi bertasbih kepada-Nya. Dan Dialah Yang Mahaperkasa, Mahabijaksana."
+    }
+    ],
+    surat_selanjutnya: {
+    id: 60,
+    nomor: 60,
+    nama: "الممتحنة",
+    nama_latin: "Al-Mumtahanah",
+    jumlah_ayat: 13,
+    tempat_turun: "madinah",
+    arti: "Wanita Yang Diuji",
+    deskripsi: "Surat Al Mumtahanah terdiri atas 13 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Ahzab. Dinamai <i>Al Mumtahanah</i> (wanita yang diuji), diambil dari kata "Famtahinuuhunna" yang berarti <i>maka ujilah mereka</i>, yang terdapat pada ayat 10 surat ini.",
+    audio: "https://santrikoding.com/storage/audio/060.mp3"
+    },
+    surat_sebelumnya: {
+    id: 58,
+    nomor: 58,
+    nama: "المجادلة",
+    nama_latin: "Al-Mujadalah",
+    jumlah_ayat: 22,
+    tempat_turun: "madinah",
+    arti: "Gugatan",
+    deskripsi: "Surat Al Mujaadilah terdiri atas 22 ayat, termasuk golongan surat Madaniyyah, diturunkan sesudah surat Al Munaafiquun. Surat ini dinamai dengan <i>Al Mujaadilah</i> (wanita yang mengajukan gugatan) karena pada awal surat ini disebutkan bantahan seorang perempuan, menurut riwayat bernama Khaulah binti Tsa'labah terhadap sikap suaminya yang telah menzhiharnya. Hal ini diadukan kepada Rasulullah s.a.w. dan ia menuntut supaya beliau memberikan putusan yang adil dalam persoalan itu. Dinamai juga <i>Al Mujaadalah</i> yang berarti <i>perbantahan</i>.",
+    audio: "https://santrikoding.com/storage/audio/058.mp3"
+    }
+    }

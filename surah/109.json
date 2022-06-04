@@ -1,0 +1,83 @@
+{
+    status: true,
+    nomor: 109,
+    nama: "الكٰفرون",
+    nama_latin: "Al-Kafirun",
+    jumlah_ayat: 6,
+    tempat_turun: "mekah",
+    arti: "Orang-Orang kafir",
+    deskripsi: "Surat Al Kaafiruun terdiri atas 6 ayat, termasuk golongan surat-surat  Makkiyyah, diturunkan sesudah surat Al Maa'uun. Dinamai <i>Al Kaafiruun</i> (orang-orang kafir), diambil dari perkataan  <i>Al Kaafiruun</i> yang terdapat pada ayat pertama surat ini.",
+    audio: "https://santrikoding.com/storage/audio/109.mp3",
+    ayat: [
+    {
+    id: 6208,
+    surah: 109,
+    nomor: 1,
+    ar: "قُلْ يٰٓاَيُّهَا الْكٰفِرُوْنَۙ",
+    tr: "qul y<u>aa</u> ayyuh<u>aa</u> <strong>a</strong>lk<u>aa</u>firuun<strong>a</strong>",
+    idn: "Katakanlah (Muhammad), “Wahai orang-orang kafir!"
+    },
+    {
+    id: 6209,
+    surah: 109,
+    nomor: 2,
+    ar: "لَآ اَعْبُدُ مَا تَعْبُدُوْنَۙ",
+    tr: "l<u>aa</u> a'budu m<u>aa</u> ta'buduun<strong>a</strong>",
+    idn: "aku tidak akan menyembah apa yang kamu sembah,"
+    },
+    {
+    id: 6210,
+    surah: 109,
+    nomor: 3,
+    ar: "وَلَآ اَنْتُمْ عٰبِدُوْنَ مَآ اَعْبُدُۚ",
+    tr: "wal<u>aa</u> antum '<u>aa</u>biduuna m<u>aa</u> a'bud<strong>u</strong>",
+    idn: "dan kamu bukan penyembah apa yang aku sembah,"
+    },
+    {
+    id: 6211,
+    surah: 109,
+    nomor: 4,
+    ar: "وَلَآ اَنَا۠ عَابِدٌ مَّا عَبَدْتُّمْۙ",
+    tr: "wal<u>aa</u> an<u>aa</u> '<u>aa</u>bidun m<u>aa</u> 'abadtum",
+    idn: "dan aku tidak pernah menjadi penyembah apa yang kamu sembah,"
+    },
+    {
+    id: 6212,
+    surah: 109,
+    nomor: 5,
+    ar: "وَلَآ اَنْتُمْ عٰبِدُوْنَ مَآ اَعْبُدُۗ",
+    tr: "wal<u>aa</u> antum '<u>aa</u>biduuna m<u>aa</u> a'bud<strong>u</strong>",
+    idn: "dan kamu tidak pernah (pula) menjadi penyembah apa yang aku sembah."
+    },
+    {
+    id: 6213,
+    surah: 109,
+    nomor: 6,
+    ar: "لَكُمْ دِيْنُكُمْ وَلِيَ دِيْنِ ࣖ",
+    tr: "lakum diinukum waliya diin<strong>i</strong>",
+    idn: "Untukmu agamamu, dan untukku agamaku.”"
+    }
+    ],
+    surat_selanjutnya: {
+    id: 110,
+    nomor: 110,
+    nama: "النصر",
+    nama_latin: "An-Nasr",
+    jumlah_ayat: 3,
+    tempat_turun: "madinah",
+    arti: "Pertolongan",
+    deskripsi: "Surat An Nashr terdiri atas 3 ayat, termasuk golongan surat-surat  Madaniyyah yang diturunkan di Mekah sesudah surat At Taubah.  Dinamai <i>An Nashr</i> (pertolongan) diambil dari perkataan <i>Nashr</i> yang  terdapat pada ayat pertama surat ini.",
+    audio: "https://santrikoding.com/storage/audio/110.mp3"
+    },
+    surat_sebelumnya: {
+    id: 108,
+    nomor: 108,
+    nama: "الكوثر",
+    nama_latin: "Al-Kausar",
+    jumlah_ayat: 3,
+    tempat_turun: "mekah",
+    arti: "Pemberian Yang Banyak",
+    deskripsi: "Surat Al Kautsar terdiri atas 3 ayat, termasuk golongan surat-surat  Makkiyyah diturunkan sesudah surat Al 'Aadiyaat. Dinamai <i>Al Kautsar</i> (nikmat yang banyak) diambil dari perkataan <i>Al Kautsar</i> yang terdapat pada ayat pertama surat ini.<br>Surat ini sebagai penghibur hati Nabi Muhammad s.a.w.",
+    audio: "https://santrikoding.com/storage/audio/108.mp3"
+    }
+    }

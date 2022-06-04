@@ -1,0 +1,99 @@
+{
+    status: true,
+    nomor: 98,
+    nama: "البيّنة",
+    nama_latin: "Al-Bayyinah",
+    jumlah_ayat: 8,
+    tempat_turun: "madinah",
+    arti: "Bukti Nyata",
+    deskripsi: "Surat Al Bayyinah terdiri atas 8 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Ath Thalaq. Dinamai <i>Al Bayyinah</i> (bukti yang nyata) diambil dari perkataan <i>Al Bayyinah</i> yang terdapat pada ayat pertama surat ini.",
+    audio: "https://santrikoding.com/storage/audio/098.mp3",
+    ayat: [
+    {
+    id: 6131,
+    surah: 98,
+    nomor: 1,
+    ar: "لَمْ يَكُنِ الَّذِيْنَ كَفَرُوْا مِنْ اَهْلِ الْكِتٰبِ وَالْمُشْرِكِيْنَ مُنْفَكِّيْنَ حَتّٰى تَأْتِيَهُمُ الْبَيِّنَةُۙ",
+    tr: "lam yakuni <strong>al</strong>la<u>dz</u>iina kafaruu min ahli <strong>a</strong>lkit<u>aa</u>bi wa<strong>a</strong>lmusyrikiina munfakkiina <u>h</u>att<u>aa</u> ta/tiyahumu <strong>a</strong>lbayyina<strong>tu</strong>",
+    idn: "Orang-orang yang kafir dari golongan Ahli Kitab dan orang-orang musyrik tidak akan meninggalkan (agama mereka) sampai datang kepada mereka bukti yang nyata,"
+    },
+    {
+    id: 6132,
+    surah: 98,
+    nomor: 2,
+    ar: "رَسُوْلٌ مِّنَ اللّٰهِ يَتْلُوْا صُحُفًا مُّطَهَّرَةًۙ",
+    tr: "rasuulun mina <strong>al</strong>l<u>aa</u>hi yatluu <u>sh</u>u<u>h</u>ufan mu<u>th</u>ahhara<strong>tan</strong>",
+    idn: "(yaitu) seorang Rasul dari Allah (Muhammad) yang membacakan lembaran-lembaran yang suci (Al-Qur'an),"
+    },
+    {
+    id: 6133,
+    surah: 98,
+    nomor: 3,
+    ar: "فِيْهَا كُتُبٌ قَيِّمَةٌ  ۗ",
+    tr: "fiih<u>aa</u> kutubun qayyima<strong>tun</strong>",
+    idn: "di dalamnya terdapat (isi) kitab-kitab yang lurus (benar)."
+    },
+    {
+    id: 6134,
+    surah: 98,
+    nomor: 4,
+    ar: "وَمَا تَفَرَّقَ الَّذِيْنَ اُوْتُوا الْكِتٰبَ اِلَّا مِنْۢ بَعْدِ مَا جَاۤءَتْهُمُ الْبَيِّنَةُ ۗ",
+    tr: "wam<u>aa</u> tafarraqa <strong>al</strong>la<u>dz</u>iina uutuu <strong>a</strong>lkit<u>aa</u>ba ill<u>aa</u> min ba'di m<u>aa</u> j<u>aa</u>-at-humu <strong>a</strong>lbayyina<strong>tu</strong>",
+    idn: "Dan tidaklah terpecah-belah orang-orang Ahli Kitab melainkan setelah datang kepada mereka bukti yang nyata."
+    },
+    {
+    id: 6135,
+    surah: 98,
+    nomor: 5,
+    ar: "وَمَآ اُمِرُوْٓا اِلَّا لِيَعْبُدُوا اللّٰهَ مُخْلِصِيْنَ لَهُ الدِّيْنَ ەۙ حُنَفَاۤءَ وَيُقِيْمُوا الصَّلٰوةَ وَيُؤْتُوا الزَّكٰوةَ وَذٰلِكَ دِيْنُ الْقَيِّمَةِۗ",
+    tr: "wam<u>aa</u> umiruu ill<u>aa</u> liya'buduu <strong>al</strong>l<u>aa</u>ha mukhli<u>sh</u>iina lahu <strong>al</strong>ddiina <u>h</u>unaf<u>aa</u>-a wayuqiimuu <strong>al</strong><u>shsh</u>al<u>aa</u>ta wayu/tuu <strong>al</strong>zzak<u>aa</u>ta wa<u>dzaa</u>lika diinu <strong>a</strong>lqayyima<strong>ti</strong>",
+    idn: "Padahal mereka hanya diperintah menyembah Allah dengan ikhlas menaati-Nya semata-mata karena (menjalankan) agama, dan juga agar melaksanakan salat dan menunaikan zakat; dan yang demikian itulah agama yang lurus (benar)."
+    },
+    {
+    id: 6136,
+    surah: 98,
+    nomor: 6,
+    ar: "اِنَّ الَّذِيْنَ كَفَرُوْا مِنْ اَهْلِ الْكِتٰبِ وَالْمُشْرِكِيْنَ فِيْ نَارِ جَهَنَّمَ خٰلِدِيْنَ فِيْهَاۗ اُولٰۤىِٕكَ هُمْ شَرُّ الْبَرِيَّةِۗ",
+    tr: "inna <strong>al</strong>la<u>dz</u>iina kafaruu min ahli <strong>a</strong>lkit<u>aa</u>bi wa<strong>a</strong>lmusyrikiina fii n<u>aa</u>ri jahannama kh<u>aa</u>lidiina fiih<u>aa</u> ul<u>aa</u>-ika hum syarru <strong>a</strong>lbariyya<strong>ti</strong>",
+    idn: "Sungguh, orang-orang yang kafir dari golongan Ahli Kitab dan orang-orang musyrik (akan masuk) ke neraka Jahanam; mereka kekal di dalamnya selama-lamanya. Mereka itu adalah sejahat-jahat makhluk."
+    },
+    {
+    id: 6137,
+    surah: 98,
+    nomor: 7,
+    ar: "اِنَّ الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ اُولٰۤىِٕكَ هُمْ خَيْرُ الْبَرِيَّةِۗ",
+    tr: "inna <strong>al</strong>la<u>dz</u>iina <u>aa</u>manuu wa'amiluu <strong>al</strong><u>shshaa</u>li<u>haa</u>ti ul<u>aa</u>-ika hum khayru <strong>a</strong>lbariyya<strong>ti</strong>",
+    idn: "Sungguh, orang-orang yang beriman dan mengerjakan kebajikan, mereka itu adalah sebaik-baik makhluk."
+    },
+    {
+    id: 6138,
+    surah: 98,
+    nomor: 8,
+    ar: "جَزَاۤؤُهُمْ عِنْدَ رَبِّهِمْ جَنّٰتُ عَدْنٍ تَجْرِيْ مِنْ تَحْتِهَا الْاَنْهٰرُ خٰلِدِيْنَ فِيْهَآ اَبَدًا ۗرَضِيَ اللّٰهُ عَنْهُمْ وَرَضُوْا عَنْهُ ۗ ذٰلِكَ لِمَنْ خَشِيَ رَبَّهٗ ࣖ",
+    tr: "jaz<u>aa</u>uhum 'inda rabbihim jann<u>aa</u>tu 'adnin tajrii min ta<u>h</u>tih<u>aa</u> <strong>a</strong>l-anh<u>aa</u>ru kh<u>aa</u>lidiina fiih<u>aa</u> abadan ra<u>dh</u>iya <strong>al</strong>l<u>aa</u>hu 'anhum wara<u>dh</u>uu 'anhu <u>dzaa</u>lika liman khasyiya rabbah<strong>u</strong>",
+    idn: "Balasan mereka di sisi Tuhan mereka ialah surga ’Adn yang mengalir di bawahnya sungai-sungai; mereka kekal di dalamnya selama-lamanya. Allah rida terhadap mereka dan mereka pun rida kepada-Nya. Yang demikian itu adalah (balasan) bagi orang yang takut kepada Tuhannya. "
+    }
+    ],
+    surat_selanjutnya: {
+    id: 99,
+    nomor: 99,
+    nama: "الزلزلة",
+    nama_latin: "Az-Zalzalah",
+    jumlah_ayat: 8,
+    tempat_turun: "madinah",
+    arti: "Guncangan",
+    deskripsi: "Surat ini terdiri atas 8 ayat, termasuk golongan surat-surat Madaniyyah diturunkan sesudah surat An Nisaa'. Nama <i>Al Zalzalah</i> diambil dari kata: <i>Zilzaal</i> yang terdapat pada ayat pertama surat ini yang berarti goncangan.",
+    audio: "https://santrikoding.com/storage/audio/099.mp3"
+    },
+    surat_sebelumnya: {
+    id: 97,
+    nomor: 97,
+    nama: "القدر",
+    nama_latin: "Al-Qadr",
+    jumlah_ayat: 5,
+    tempat_turun: "mekah",
+    arti: "Kemuliaan",
+    deskripsi: "Surat Al Qadr terdiri atas 5 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat 'Abasa. Surat ini dinamai <i>Al Qadr</i> (kemuliaan), diambil dari perkataan <i>Al Qadr</i> yang terdapat pada ayat pertama surat ini.",
+    audio: "https://santrikoding.com/storage/audio/097.mp3"
+    }
+    }

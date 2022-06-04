@@ -1,0 +1,211 @@
+{
+    status: true,
+    nomor: 85,
+    nama: "البروج",
+    nama_latin: "Al-Buruj",
+    jumlah_ayat: 22,
+    tempat_turun: "mekah",
+    arti: "Gugusan Bintang",
+    deskripsi: "Surat Al Buruuj terdiri atas 22 ayat, termasuk golongan surat-surat Makkiyyah diturunkan sesudah surat Asy-Syams.<br>Dinamai <i>Al Buruuj</i> (gugusan bintang) diambil dari perkataan <i>Al Buruuj</i> yang terdapat pada ayat 1 surat ini.",
+    audio: "https://santrikoding.com/storage/audio/085.mp3",
+    ayat: [
+    {
+    id: 5910,
+    surah: 85,
+    nomor: 1,
+    ar: "وَالسَّمَاۤءِ ذَاتِ الْبُرُوْجِۙ ",
+    tr: "wa<strong>al</strong>ssam<u>aa</u>-i <u>dzaa</u>ti <strong>a</strong>lburuuj<strong>i</strong>",
+    idn: "Demi langit yang mempunyai gugusan bintang,"
+    },
+    {
+    id: 5911,
+    surah: 85,
+    nomor: 2,
+    ar: "وَالْيَوْمِ الْمَوْعُوْدِۙ ",
+    tr: "wa<strong>a</strong>lyawmi <strong>a</strong>lmaw'uud<strong>i</strong>",
+    idn: "dan demi hari yang dijanjikan."
+    },
+    {
+    id: 5912,
+    surah: 85,
+    nomor: 3,
+    ar: "وَشَاهِدٍ وَّمَشْهُوْدٍۗ ",
+    tr: "wa<strong>a</strong>lyawmi <strong>a</strong>lmaw'uud<strong>i</strong>",
+    idn: "Demi yang menyaksikan dan yang disaksikan."
+    },
+    {
+    id: 5913,
+    surah: 85,
+    nomor: 4,
+    ar: "قُتِلَ اَصْحٰبُ الْاُخْدُوْدِۙ ",
+    tr: "qutila a<u>sh</u>-<u>haa</u>bu <strong>a</strong>lukhduud<strong>i</strong>",
+    idn: "Binasalah orang-orang yang membuat parit (yaitu para pembesar Najran di Yaman),"
+    },
+    {
+    id: 5914,
+    surah: 85,
+    nomor: 5,
+    ar: "النَّارِ ذَاتِ الْوَقُوْدِۙ ",
+    tr: "a<strong>l</strong>nn<u>aa</u>ri <u>dzaa</u>ti <strong>a</strong>lwaquud<strong>i</strong>",
+    idn: "yang berapi (yang mempunyai) kayu bakar,"
+    },
+    {
+    id: 5915,
+    surah: 85,
+    nomor: 6,
+    ar: "اِذْ هُمْ عَلَيْهَا قُعُوْدٌۙ ",
+    tr: "i<u>dz</u> hum 'alayh<u>aa</u> qu'uud<strong>un</strong>",
+    idn: "ketika mereka duduk di sekitarnya, "
+    },
+    {
+    id: 5916,
+    surah: 85,
+    nomor: 7,
+    ar: "وَّهُمْ عَلٰى مَا يَفْعَلُوْنَ بِالْمُؤْمِنِيْنَ شُهُوْدٌ  ۗ ",
+    tr: "wahum 'al<u>aa</u> m<u>aa</u> yaf'aluuna bi<strong>a</strong>lmu/miniina syuhuud<strong>un</strong>",
+    idn: "sedang mereka menyaksikan apa yang mereka perbuat terhadap orang-orang mukmin."
+    },
+    {
+    id: 5917,
+    surah: 85,
+    nomor: 8,
+    ar: "وَمَا نَقَمُوْا مِنْهُمْ اِلَّآ اَنْ يُّؤْمِنُوْا بِاللّٰهِ الْعَزِيْزِ الْحَمِيْدِۙ ",
+    tr: "wam<u>aa</u> naqamuu minhum ill<u>aa</u> an yu/minuu bi<strong>al</strong>l<u>aa</u>hi <strong>a</strong>l'aziizi <strong>a</strong>l<u>h</u>amiid<strong>i</strong>",
+    idn: "Dan mereka menyiksa orang-orang mukmin itu hanya karena (orang-orang mukmin itu) beriman kepada Allah Yang Mahaperkasa, Maha Terpuji,"
+    },
+    {
+    id: 5918,
+    surah: 85,
+    nomor: 9,
+    ar: "الَّذِيْ لَهٗ مُلْكُ السَّمٰوٰتِ وَالْاَرْضِ ۗوَاللّٰهُ عَلٰى كُلِّ شَيْءٍ شَهِيْدٌ  ۗ ",
+    tr: "<strong>al</strong>la<u>dz</u>ii lahu mulku <strong>al</strong>ssam<u>aa</u>w<u>aa</u>ti wa<strong>a</strong>l-ar<u>dh</u>i wa<strong>al</strong>l<u>aa</u>hu 'al<u>aa</u> kulli syay-in syahiid<strong>un</strong>",
+    idn: "yang memiliki kerajaan langit dan bumi. Dan Allah Maha Menyaksikan segala sesuatu."
+    },
+    {
+    id: 5919,
+    surah: 85,
+    nomor: 10,
+    ar: "اِنَّ الَّذِيْنَ فَتَنُوا الْمُؤْمِنِيْنَ وَالْمُؤْمِنٰتِ ثُمَّ لَمْ يَتُوْبُوْا فَلَهُمْ عَذَابُ جَهَنَّمَ وَلَهُمْ عَذَابُ الْحَرِيْقِۗ ",
+    tr: "inna <strong>al</strong>la<u>dz</u>iina <u>aa</u>manuu wa'amiluu <strong>al</strong><u>shshaa</u>li<u>haa</u>ti lahum jann<u>aa</u>tun tajrii min ta<u>h</u>tih<u>aa</u> <strong>a</strong>l-anh<u>aa</u>ru <u>dzaa</u>lika <strong>a</strong>lfawzu <strong>a</strong>lkabiir<strong>u</strong>",
+    idn: "Sungguh, orang-orang yang mendatangkan cobaan (bencana, membunuh, menyiksa) kepada orang-orang mukmin laki-laki dan perempuan lalu mereka tidak bertobat, maka mereka akan mendapat azab Jahanam dan mereka akan mendapat azab (neraka) yang membakar."
+    },
+    {
+    id: 5920,
+    surah: 85,
+    nomor: 11,
+    ar: "اِنَّ الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ لَهُمْ جَنّٰتٌ تَجْرِيْ مِنْ تَحْتِهَا الْاَنْهٰرُ ەۗ ذٰلِكَ الْفَوْزُ الْكَبِيْرُۗ",
+    tr: "inna <strong>al</strong>la<u>dz</u>iina <u>aa</u>manuu wa'amiluu <strong>al</strong><u>shshaa</u>li<u>haa</u>ti lahum jann<u>aa</u>tun tajrii min ta<u>h</u>tih<u>aa</u> <strong>a</strong>l-anh<u>aa</u>ru <u>dzaa</u>lika <strong>a</strong>lfawzu <strong>a</strong>lkabiir<strong>u</strong>",
+    idn: "Sungguh, orang-orang yang beriman dan mengerjakan kebajikan, mereka akan mendapat surga yang mengalir di bawahnya sungai-sungai, itulah kemenangan yang agung."
+    },
+    {
+    id: 5921,
+    surah: 85,
+    nomor: 12,
+    ar: "اِنَّ بَطْشَ رَبِّكَ لَشَدِيْدٌ ۗ ",
+    tr: "inna ba<u>th</u>sya rabbika lasyadiid<strong>un</strong>",
+    idn: "Sungguh, azab Tuhanmu sangat keras."
+    },
+    {
+    id: 5922,
+    surah: 85,
+    nomor: 13,
+    ar: "اِنَّهٗ هُوَ يُبْدِئُ وَيُعِيْدُۚ ",
+    tr: "innahu huwa yubdi-u wayu'iid<strong>u</strong>",
+    idn: "Sungguh, Dialah yang memulai pen-ciptaan (makhluk) dan yang menghidupkannya (kembali)."
+    },
+    {
+    id: 5923,
+    surah: 85,
+    nomor: 14,
+    ar: "وَهُوَ الْغَفُوْرُ الْوَدُوْدُۙ ",
+    tr: "wahuwa <strong>a</strong>lghafuuru <strong>a</strong>lwaduud<strong>u</strong>",
+    idn: "Dan Dialah Yang Maha Pengampun, Maha Pengasih,"
+    },
+    {
+    id: 5924,
+    surah: 85,
+    nomor: 15,
+    ar: "ذُو الْعَرْشِ الْمَجِيْدُۙ ",
+    tr: "<u>dz</u>uu <strong>a</strong>l'arsyi <strong>a</strong>lmajiid<strong>i</strong>",
+    idn: "yang memiliki ‘Arsy, lagi Mahamulia, "
+    },
+    {
+    id: 5925,
+    surah: 85,
+    nomor: 16,
+    ar: "فَعَّالٌ لِّمَا يُرِيْدُۗ ",
+    tr: "fa''<u>aa</u>lun lim<u>aa</u> yuriid<strong>u</strong>",
+    idn: "Mahakuasa berbuat apa yang Dia kehendaki. "
+    },
+    {
+    id: 5926,
+    surah: 85,
+    nomor: 17,
+    ar: "هَلْ اَتٰىكَ حَدِيْثُ الْجُنُوْدِۙ ",
+    tr: "hal at<u>aa</u>ka <u>h</u>adiitsu <strong>a</strong>ljunuud<strong>i</strong>",
+    idn: "Sudahkah sampai kepadamu berita tentang bala tentara (penentang),"
+    },
+    {
+    id: 5927,
+    surah: 85,
+    nomor: 18,
+    ar: "فِرْعَوْنَ وَثَمُوْدَۗ ",
+    tr: "fir'awna watsamuud<strong>a</strong>",
+    idn: "(yaitu) Fir‘aun dan Samud?"
+    },
+    {
+    id: 5928,
+    surah: 85,
+    nomor: 19,
+    ar: "بَلِ الَّذِيْنَ كَفَرُوْا فِيْ تَكْذِيْبٍۙ ",
+    tr: "bali <strong>al</strong>la<u>dz</u>iina kafaruu fii tak<u>dz</u>iib<strong>in</strong>",
+    idn: "Memang orang-orang kafir (selalu) mendustakan,"
+    },
+    {
+    id: 5929,
+    surah: 85,
+    nomor: 20,
+    ar: "وَّاللّٰهُ مِنْ وَّرَاۤىِٕهِمْ مُّحِيْطٌۚ ",
+    tr: "wa<strong>al</strong>l<u>aa</u>hu min war<u>aa</u>-ihim mu<u>h</u>ii<u>th</u><strong>un</strong>",
+    idn: "padahal Allah mengepung dari belakang mereka (sehingga tidak dapat lolos)."
+    },
+    {
+    id: 5930,
+    surah: 85,
+    nomor: 21,
+    ar: "بَلْ هُوَ قُرْاٰنٌ مَّجِيْدٌۙ ",
+    tr: "bal huwa qur-<u>aa</u>nun majiid<strong>un</strong>",
+    idn: "Bahkan (yang didustakan itu) ialah Al-Qur'an yang mulia,"
+    },
+    {
+    id: 5931,
+    surah: 85,
+    nomor: 22,
+    ar: "فِيْ لَوْحٍ مَّحْفُوْظٍ ࣖ ",
+    tr: "fii law<u>h</u>in ma<u>h</u>fuu<u>zh</u><strong>in</strong>",
+    idn: "yang (tersimpan) dalam (tempat) yang terjaga (Lauh Mahfuzh)."
+    }
+    ],
+    surat_selanjutnya: {
+    id: 86,
+    nomor: 86,
+    nama: "الطارق",
+    nama_latin: "At-Tariq",
+    jumlah_ayat: 17,
+    tempat_turun: "mekah",
+    arti: "Yang Datang Di Malam Hari",
+    deskripsi: "Surat Ath Thaariq terdiri atas 17 ayat, termasuk golongan surat-surat Makkiyah,  diturunkan sesudah surat Al Balad.  Dinamai <i>Ath Thaariq</i> (yang datang di malam hari) diambil dari  perkataan <i>Ath Thaariq</i> yang terdapat pada ayat 1 surat ini.",
+    audio: "https://santrikoding.com/storage/audio/086.mp3"
+    },
+    surat_sebelumnya: {
+    id: 84,
+    nomor: 84,
+    nama: "الانشقاق",
+    nama_latin: "Al-Insyiqaq",
+    jumlah_ayat: 25,
+    tempat_turun: "mekah",
+    arti: "Terbelah",
+    deskripsi: "Surat Al Insyiqaaq, terdiri atas 25 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al Infithaarr. Dinamai <i>Al Insyiqaaq</i> (terbelah), diambil dari perkataan <i>Insyaqqat</i> yang terdapat pada permulaan surat ini, yang pokok katanya ialah <i>insyiqaaq</i>.",
+    audio: "https://santrikoding.com/storage/audio/084.mp3"
+    }
+    }

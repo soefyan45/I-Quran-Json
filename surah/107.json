@@ -1,0 +1,91 @@
+{
+    status: true,
+    nomor: 107,
+    nama: "الماعون",
+    nama_latin: "Al-Ma'un",
+    jumlah_ayat: 7,
+    tempat_turun: "mekah",
+    arti: "Barang Yang Berguna",
+    deskripsi: "Surat ini terdiri atas 7 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat At Taakatsur. Nama <i>Al Maa'uun</i> diambil dari kata <i>Al Maa'uun</i> yang terdapat pada ayat 7, artinya barang-barang yang berguna.",
+    audio: "https://santrikoding.com/storage/audio/107.mp3",
+    ayat: [
+    {
+    id: 6198,
+    surah: 107,
+    nomor: 1,
+    ar: "اَرَءَيْتَ الَّذِيْ يُكَذِّبُ بِالدِّيْنِۗ",
+    tr: "ara-ayta <strong>al</strong>la<u>dz</u>ii yuka<u>dzdz</u>ibu bi<strong>al</strong>ddiin<strong>i</strong>",
+    idn: "Tahukah kamu (orang) yang mendustakan agama?"
+    },
+    {
+    id: 6199,
+    surah: 107,
+    nomor: 2,
+    ar: "فَذٰلِكَ الَّذِيْ يَدُعُّ الْيَتِيْمَۙ",
+    tr: "fa<u>dzaa</u>lika <strong>al</strong>la<u>dz</u>ii yadu''u <strong>a</strong>lyatiim<strong>a</strong>",
+    idn: "Maka itulah orang yang menghardik anak yatim,"
+    },
+    {
+    id: 6200,
+    surah: 107,
+    nomor: 3,
+    ar: "وَلَا يَحُضُّ عَلٰى طَعَامِ الْمِسْكِيْنِۗ",
+    tr: "wal<u>aa</u> ya<u>h</u>u<u>dhdh</u>u 'al<u>aa</u> <u>th</u>a'<u>aa</u>mi <strong>a</strong>lmiskiin<strong>i</strong>",
+    idn: "dan tidak mendorong memberi makan orang miskin."
+    },
+    {
+    id: 6201,
+    surah: 107,
+    nomor: 4,
+    ar: "فَوَيْلٌ لِّلْمُصَلِّيْنَۙ",
+    tr: "fawaylun lilmu<u>sh</u>alliin<strong>a</strong>",
+    idn: "Maka celakalah orang yang salat,"
+    },
+    {
+    id: 6202,
+    surah: 107,
+    nomor: 5,
+    ar: "الَّذِيْنَ هُمْ عَنْ صَلَاتِهِمْ سَاهُوْنَۙ",
+    tr: "<strong>al</strong>la<u>dz</u>iina hum 'an <u>sh</u>al<u>aa</u>tihim s<u>aa</u>huun<strong>a</strong>",
+    idn: "(yaitu) orang-orang yang lalai terhadap salatnya,"
+    },
+    {
+    id: 6203,
+    surah: 107,
+    nomor: 6,
+    ar: "الَّذِيْنَ هُمْ يُرَاۤءُوْنَۙ",
+    tr: "<strong>al</strong>la<u>dz</u>iina hum yur<u>aa</u>uun<strong>a</strong>",
+    idn: "yang berbuat ria,"
+    },
+    {
+    id: 6204,
+    surah: 107,
+    nomor: 7,
+    ar: "وَيَمْنَعُوْنَ الْمَاعُوْنَ ࣖ",
+    tr: "wayamna'uuna <strong>a</strong>lm<u>aa</u>'uun<strong>a</strong>",
+    idn: "dan enggan (memberikan) bantuan."
+    }
+    ],
+    surat_selanjutnya: {
+    id: 108,
+    nomor: 108,
+    nama: "الكوثر",
+    nama_latin: "Al-Kausar",
+    jumlah_ayat: 3,
+    tempat_turun: "mekah",
+    arti: "Pemberian Yang Banyak",
+    deskripsi: "Surat Al Kautsar terdiri atas 3 ayat, termasuk golongan surat-surat  Makkiyyah diturunkan sesudah surat Al 'Aadiyaat. Dinamai <i>Al Kautsar</i> (nikmat yang banyak) diambil dari perkataan <i>Al Kautsar</i> yang terdapat pada ayat pertama surat ini.<br>Surat ini sebagai penghibur hati Nabi Muhammad s.a.w.",
+    audio: "https://santrikoding.com/storage/audio/108.mp3"
+    },
+    surat_sebelumnya: {
+    id: 106,
+    nomor: 106,
+    nama: "قريش",
+    nama_latin: "Quraisy",
+    jumlah_ayat: 4,
+    tempat_turun: "mekah",
+    arti: "Quraisy",
+    deskripsi: "Surat ini terdiri atas 4 ayat, termasuk golongan surat-surat Makkiyyah dan diturunkan sesudah surat At Tiin. Nama <i>Quraisy</i> diambil dari kata <i>Quraisy</i> yang terdapat pada ayat pertama, artinya suku Quraisy. Suku Quraisy adalah suku yang mendapat  kehormatan untuk memelihara Ka'bah.",
+    audio: "https://santrikoding.com/storage/audio/106.mp3"
+    }
+    }

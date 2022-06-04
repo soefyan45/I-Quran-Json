@@ -1,0 +1,235 @@
+{
+    status: true,
+    nomor: 84,
+    nama: "الانشقاق",
+    nama_latin: "Al-Insyiqaq",
+    jumlah_ayat: 25,
+    tempat_turun: "mekah",
+    arti: "Terbelah",
+    deskripsi: "Surat Al Insyiqaaq, terdiri atas 25 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al Infithaarr. Dinamai <i>Al Insyiqaaq</i> (terbelah), diambil dari perkataan <i>Insyaqqat</i> yang terdapat pada permulaan surat ini, yang pokok katanya ialah <i>insyiqaaq</i>.",
+    audio: "https://santrikoding.com/storage/audio/084.mp3",
+    ayat: [
+    {
+    id: 5885,
+    surah: 84,
+    nomor: 1,
+    ar: "اِذَا السَّمَاۤءُ انْشَقَّتْۙ ",
+    tr: "i<u>dzaa</u> <strong>al</strong>ssam<u>aa</u>u insyaqqath",
+    idn: "Apabila langit terbelah,"
+    },
+    {
+    id: 5886,
+    surah: 84,
+    nomor: 2,
+    ar: "وَاَذِنَتْ لِرَبِّهَا وَحُقَّتْۙ ",
+    tr: "wa-a<u>dz</u>inat lirabbih<u>aa</u> wa<u>h</u>uqqath",
+    idn: "dan patuh kepada Tuhannya, dan sudah semestinya patuh, "
+    },
+    {
+    id: 5887,
+    surah: 84,
+    nomor: 3,
+    ar: "وَاِذَا الْاَرْضُ مُدَّتْۙ ",
+    tr: "wa-i<u>dzaa</u> <strong>a</strong>l-ar<u>dh</u>u muddath",
+    idn: "dan apabila bumi diratakan, "
+    },
+    {
+    id: 5888,
+    surah: 84,
+    nomor: 4,
+    ar: "وَاَلْقَتْ مَا فِيْهَا وَتَخَلَّتْۙ ",
+    tr: "wa-alqat m<u>aa</u> fiih<u>aa</u> watakhallath",
+    idn: "dan memuntahkan apa yang ada di dalamnya dan menjadi kosong,"
+    },
+    {
+    id: 5889,
+    surah: 84,
+    nomor: 5,
+    ar: "وَاَذِنَتْ لِرَبِّهَا وَحُقَّتْۗ ",
+    tr: "wa-a<u>dz</u>inat lirabbih<u>aa</u> wa<u>h</u>uqqath",
+    idn: "dan patuh kepada Tuhannya, dan sudah semestinya patuh."
+    },
+    {
+    id: 5890,
+    surah: 84,
+    nomor: 6,
+    ar: "يٰٓاَيُّهَا الْاِنْسَانُ اِنَّكَ كَادِحٌ اِلٰى رَبِّكَ كَدْحًا فَمُلٰقِيْهِۚ ",
+    tr: "y<u>aa</u> ayyuh<u>aa</u> <strong>a</strong>l-ins<u>aa</u>nu innaka k<u>aa</u>di<u>h</u>un il<u>aa</u> rabbika kad<u>h</u>an famul<u>aa</u>qiih<strong>i</strong>",
+    idn: "Wahai manusia! Sesungguhnya kamu telah bekerja keras menuju Tuhanmu, maka kamu akan menemui-Nya."
+    },
+    {
+    id: 5891,
+    surah: 84,
+    nomor: 7,
+    ar: "فَاَمَّا مَنْ اُوْتِيَ كِتٰبَهٗ بِيَمِيْنِهٖۙ ",
+    tr: "fa-am<u>aa</u> man uutiya kit<u>aa</u>bahu biyamiinih<strong>i</strong>",
+    idn: "Maka adapun orang yang catatannya diberikan dari sebelah kanannya, "
+    },
+    {
+    id: 5892,
+    surah: 84,
+    nomor: 8,
+    ar: "فَسَوْفَ يُحَاسَبُ حِسَابًا يَّسِيْرًاۙ ",
+    tr: "fasawfa yu<u>haa</u>sabu <u>h</u>is<u>aa</u>ban yasiir<u>aa</u><strong>n</strong>",
+    idn: "maka dia akan diperiksa dengan pemeriksaan yang mudah, "
+    },
+    {
+    id: 5893,
+    surah: 84,
+    nomor: 9,
+    ar: "وَّيَنْقَلِبُ اِلٰٓى اَهْلِهٖ مَسْرُوْرًاۗ ",
+    tr: "wayanqalibu il<u>aa</u> ahlihi masruur<u>aa</u><strong>n</strong>",
+    idn: "dan dia akan kembali kepada keluarganya (yang sama-sama beriman) dengan gembira."
+    },
+    {
+    id: 5894,
+    surah: 84,
+    nomor: 10,
+    ar: "وَاَمَّا مَنْ اُوْتِيَ كِتٰبَهٗ وَرَاۤءَ ظَهْرِهٖۙ ",
+    tr: "wa-amm<u>aa</u> man uutiya kit<u>aa</u>bahu war<u>aa</u>-a <u>zh</u>ahrih<strong>i</strong>",
+    idn: "Dan adapun orang yang catatannya diberikan dari sebelah belakang, "
+    },
+    {
+    id: 5895,
+    surah: 84,
+    nomor: 11,
+    ar: "فَسَوْفَ يَدْعُوْ ثُبُوْرًاۙ ",
+    tr: "fasawfa yad'uu tsubuur<u>aa</u><strong>n</strong>",
+    idn: "maka dia akan berteriak, “Celakalah aku!” "
+    },
+    {
+    id: 5896,
+    surah: 84,
+    nomor: 12,
+    ar: "وَّيَصْلٰى سَعِيْرًاۗ ",
+    tr: "waya<u>sh</u>l<u>aa</u> sa'iir<u>aa</u><strong>n</strong>",
+    idn: "Dan dia akan masuk ke dalam api yang menyala-nyala (neraka)."
+    },
+    {
+    id: 5897,
+    surah: 84,
+    nomor: 13,
+    ar: "اِنَّهٗ كَانَ فِيْٓ اَهْلِهٖ مَسْرُوْرًاۗ ",
+    tr: "innahu k<u>aa</u>na fii ahlihi masruur<u>aa</u><strong>n</strong>",
+    idn: "Sungguh, dia dahulu (di dunia) bergembira di kalangan keluarganya (yang sama-sama kafir). "
+    },
+    {
+    id: 5898,
+    surah: 84,
+    nomor: 14,
+    ar: "اِنَّهٗ ظَنَّ اَنْ لَّنْ يَّحُوْرَ ۛ ",
+    tr: "innahu <u>zh</u>anna an lan ya<u>h</u>uur<strong>a</strong>",
+    idn: "Sesungguhnya dia mengira bahwa dia tidak akan kembali (kepada Tuhannya). "
+    },
+    {
+    id: 5899,
+    surah: 84,
+    nomor: 15,
+    ar: "بَلٰىۛ اِنَّ رَبَّهٗ كَانَ بِهٖ بَصِيْرًاۗ ",
+    tr: "bal<u>aa</u> inna rabbahu k<u>aa</u>na bihi ba<u>sh</u>iir<u>aa</u><strong>n</strong>",
+    idn: "Tidak demikian, sesungguhnya Tuhannya selalu melihatnya. "
+    },
+    {
+    id: 5900,
+    surah: 84,
+    nomor: 16,
+    ar: "فَلَآ اُقْسِمُ بِالشَّفَقِۙ ",
+    tr: "fal<u>aa</u> uqsimu bi<strong>al</strong>sysyafaq<strong>i</strong>",
+    idn: "Maka Aku bersumpah demi cahaya merah pada waktu senja, "
+    },
+    {
+    id: 5901,
+    surah: 84,
+    nomor: 17,
+    ar: "وَالَّيْلِ وَمَا وَسَقَۙ ",
+    tr: "wa<strong>a</strong>llayli wam<u>aa</u> wasaq<strong>a</strong>",
+    idn: "demi malam dan apa yang diselubunginya,"
+    },
+    {
+    id: 5902,
+    surah: 84,
+    nomor: 18,
+    ar: "وَالْقَمَرِ اِذَا اتَّسَقَۙ ",
+    tr: "wa<strong>a</strong>lqamari i<u>dzaa</u> ittasaq<strong>a</strong>",
+    idn: "demi bulan apabila jadi purnama,"
+    },
+    {
+    id: 5903,
+    surah: 84,
+    nomor: 19,
+    ar: "لَتَرْكَبُنَّ طَبَقًا عَنْ طَبَقٍۗ ",
+    tr: "latarkabunna <u>th</u>abaqan 'an <u>th</u>abaq<strong>in</strong>",
+    idn: "sungguh, akan kamu jalani tingkat demi tingkat (dalam kehidupan)."
+    },
+    {
+    id: 5904,
+    surah: 84,
+    nomor: 20,
+    ar: "فَمَا لَهُمْ لَا يُؤْمِنُوْنَۙ ",
+    tr: "fam<u>aa</u> lahum l<u>aa</u> yu/minuun<strong>a</strong>",
+    idn: "Maka mengapa mereka tidak mau beriman?"
+    },
+    {
+    id: 5905,
+    surah: 84,
+    nomor: 21,
+    ar: "وَاِذَا قُرِئَ عَلَيْهِمُ الْقُرْاٰنُ لَا يَسْجُدُوْنَ ۗ ۩ ",
+    tr: "wa-i<u>dzaa</u> quri-a 'alayhimu <strong>a</strong>lqur-<u>aa</u>nu l<u>aa</u> yasjuduun<strong>a</strong>",
+    idn: "Dan apabila Al-Qur'an dibacakan kepada mereka, mereka tidak (mau) bersujud,"
+    },
+    {
+    id: 5906,
+    surah: 84,
+    nomor: 22,
+    ar: "بَلِ الَّذِيْنَ كَفَرُوْا يُكَذِّبُوْنَۖ ",
+    tr: "bali <strong>al</strong>la<u>dz</u>iina kafaruu yuka<u>dzdz</u>ibuun<strong>a</strong>",
+    idn: "bahkan orang-orang kafir itu mendustakan(nya)."
+    },
+    {
+    id: 5907,
+    surah: 84,
+    nomor: 23,
+    ar: "وَاللّٰهُ اَعْلَمُ بِمَا يُوْعُوْنَۖ ",
+    tr: "wa<strong>al</strong>l<u>aa</u>hu a'lamu bim<u>aa</u> yuu'uun<strong>a</strong>",
+    idn: "Dan Allah lebih mengetahui apa yang mereka sembunyikan (dalam hati mereka)."
+    },
+    {
+    id: 5908,
+    surah: 84,
+    nomor: 24,
+    ar: "فَبَشِّرْهُمْ بِعَذَابٍ اَلِيْمٍۙ ",
+    tr: "fabasysyirhum bi'a<u>dzaa</u>bin <strong>a</strong>liim<strong>in</strong>",
+    idn: "Maka sampaikanlah kepada mereka (ancaman) azab yang pedih,"
+    },
+    {
+    id: 5909,
+    surah: 84,
+    nomor: 25,
+    ar: "اِلَّا الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ لَهُمْ اَجْرٌ غَيْرُ مَمْنُوْنٍ ࣖ ",
+    tr: "ill<u>aa</u> <strong>al</strong>la<u>dz</u>iina <u>aa</u>manuu wa'amiluu <strong>al</strong><u>shshaa</u>li<u>haa</u>ti lahum ajrun ghayru mamnuun<strong>in</strong>",
+    idn: "kecuali orang-orang yang beriman dan mengerjakan kebajikan, mereka akan mendapat pahala yang tidak putus-putusnya."
+    }
+    ],
+    surat_selanjutnya: {
+    id: 85,
+    nomor: 85,
+    nama: "البروج",
+    nama_latin: "Al-Buruj",
+    jumlah_ayat: 22,
+    tempat_turun: "mekah",
+    arti: "Gugusan Bintang",
+    deskripsi: "Surat Al Buruuj terdiri atas 22 ayat, termasuk golongan surat-surat Makkiyyah diturunkan sesudah surat Asy-Syams.<br>Dinamai <i>Al Buruuj</i> (gugusan bintang) diambil dari perkataan <i>Al Buruuj</i> yang terdapat pada ayat 1 surat ini.",
+    audio: "https://santrikoding.com/storage/audio/085.mp3"
+    },
+    surat_sebelumnya: {
+    id: 83,
+    nomor: 83,
+    nama: "المطفّفين",
+    nama_latin: "Al-Mutaffifin",
+    jumlah_ayat: 36,
+    tempat_turun: "mekah",
+    arti: "Orang-Orang Curang",
+    deskripsi: "Surat ini terdiri atas 36 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al 'Ankabuut dan merupakan  surat yang terakhir di Mekkah sebelum hijrah. <i>Al Muthaffifiin</i>  yang dijadikan nama bagi surat ini diambil dari kata  <i>Al Muthaffifiin</i> yang terdapat pada ayat pertama.",
+    audio: "https://santrikoding.com/storage/audio/083.mp3"
+    }
+    }

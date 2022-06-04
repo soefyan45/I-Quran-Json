@@ -1,0 +1,435 @@
+{
+    status: true,
+    nomor: 77,
+    nama: "المرسلٰت",
+    nama_latin: "Al-Mursalat",
+    jumlah_ayat: 50,
+    tempat_turun: "mekah",
+    arti: "Malaikat Yang Diutus",
+    deskripsi: "Surat Al Mursalaat terdiri atas 50 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al Humazah. Dinamai <i>Al Mursalaat</i> (Malaikat-Malaikat yang diutus), diambil dari perkataan <i>Al Mursalaat</i> yang terdapat pada ayat pertama surat ini. Dinamai juga <i>Amma yatasaa aluun</i> diambil dari perkataan <i>Amma yatasaa aluun</i> yang terdapat pada ayat 1 surat ini.",
+    audio: "https://santrikoding.com/storage/audio/077.mp3",
+    ayat: [
+    {
+    id: 5623,
+    surah: 77,
+    nomor: 1,
+    ar: "وَالْمُرْسَلٰتِ عُرْفًاۙ",
+    tr: "wa<strong>a</strong>lmursal<u>aa</u>ti 'urf<u>aa</u><strong>n</strong>",
+    idn: "Demi (malaikat-malaikat) yang diutus untuk membawa kebaikan,"
+    },
+    {
+    id: 5624,
+    surah: 77,
+    nomor: 2,
+    ar: "فَالْعٰصِفٰتِ عَصْفًاۙ",
+    tr: "fa<strong>a</strong>l'<u>aas</u>if<u>aa</u>ti 'a<u>sh</u>f<u>aa</u><strong>n</strong>",
+    idn: "dan (malaikat-malaikat) yang terbang dengan kencangnya,"
+    },
+    {
+    id: 5625,
+    surah: 77,
+    nomor: 3,
+    ar: "وَّالنّٰشِرٰتِ نَشْرًاۙ",
+    tr: "wa<strong>al</strong>nn<u>aa</u>syir<u>aa</u>ti nasyr<u>aa</u><strong>n</strong>",
+    idn: "dan (malaikat-malaikat) yang menyebarkan (rahmat Allah) dengan seluas-luasnya,"
+    },
+    {
+    id: 5626,
+    surah: 77,
+    nomor: 4,
+    ar: "فَالْفٰرِقٰتِ فَرْقًاۙ",
+    tr: "fa<strong>a</strong>lf<u>aa</u>riq<u>aa</u>ti farq<u>aa</u><strong>n</strong>",
+    idn: "dan (malaikat-malaikat) yang membedakan (antara yang baik dan yang buruk) dengan sejelas-jelasnya,"
+    },
+    {
+    id: 5627,
+    surah: 77,
+    nomor: 5,
+    ar: "فَالْمُلْقِيٰتِ ذِكْرًاۙ",
+    tr: "fa<strong>a</strong>lmulqiy<u>aa</u>ti <u>dz</u>ikr<u>aa</u><strong>n</strong>",
+    idn: "dan (malaikat-malaikat) yang menyampaikan wahyu,"
+    },
+    {
+    id: 5628,
+    surah: 77,
+    nomor: 6,
+    ar: "عُذْرًا اَوْ نُذْرًاۙ",
+    tr: "'u<u>dz</u>ran aw nu<u>dz</u>ra<strong>n</strong>",
+    idn: "untuk menolak alasan-alasan atau memberi peringatan."
+    },
+    {
+    id: 5629,
+    surah: 77,
+    nomor: 7,
+    ar: "اِنَّمَا تُوْعَدُوْنَ لَوَاقِعٌۗ",
+    tr: "innam<u>aa</u> tuu'aduuna law<u>aa</u>qi'<strong>un</strong>",
+    idn: "Sungguh, apa yang dijanjikan kepadamu pasti terjadi."
+    },
+    {
+    id: 5630,
+    surah: 77,
+    nomor: 8,
+    ar: "فَاِذَا النُّجُوْمُ طُمِسَتْۙ",
+    tr: "fa-i<u>dzaa</u> <strong>al</strong>nnujuumu <u>th</u>umisath",
+    idn: "Maka apabila bintang-bintang dihapuskan,"
+    },
+    {
+    id: 5631,
+    surah: 77,
+    nomor: 9,
+    ar: "وَاِذَا السَّمَاۤءُ فُرِجَتْۙ",
+    tr: "wa-i<u>dzaa</u> <strong>al</strong>ssam<u>aa</u>u furijath",
+    idn: "dan apabila langit terbelah,"
+    },
+    {
+    id: 5632,
+    surah: 77,
+    nomor: 10,
+    ar: "وَاِذَا الْجِبَالُ نُسِفَتْۙ",
+    tr: "wa-i<u>dzaa</u> <strong>a</strong>ljib<u>aa</u>lu nusifath",
+    idn: "dan apabila gunung-gunung dihancurkan menjadi debu,"
+    },
+    {
+    id: 5633,
+    surah: 77,
+    nomor: 11,
+    ar: "وَاِذَا الرُّسُلُ اُقِّتَتْۗ",
+    tr: "wa-i<u>dzaa</u> <strong>al</strong>rrusulu uqqitat",
+    idn: "dan apabila rasul-rasul telah ditetapkan waktunya."
+    },
+    {
+    id: 5634,
+    surah: 77,
+    nomor: 12,
+    ar: "لِاَيِّ يَوْمٍ اُجِّلَتْۗ",
+    tr: "li-ayyi yawmin ujjilat",
+    idn: "(Niscaya dikatakan kepada mereka), “Sampai hari apakah ditangguhkan (azab orang-orang kafir itu)?”"
+    },
+    {
+    id: 5635,
+    surah: 77,
+    nomor: 13,
+    ar: "لِيَوْمِ الْفَصْلِۚ",
+    tr: "liyawmi <strong>a</strong>lfa<u>sh</u>l<strong>i</strong>",
+    idn: "Sampai hari keputusan."
+    },
+    {
+    id: 5636,
+    surah: 77,
+    nomor: 14,
+    ar: "وَمَآ اَدْرٰىكَ مَا يَوْمُ الْفَصْلِۗ",
+    tr: "wam<u>aa</u> adr<u>aa</u>ka m<u>aa</u> yawmu <strong>a</strong>lfa<u>sh</u>l<strong>i</strong>",
+    idn: "Dan tahukah kamu apakah hari ke-putusan itu?"
+    },
+    {
+    id: 5637,
+    surah: 77,
+    nomor: 15,
+    ar: "وَيْلٌ يَّوْمَىِٕذٍ لِّلْمُكَذِّبِيْنَ ",
+    tr: "waylun yawma-i<u>dz</u>in lilmuka<u>dzdz</u>ibiin<strong>a</strong>",
+    idn: "Celakalah pada hari itu, bagi mereka yang mendustakan (kebenaran)."
+    },
+    {
+    id: 5638,
+    surah: 77,
+    nomor: 16,
+    ar: "اَلَمْ نُهْلِكِ الْاَوَّلِيْنَۗ",
+    tr: "alam nuhliki <strong>a</strong>l-awwaliin<strong>a</strong>",
+    idn: "Bukankah telah Kami binasakan orang-orang yang dahulu?"
+    },
+    {
+    id: 5639,
+    surah: 77,
+    nomor: 17,
+    ar: "ثُمَّ نُتْبِعُهُمُ الْاٰخِرِيْنَ ",
+    tr: "tsumma nutbi'uhumu <strong>a</strong>l-<u>aa</u>khiriin<strong>a</strong>",
+    idn: "Lalu Kami susulkan (azab Kami terhadap) orang-orang yang datang kemudian."
+    },
+    {
+    id: 5640,
+    surah: 77,
+    nomor: 18,
+    ar: "كَذٰلِكَ نَفْعَلُ بِالْمُجْرِمِيْنَ ",
+    tr: "ka<u>dzaa</u>lika naf'alu bi<strong>a</strong>lmujrimiin<strong>a</strong>",
+    idn: "Demikianlah Kami perlakukan orang-orang yang berdosa."
+    },
+    {
+    id: 5641,
+    surah: 77,
+    nomor: 19,
+    ar: "وَيْلٌ يَّوْمَىِٕذٍ لِّلْمُكَذِّبِيْنَ ",
+    tr: "waylun yawma-i<u>dz</u>in lilmuka<u>dzdz</u>ibiin<strong>a</strong>",
+    idn: "Celakalah pada hari itu, bagi mereka yang mendustakan (kebenaran)."
+    },
+    {
+    id: 5642,
+    surah: 77,
+    nomor: 20,
+    ar: "اَلَمْ نَخْلُقْكُّمْ مِّنْ مَّاۤءٍ مَّهِيْنٍۙ",
+    tr: "alam nakhluqkum min m<u>aa</u>-in mahiin<strong>in</strong>",
+    idn: "Bukankah Kami menciptakan kamu dari air yang hina (mani),"
+    },
+    {
+    id: 5643,
+    surah: 77,
+    nomor: 21,
+    ar: "فَجَعَلْنٰهُ فِيْ قَرَارٍ مَّكِيْنٍ",
+    tr: "faja'aln<u>aa</u>hu fii qar<u>aa</u>rin makiin<strong>in</strong>",
+    idn: "kemudian Kami letakkan ia dalam tempat yang kokoh (rahim),"
+    },
+    {
+    id: 5644,
+    surah: 77,
+    nomor: 22,
+    ar: "اِلٰى قَدَرٍ مَّعْلُوْمٍۙ",
+    tr: "il<u>aa</u> qadarin ma'luum<strong>in</strong>",
+    idn: "sampai waktu yang ditentukan,"
+    },
+    {
+    id: 5645,
+    surah: 77,
+    nomor: 23,
+    ar: "فَقَدَرْنَاۖ فَنِعْمَ الْقٰدِرُوْنَ ",
+    tr: "faqadarn<u>aa</u> fani'ma <strong>a</strong>lq<u>aa</u>diruun<strong>a</strong>",
+    idn: "lalu Kami tentukan (bentuknya), maka (Kamilah) sebaik-baik yang menentukan."
+    },
+    {
+    id: 5646,
+    surah: 77,
+    nomor: 24,
+    ar: "وَيْلٌ يَّوْمَىِٕذٍ لِّلْمُكَذِّبِيْنَ ",
+    tr: "waylun yawma-i<u>dz</u>in lilmuka<u>dzdz</u>ibiin<strong>a</strong>",
+    idn: "Celakalah pada hari itu, bagi mereka yang mendustakan (kebenaran)."
+    },
+    {
+    id: 5647,
+    surah: 77,
+    nomor: 25,
+    ar: "اَلَمْ نَجْعَلِ الْاَرْضَ كِفَاتًاۙ",
+    tr: "alam naj'ali <strong>a</strong>l-ar<u>dh</u>a kif<u>aa</u>t<u>aa</u><strong>n</strong>",
+    idn: "Bukankah Kami jadikan bumi untuk (tempat) berkumpul,"
+    },
+    {
+    id: 5648,
+    surah: 77,
+    nomor: 26,
+    ar: "اَحْيَاۤءً وَّاَمْوَاتًاۙ",
+    tr: "a<u>h</u>y<u>aa</u>-an wa-amw<u>aa</u>t<u>aa</u><strong>n</strong>",
+    idn: "bagi yang masih hidup dan yang sudah mati?"
+    },
+    {
+    id: 5649,
+    surah: 77,
+    nomor: 27,
+    ar: "وَّجَعَلْنَا فِيْهَا رَوَاسِيَ شٰمِخٰتٍ وَّاَسْقَيْنٰكُمْ مَّاۤءً فُرَاتًاۗ",
+    tr: "waja'aln<u>aa</u> fiih<u>aa</u> raw<u>aa</u>siya sy<u>aa</u>mikh<u>aa</u>tin wa-asqayn<u>aa</u>kum m<u>aa</u>-an fur<u>aa</u>t<u>aa</u><strong>n</strong>",
+    idn: "Dan Kami jadikan padanya gunung-gunung yang tinggi, dan Kami beri minum kamu dengan air tawar?"
+    },
+    {
+    id: 5650,
+    surah: 77,
+    nomor: 28,
+    ar: "وَيْلٌ يَّوْمَىِٕذٍ لِّلْمُكَذِّبِيْنَ ",
+    tr: "waylun yawma-i<u>dz</u>in lilmuka<u>dzdz</u>ibiin<strong>a</strong>",
+    idn: "Celakalah pada hari itu, bagi mereka yang mendustakan (kebenaran)."
+    },
+    {
+    id: 5651,
+    surah: 77,
+    nomor: 29,
+    ar: "اِنْطَلِقُوْٓا اِلٰى مَا كُنْتُمْ بِهٖ تُكَذِّبُوْنَۚ",
+    tr: "in<u>th</u>aliquu il<u>aa</u> m<u>aa</u> kuntum bihi tuka<u>dzdz</u>ibuun<strong>a</strong>",
+    idn: "(Akan dikatakan), “Pergilah kamu mendapatkan apa (azab) yang dahulu kamu dustakan."
+    },
+    {
+    id: 5652,
+    surah: 77,
+    nomor: 30,
+    ar: "اِنْطَلِقُوْٓا اِلٰى ظِلٍّ ذِيْ ثَلٰثِ شُعَبٍ ",
+    tr: "in<u>th</u>aliquu il<u>aa</u> <u>zh</u>illin <u>dz</u>ii tsal<u>aa</u>tsi syu'ab<strong>in</strong>",
+    idn: "Pergilah kamu mendapatkan naungan (asap api neraka) yang mempunyai tiga cabang, "
+    },
+    {
+    id: 5653,
+    surah: 77,
+    nomor: 31,
+    ar: "لَا ظَلِيْلٍ وَّلَا يُغْنِيْ مِنَ اللَّهَبِۗ",
+    tr: "<u>aa</u> <u>zh</u>aliilin wal<u>aa</u> yughnii mina <strong>al</strong>lahab<strong>i</strong>",
+    idn: "yang tidak melindungi dan tidak pula menolak nyala api neraka.” "
+    },
+    {
+    id: 5654,
+    surah: 77,
+    nomor: 32,
+    ar: "اِنَّهَا تَرْمِيْ بِشَرَرٍ كَالْقَصْرِۚ",
+    tr: "innah<u>aa</u> tarmii bisyararin ka<strong>a</strong>lqa<u>sh</u>r<strong>i</strong>",
+    idn: "Sungguh, (neraka) itu menyemburkan bunga api (sebesar dan setinggi) istana, "
+    },
+    {
+    id: 5655,
+    surah: 77,
+    nomor: 33,
+    ar: "كَاَنَّهٗ جِمٰلَتٌ صُفْرٌۗ",
+    tr: "ka-annahu jim<u>aa</u>latun <u>sh</u>ufr<strong>un</strong>",
+    idn: "seakan-akan iring-iringan unta yang kuning."
+    },
+    {
+    id: 5656,
+    surah: 77,
+    nomor: 34,
+    ar: "وَيْلٌ يَّوْمَىِٕذٍ لِّلْمُكَذِّبِيْنَ ",
+    tr: "waylun yawma-i<u>dz</u>in lilmuka<u>dzdz</u>ibiin<strong>a</strong>",
+    idn: "Celakalah pada hari itu, bagi mereka yang mendustakan (kebenaran). "
+    },
+    {
+    id: 5657,
+    surah: 77,
+    nomor: 35,
+    ar: "هٰذَا يَوْمُ لَا يَنْطِقُوْنَۙ",
+    tr: "h<u>aadzaa</u> yawmu l<u>aa</u> yan<u>th</u>iquun<strong>a</strong>",
+    idn: "Inilah hari, saat mereka tidak dapat berbicara, "
+    },
+    {
+    id: 5658,
+    surah: 77,
+    nomor: 36,
+    ar: "وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُوْنَ ",
+    tr: "wal<u>aa</u> yu/<u>dz</u>anu lahum faya'ta<u>dz</u>iruun<strong>a</strong>",
+    idn: "dan tidak diizinkan kepada mereka mengemukakan alasan agar mereka dimaafkan. "
+    },
+    {
+    id: 5659,
+    surah: 77,
+    nomor: 37,
+    ar: "وَيْلٌ يَّوْمَىِٕذٍ لِّلْمُكَذِّبِيْنَ ",
+    tr: "waylun yawma-i<u>dz</u>in lilmuka<u>dzdz</u>ibiin<strong>a</strong>",
+    idn: "Celakalah pada hari itu, bagi mereka yang mendustakan (kebenaran). "
+    },
+    {
+    id: 5660,
+    surah: 77,
+    nomor: 38,
+    ar: "هٰذَا يَوْمُ الْفَصْلِ جَمَعْنٰكُمْ وَالْاَوَّلِيْنَ ",
+    tr: "h<u>aadzaa</u> yawmu <strong>a</strong>lfa<u>sh</u>li jama'n<u>aa</u>kum wa<strong>a</strong>l-awwaliin<strong>a</strong>",
+    idn: "Inilah hari keputusan; (pada hari ini) Kami kumpulkan kamu dan orang-orang yang terdahulu. "
+    },
+    {
+    id: 5661,
+    surah: 77,
+    nomor: 39,
+    ar: "فَاِنْ كَانَ لَكُمْ كَيْدٌ فَكِيْدُوْنِ ",
+    tr: "fa-in k<u>aa</u>na lakum kaydun fakiiduun<strong>i</strong>",
+    idn: "Maka jika kamu punya tipu daya, maka lakukanlah (tipu daya) itu terhadap-Ku. "
+    },
+    {
+    id: 5662,
+    surah: 77,
+    nomor: 40,
+    ar: "وَيْلٌ يَّوْمَىِٕذٍ لِّلْمُكَذِّبِيْنَ ࣖ ",
+    tr: "waylun yawma-i<u>dz</u>in lilmuka<u>dzdz</u>ibiin<strong>a</strong>",
+    idn: "Celakalah pada hari itu, bagi mereka yang mendustakan (kebenaran)."
+    },
+    {
+    id: 5663,
+    surah: 77,
+    nomor: 41,
+    ar: "اِنَّ الْمُتَّقِيْنَ فِيْ ظِلٰلٍ وَّعُيُوْنٍۙ",
+    tr: "inna <strong>a</strong>lmuttaqiina fii <u>zh</u>il<u>aa</u>lin wa'uyuun<strong>in</strong>",
+    idn: "Sungguh, orang-orang yang bertakwa berada dalam naungan (pepohonan surga yang teduh) dan (di sekitar) mata air, "
+    },
+    {
+    id: 5664,
+    surah: 77,
+    nomor: 42,
+    ar: "وَّفَوَاكِهَ مِمَّا يَشْتَهُوْنَۗ",
+    tr: "wafaw<u>aa</u>kiha mimm<u>aa</u> yasytahuun<strong>a</strong>",
+    idn: "dan buah-buahan yang mereka sukai. "
+    },
+    {
+    id: 5665,
+    surah: 77,
+    nomor: 43,
+    ar: "كُلُوْا وَاشْرَبُوْا هَنِيْۤـًٔا ۢبِمَا كُنْتُمْ تَعْمَلُوْنَ ",
+    tr: "kuluu wa<strong>i</strong>syrabuu hanii-an bim<u>aa</u> kuntum ta'maluun<strong>a</strong>",
+    idn: "(Katakan kepada mereka), “Makan dan minumlah dengan rasa nikmat sebagai balasan dari apa yang telah kamu kerjakan.” "
+    },
+    {
+    id: 5666,
+    surah: 77,
+    nomor: 44,
+    ar: "اِنَّا كَذٰلِكَ نَجْزِى الْمُحْسِنِيْنَ ",
+    tr: "inn<u>aa</u> ka<u>dzaa</u>lika najzii <strong>a</strong>lmu<u>h</u>siniin<strong>a</strong>",
+    idn: "Sungguh, demikianlah Kami memberi balasan kepada orang-orang yang berbuat baik. "
+    },
+    {
+    id: 5667,
+    surah: 77,
+    nomor: 45,
+    ar: "وَيْلٌ يَّوْمَىِٕذٍ لِّلْمُكَذِّبِيْنَ ",
+    tr: "waylun yawma-i<u>dz</u>in lilmuka<u>dzdz</u>ibiin<strong>a</strong>",
+    idn: "Celakalah pada hari itu, bagi mereka yang mendustakan (kebenaran). "
+    },
+    {
+    id: 5668,
+    surah: 77,
+    nomor: 46,
+    ar: "كُلُوْا وَتَمَتَّعُوْا قَلِيْلًا اِنَّكُمْ مُّجْرِمُوْنَ ",
+    tr: "kuluu watamatta'uu qaliilan innakum mujrimuun<strong>a</strong>",
+    idn: "(Katakan kepada orang-orang kafir), “Makan dan bersenang-senanglah kamu (di dunia) sebentar, sesungguhnya kamu orang-orang durhaka!”"
+    },
+    {
+    id: 5669,
+    surah: 77,
+    nomor: 47,
+    ar: "وَيْلٌ يَّوْمَىِٕذٍ لِّلْمُكَذِّبِيْنَ ",
+    tr: "waylun yawma-i<u>dz</u>in lilmuka<u>dzdz</u>ibiin<strong>a</strong>",
+    idn: "Celakalah pada hari itu, bagi mereka yang mendustakan (kebenaran). "
+    },
+    {
+    id: 5670,
+    surah: 77,
+    nomor: 48,
+    ar: "وَاِذَا قِيْلَ لَهُمُ ارْكَعُوْا لَا يَرْكَعُوْنَ ",
+    tr: "wa-i<u>dzaa</u> qiila lahumu irka'uu l<u>aa</u> yarka'uun<strong>a</strong>",
+    idn: "Dan apabila dikatakan kepada mereka, “Rukuklah,” mereka tidak mau rukuk."
+    },
+    {
+    id: 5671,
+    surah: 77,
+    nomor: 49,
+    ar: "وَيْلٌ يَّوْمَىِٕذٍ لِّلْمُكَذِّبِيْنَ ",
+    tr: "waylun yawma-i<u>dz</u>in lilmuka<u>dzdz</u>ibiin<strong>a</strong>",
+    idn: "Celakalah pada hari itu, bagi mereka yang mendustakan (kebenaran)! "
+    },
+    {
+    id: 5672,
+    surah: 77,
+    nomor: 50,
+    ar: "فَبِاَيِّ حَدِيْثٍۢ بَعْدَهٗ يُؤْمِنُوْنَ ࣖ   ۔",
+    tr: "fabi-ayyi <u>h</u>adiitsin ba'dahu yu/minuun<strong>a</strong>",
+    idn: "Maka kepada ajaran manakah (selain Al-Qur'an) ini mereka akan beriman?"
+    }
+    ],
+    surat_selanjutnya: {
+    id: 78,
+    nomor: 78,
+    nama: "النبأ",
+    nama_latin: "An-Naba'",
+    jumlah_ayat: 40,
+    tempat_turun: "mekah",
+    arti: "Berita Besar",
+    deskripsi: "Surat An NabaÂ´ terdiri atas 40 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al MaÂ´aarij. <br>Dinamai <i>An NabaÂ´</i> (berita besar) diambil dari perkataan <i>An NabaÂ´</i> yang terdapat pada ayat 2 surat ini. Dinamai juga <i>Amma yatasaa aluun</i> diambil dari perkataan <i>Amma yatasaa aluun</i> yang terdapat pada ayat 1 surat ini.",
+    audio: "https://santrikoding.com/storage/audio/078.mp3"
+    },
+    surat_sebelumnya: {
+    id: 76,
+    nomor: 76,
+    nama: "الانسان",
+    nama_latin: "Al-Insan",
+    jumlah_ayat: 31,
+    tempat_turun: "madinah",
+    arti: "Manusia",
+    deskripsi: "Surat Al Insaan terdiri atas 31 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Ar Rahmaan. Dinamai <i>al Insaan</i> (manusia) diambil dari perkataan <i>Al Insaan</i> yang terdapat pada ayat pertama surat ini.",
+    audio: "https://santrikoding.com/storage/audio/076.mp3"
+    }
+    }

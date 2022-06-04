@@ -1,0 +1,123 @@
+{
+    status: true,
+    nomor: 101,
+    nama: "القارعة",
+    nama_latin: "Al-Qari'ah",
+    jumlah_ayat: 11,
+    tempat_turun: "mekah",
+    arti: "Hari Kiamat",
+    deskripsi: "Surat ini terdiri atas 11 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Quraisy. Nama <i>Al Qaari'ah</i> diambil dari kata <i>Al Qaari'ah</i> yang terdapat pada ayat pertama, artinya mengetok dengan keras, kemudian kata ini dipakai untuk nama hari kiamat.",
+    audio: "https://santrikoding.com/storage/audio/101.mp3",
+    ayat: [
+    {
+    id: 6158,
+    surah: 101,
+    nomor: 1,
+    ar: "اَلْقَارِعَةُۙ",
+    tr: "alq<u>aa</u>ri'a<strong>tu</strong>",
+    idn: "Hari Kiamat,"
+    },
+    {
+    id: 6159,
+    surah: 101,
+    nomor: 2,
+    ar: "مَا الْقَارِعَةُ ۚ",
+    tr: "m<u>aa</u> <strong>a</strong>lq<u>aa</u>ri'a<strong>tu</strong>",
+    idn: "Apakah hari Kiamat itu?"
+    },
+    {
+    id: 6160,
+    surah: 101,
+    nomor: 3,
+    ar: "وَمَآ اَدْرٰىكَ مَا الْقَارِعَةُ ۗ",
+    tr: "wam<u>aa</u> adr<u>aa</u>ka m<u>aa</u> <strong>a</strong>lq<u>aa</u>ri'a<strong>tu</strong>",
+    idn: "Dan tahukah kamu apakah hari Kiamat itu?"
+    },
+    {
+    id: 6161,
+    surah: 101,
+    nomor: 4,
+    ar: "يَوْمَ يَكُوْنُ النَّاسُ كَالْفَرَاشِ الْمَبْثُوْثِۙ",
+    tr: "yawma yakuunu <strong>al</strong>nn<u>aa</u>su ka<strong>a</strong>lfar<u>aa</u>syi <strong>a</strong>lmabtsuuts<strong>i</strong>",
+    idn: "Pada hari itu manusia seperti laron yang beterbangan,"
+    },
+    {
+    id: 6162,
+    surah: 101,
+    nomor: 5,
+    ar: "وَتَكُوْنُ الْجِبَالُ كَالْعِهْنِ الْمَنْفُوْشِۗ",
+    tr: "watakuunu <strong>a</strong>ljib<u>aa</u>lu ka<strong>a</strong>l'ihni <strong>a</strong>lmanfuusy<strong>i</strong>",
+    idn: "dan gunung-gunung seperti bulu yang dihambur-hamburkan."
+    },
+    {
+    id: 6163,
+    surah: 101,
+    nomor: 6,
+    ar: "فَاَمَّا مَنْ ثَقُلَتْ مَوَازِينُهٗۙ",
+    tr: "fa-amm<u>aa</u> man tsaqulat maw<u>aa</u>ziinuh<strong>u</strong>",
+    idn: "Maka adapun orang yang berat timbangan (kebaikan)nya,"
+    },
+    {
+    id: 6164,
+    surah: 101,
+    nomor: 7,
+    ar: "فَهُوَ فِيْ عِيْشَةٍ رَّاضِيَةٍۗ",
+    tr: "fahuwa fii 'iisyatin r<u>aad</u>iya<strong>tin</strong>",
+    idn: "maka dia berada dalam kehidupan yang memuaskan (senang)."
+    },
+    {
+    id: 6165,
+    surah: 101,
+    nomor: 8,
+    ar: "وَاَمَّا مَنْ خَفَّتْ مَوَازِيْنُهٗۙ",
+    tr: "wa-amm<u>aa</u> man khaffat maw<u>aa</u>ziinuh<strong>u</strong>",
+    idn: "Dan adapun orang yang ringan timbangan (kebaikan)nya,"
+    },
+    {
+    id: 6166,
+    surah: 101,
+    nomor: 9,
+    ar: "فَاُمُّهُ هَاوِيَةٌ  ۗ",
+    tr: "faummuhu h<u>aa</u>wiya<strong>tun</strong>",
+    idn: "maka tempat kembalinya adalah neraka Hawiyah."
+    },
+    {
+    id: 6167,
+    surah: 101,
+    nomor: 10,
+    ar: "وَمَآ اَدْرٰىكَ مَا هِيَهْۗ",
+    tr: "wam<u>aa</u> adr<u>aa</u>ka m<u>aa</u> hiya<strong>h</strong>",
+    idn: "Dan tahukah kamu apakah neraka Hawiyah itu?"
+    },
+    {
+    id: 6168,
+    surah: 101,
+    nomor: 11,
+    ar: "نَارٌ حَامِيَةٌ ࣖ",
+    tr: "n<u>aa</u>run <u>haa</u>miya<strong>tun</strong>",
+    idn: "(Yaitu) api yang sangat panas."
+    }
+    ],
+    surat_selanjutnya: {
+    id: 102,
+    nomor: 102,
+    nama: "التكاثر",
+    nama_latin: "At-Takasur",
+    jumlah_ayat: 8,
+    tempat_turun: "mekah",
+    arti: "Bermegah-Megahan",
+    deskripsi: "Surat At Takaatsur terdiri atas 8 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Kautsar. Dinamai <i>At Takaatsur</i> (bermegah-megahan) diambil dari perkataan <i>At Takaatsur</i> yang terdapat pada ayat pertama surat ini.",
+    audio: "https://santrikoding.com/storage/audio/102.mp3"
+    },
+    surat_sebelumnya: {
+    id: 100,
+    nomor: 100,
+    nama: "العٰديٰت",
+    nama_latin: "Al-'Adiyat",
+    jumlah_ayat: 11,
+    tempat_turun: "mekah",
+    arti: "Kuda Yang Berlari Kencang",
+    deskripsi: "Surat ini terdiri atas 11 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al'Ashr. Nama <i>Al 'Aadiyaat</i> diambil dari kata <i>Al 'Aadiyaat</i> yang terdapat pada ayat pertama surat ini, artinya yang berlari kencang.",
+    audio: "https://santrikoding.com/storage/audio/100.mp3"
+    }
+    }
